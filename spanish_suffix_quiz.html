@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Spanish Suffix Patterns Quiz</title>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Helvetica,Arial,sans-serif;line-height:1.4;margin:24px;background:#fafafa;color:#111}
+    .card{background:#fff;border:1px solid #e5e7eb;border-radius:14px;padding:18px;box-shadow:0 1px 2px rgba(0,0,0,.04);margin-bottom:16px}
+    .row{display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+    button{cursor:pointer;border:1px solid #111;background:#111;color:#fff;border-radius:10px;padding:10px 14px}
+    button.ghost{background:#fff;color:#111}
+    input,textarea,select{border:1px solid #cbd5e1;border-radius:10px;padding:10px;width:100%}
+    .muted{color:#6b7280}
+    .ok{color:#065f46}
+    .bad{color:#991b1b}
+    code{background:#f3f4f6;padding:2px 6px;border-radius:6px}
+    .hidden{display:none}
+    .pill{display:inline-block;padding:4px 8px;border-radius:999px;background:#eef2ff;color:#3730a3;margin:2px 4px}
+    table{border-collapse:collapse;width:100%}
+    th,td{border:1px solid #e5e7eb;padding:8px;text-align:left}
+    th{background:#f9fafb}
+  </style>
+</head>
+<body>
+  <h1>Spanish Suffix Patterns Quiz</h1>
+  <p class="muted">Practice cognate suffix rules, translate words, and read short political sentences built from the examples.</p>
+
+  <div class="card">
+    <div class="row">
+      <button id="mode1Btn">Mode 1: Recall Rules</button>
+      <button id="mode2Btn" class="ghost">Mode 2: Translate Words</button>
+      <button id="mode3Btn" class="ghost">Mode 3: Read & Translate Sentences</button>
+      <span class="muted">Tip: comparisons ignore accents & case.</span>
+    </div>
+  </div>
+
+  <div id="mode1" class="card">
+    <h2>Mode 1 — Write all pattern rules from memory</h2>
+    <p>Type each rule on a new line as <code>EnglishSuffix -> SpanishSuffix</code>. Example: <code>ation -> ación</code></p>
+    <textarea id="rulesInput" rows="10" placeholder="ible -> ible\nal -> al\n...\n"></textarea>
+    <div class="row" style="margin-top:10px">
+      <button id="checkRules">Check</button>
+      <button class="ghost" id="showAnswer1">Show Answers</button>
+    </div>
+    <div id="rulesResult" class="muted" style="margin-top:8px"></div>
+  </div>
+
+  <div id="mode2" class="card hidden">
+    <h2>Mode 2 — Translate the English word using the pattern</h2>
+    <div class="row">
+      <button id="nextWord">Next Word</button>
+      <button class="ghost" id="peek">Hint</button>
+      <div id="patternHint" class="pill hidden"></div>
+    </div>
+    <h3 id="engWord" style="margin:12px 0"></h3>
+    <div class="row">
+      <input id="spanGuess" placeholder="Type the Spanish translation" />
+      <button id="checkWord">Check</button>
+    </div>
+    <div id="wordResult" style="margin-top:8px" class="muted"></div>
+    <div class="card" style="margin-top:16px">
+      <details>
+        <summary>View all patterns & examples</summary>
+        <div id="patternTable"></div>
+      </details>
+    </div>
+  </div>
+
+  <div id="mode3" class="card hidden">
+    <h2>Mode 3 — Political mini‑readings from the examples</h2>
+    <p class="muted">Try to translate them to English in your head, then expand with your own variations.</p>
+    <ol id="sentences"></ol>
+  </div>
+
+  <script>
+  // --- DATA: Patterns + Examples (JSON) ---
+  const PATTERNS = [
+    {name:"-ible/-able rule", eng_suffix:"ible/able", spa_suffix:"ible/able", examples:[
+      {en:"possible", es:"posible"}, {en:"acceptable", es:"aceptable"}
+    ]},
+    {name:"-al rule", eng_suffix:"al", spa_suffix:"al", examples:[
+      {en:"central", es:"central"}, {en:"total", es:"total"}
+    ]},
+    {name:"-or rule", eng_suffix:"or", spa_suffix:"or", examples:[
+      {en:"actor", es:"actor"}, {en:"motor", es:"motor"}
+    ]},
+    {name:"-ación rule", eng_suffix:"ation", spa_suffix:"ación", examples:[
+      {en:"creation", es:"creación"}, {en:"organization", es:"organización"}
+    ]},
+    {name:"-ico rule", eng_suffix:"ic/ical", spa_suffix:"ico", examples:[
+      {en:"basic", es:"básico"}, {en:"political", es:"político"}
+    ]},
+    {name:"-ante/-ente rule", eng_suffix:"ant/ent", spa_suffix:"ante/ente", examples:[
+      {en:"important", es:"importante"}, {en:"different", es:"diferente"}
+    ]},
+    {name:"-dad rule", eng_suffix:"ty", spa_suffix:"dad", examples:[
+      {en:"university", es:"universidad"}, {en:"activity", es:"actividad"}
+    ]},
+    {name:"-oso rule", eng_suffix:"ous", spa_suffix:"oso", examples:[
+      {en:"dangerous", es:"peligroso"}, {en:"curious", es:"curioso"}
+    ]},
+    {name:"-ud rule", eng_suffix:"ude", spa_suffix:"ud", examples:[
+      {en:"gratitude", es:"gratitud"}, {en:"multitude", es:"multitud"}
+    ]},
+    {name:"-ido rule", eng_suffix:"id", spa_suffix:"ido", examples:[
+      {en:"fluid", es:"fluido"}, {en:"rapid", es:"rápido"}
+    ]},
+    {name:"-ivo rule", eng_suffix:"ive", spa_suffix:"ivo", examples:[
+      {en:"active", es:"activo"}, {en:"creative", es:"creativo"}
+    ]},
+    {name:"-mo rule", eng_suffix:"mum", spa_suffix:"mo", examples:[
+      {en:"maximum", es:"máximo"}, {en:"minimum", es:"mínimo"}
+    ]},
+    {name:"-smo rule", eng_suffix:"sm", spa_suffix:"smo", examples:[
+      {en:"tourism", es:"turismo"}, {en:"capitalism", es:"capitalismo"}
+    ]},
+    {name:"-ario rule", eng_suffix:"ary", spa_suffix:"ario", examples:[
+      {en:"dictionary", es:"diccionario"}, {en:"salary", es:"salario"}
+    ]},
+    {name:"-oria rule", eng_suffix:"ory", spa_suffix:"oria", examples:[
+      {en:"history", es:"historia"}, {en:"memory", es:"memoria"}
+    ]},
+    {name:"-ada rule", eng_suffix:"ade", spa_suffix:"ada", examples:[
+      {en:"lemonade", es:"limonada"}, {en:"brigade", es:"brigada"}
+    ]},
+    {name:"-ista rule", eng_suffix:"ist", spa_suffix:"ista", examples:[
+      {en:"artist", es:"artista"}, {en:"socialist", es:"socialista"}
+    ]},
+    {name:"-ura rule", eng_suffix:"ure", spa_suffix:"ura", examples:[
+      {en:"agriculture", es:"agricultura"}, {en:"structure", es:"estructura"}
+    ]},
+    {name:"-ecto rule", eng_suffix:"ect", spa_suffix:"ecto", examples:[
+      {en:"defect", es:"defecto"}, {en:"insect", es:"insecto"}
+    ]},
+    {name:"-ado rule", eng_suffix:"zed/ted", spa_suffix:"ado", examples:[
+      {en:"organized", es:"organizado"}, {en:"painted", es:"pintado"}
+    ]}
+  ];
+
+  // --- Helper functions ---
+  const strip = s => s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim();
+  const shuffle = arr => arr.sort(()=>Math.random()-0.5);
+
+  // Render table for reference
+  function renderPatternTable(){
+    const rows = PATTERNS.map(p=>{
+      const ex = p.examples.map(e=>`${e.en} → <b>${e.es}</b>`).join('<br/>');
+      return `<tr><td><b>${p.name}</b></td><td><code>${p.eng_suffix}</code></td><td><code>${p.spa_suffix}</code></td><td>${ex}</td></tr>`;
+    }).join('');
+    document.getElementById('patternTable').innerHTML = `
+      <table>
+        <thead><tr><th>Pattern</th><th>English Suffix</th><th>Spanish Suffix</th><th>Examples</th></tr></thead>
+        <tbody>${rows}</tbody>
+      </table>`;
+  }
+
+  // --- Mode 1 ---
+  document.getElementById('checkRules').onclick = ()=>{
+    const input = document.getElementById('rulesInput').value.split(/\n+/).map(l=>l.trim()).filter(Boolean);
+    const target = PATTERNS.map(p=>`${p.eng_suffix} -> ${p.spa_suffix}`);
+    const norm = s=>strip(s.replace(/\s+/g,'')).replace(/->/g,'→');
+    const gold = target.map(norm);
+    const got = input.map(line=>norm(line.replace(/->/,'→')));
+    let correct = 0; const misses=[];
+    gold.forEach((g,i)=>{ if(got.includes(g)) correct++; else misses.push(target[i]); });
+    const score = `${correct}/${gold.length}`;
+    document.getElementById('rulesResult').innerHTML = correct===gold.length
+      ? `<span class="ok">Perfect! ${score}</span>`
+      : `<span class="bad">${score} — missing:</span><br>` + misses.map(m=>`• ${m}`).join('<br>');
+  };
+  document.getElementById('showAnswer1').onclick = ()=>{
+    const key = PATTERNS.map(p=>`${p.eng_suffix} -> ${p.spa_suffix}`).join('\n');
+    document.getElementById('rulesInput').value = key;
+  };
+
+  // --- Mode 2 ---
+  let pool = [];
+  function resetPool(){ pool = PATTERNS.flatMap(p=>p.examples.map(ex=>({pattern:p, ex}))); shuffle(pool);} resetPool();
+  let current = null;
+  function next(){ if(pool.length===0) resetPool(); current = pool.pop();
+    document.getElementById('engWord').textContent = current.ex.en;
+    document.getElementById('spanGuess').value='';
+    document.getElementById('wordResult').textContent='';
+    document.getElementById('patternHint').classList.add('hidden');
+    document.getElementById('patternHint').textContent = `${current.pattern.name}: ${current.pattern.eng_suffix} → ${current.pattern.spa_suffix}`;
+  }
+  document.getElementById('nextWord').onclick = next;
+  document.getElementById('peek').onclick = ()=>{
+    document.getElementById('patternHint').classList.toggle('hidden');
+  };
+  document.getElementById('checkWord').onclick = ()=>{
+    const guess = document.getElementById('spanGuess').value;
+    const ok = strip(guess) === strip(current.ex.es);
+    document.getElementById('wordResult').innerHTML = ok
+      ? `<span class="ok">✔ Correct: ${current.ex.es}</span>`
+      : `<span class="bad">✘ Not quite.</span> Answer: <b>${current.ex.es}</b>`;
+  };
+  next();
+
+  // --- Mode 3: Political sentences built from examples ---
+  const MINI_TEXTS = [
+    "La <b>organización</b> cívica propone una <b>estructura</b> más <b>activa</b> para la <b>participación</b> local.",
+    "Un <b>artista</b> <b>político</b> criticó el <b>capitalismo</b> <b>curioso</b> de la ciudad.",
+    "La <b>memoria</b> histórica y la <b>historia</b> nacional son <b>importantes</b> en la <b>universidad</b> pública.",
+    "El <b>salario</b> mínimo y la <b>estructura</b> fiscal buscan el <b>máximo</b> <b>beneficio</b> social.",
+    "La <b>creación</b> de una <b>agricultura</b> sostenible fue <b>pintada</b> como un proyecto <b>peligroso</b> por algunos <b>socialistas</b> y otros <b>actores</b>.",
+    "Detectamos un <b>defecto</b> en la <b>información</b> oficial; el <b>motor</b> del debate público necesita datos <b>creativos</b>."
+  ];
+  const UL = document.getElementById('sentences');
+  MINI_TEXTS.forEach(s=>{ const li=document.createElement('li'); li.innerHTML=s; UL.appendChild(li); });
+
+  // --- Navigation ---
+  function show(id){
+    document.getElementById('mode1').classList.add('hidden');
+    document.getElementById('mode2').classList.add('hidden');
+    document.getElementById('mode3').classList.add('hidden');
+    document.getElementById(id).classList.remove('hidden');
+  }
+  document.getElementById('mode1Btn').onclick=()=>{show('mode1')};
+  document.getElementById('mode2Btn').onclick=()=>{show('mode2');renderPatternTable();};
+  document.getElementById('mode3Btn').onclick=()=>{show('mode3')};
+  </script>
+</body>
+</html>

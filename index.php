@@ -1583,14 +1583,14 @@ $pendingRows = array_values(array_filter(
             item.appendChild(tooltip);
 
             let tooltipTimer;
-            item.addEventListener('mouseenter', () => {
+            reviewButton.addEventListener('mouseenter', () => {
                 tooltipTimer = window.setTimeout(() => {
                     tooltip.classList.remove('opacity-0');
                     tooltip.classList.add('opacity-100');
                 }, 400);
             });
 
-            item.addEventListener('mouseleave', () => {
+            reviewButton.addEventListener('mouseleave', () => {
                 if (tooltipTimer) {
                     clearTimeout(tooltipTimer);
                     tooltipTimer = undefined;

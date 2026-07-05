@@ -1,0 +1,8857 @@
+{
+  "vencer": {
+    "infinitive": "vencer",
+    "base_verb": "vencer",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "venzo",
+        "vences",
+        "vence",
+        "vencemos",
+        "vencéis",
+        "vencen"
+      ],
+      "Pretérito": [
+        "vencí",
+        "venciste",
+        "venció",
+        "vencimos",
+        "vencisteis",
+        "vencieron"
+      ],
+      "Imperfecto": [
+        "vencía",
+        "vencías",
+        "vencía",
+        "vencíamos",
+        "vencíais",
+        "vencían"
+      ],
+      "Futuro": [
+        "venceré",
+        "vencerás",
+        "vencerá",
+        "venceremos",
+        "venceréis",
+        "vencerán"
+      ],
+      "Condicional": [
+        "vencería",
+        "vencerías",
+        "vencería",
+        "venceríamos",
+        "venceríais",
+        "vencerían"
+      ]
+    }
+  },
+  "faltar": {
+    "infinitive": "faltar",
+    "base_verb": "faltar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "falto",
+        "faltas",
+        "falta",
+        "faltamos",
+        "faltáis",
+        "faltan"
+      ],
+      "Pretérito": [
+        "falté",
+        "faltaste",
+        "faltó",
+        "faltamos",
+        "faltasteis",
+        "faltaron"
+      ],
+      "Imperfecto": [
+        "faltaba",
+        "faltabas",
+        "faltaba",
+        "faltábamos",
+        "faltabais",
+        "faltaban"
+      ],
+      "Futuro": [
+        "faltaré",
+        "faltarás",
+        "faltará",
+        "faltaremos",
+        "faltaréis",
+        "faltarán"
+      ],
+      "Condicional": [
+        "faltaría",
+        "faltarías",
+        "faltaría",
+        "faltaríamos",
+        "faltaríais",
+        "faltarían"
+      ]
+    }
+  },
+  "diseñar": {
+    "infinitive": "diseñar",
+    "base_verb": "diseñar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "diseño",
+        "diseñas",
+        "diseña",
+        "diseñamos",
+        "diseñáis",
+        "diseñan"
+      ],
+      "Pretérito": [
+        "diseñé",
+        "diseñaste",
+        "diseñó",
+        "diseñamos",
+        "diseñasteis",
+        "diseñaron"
+      ],
+      "Imperfecto": [
+        "diseñaba",
+        "diseñabas",
+        "diseñaba",
+        "diseñábamos",
+        "diseñabais",
+        "diseñaban"
+      ],
+      "Futuro": [
+        "diseñaré",
+        "diseñarás",
+        "diseñará",
+        "diseñaremos",
+        "diseñaréis",
+        "diseñarán"
+      ],
+      "Condicional": [
+        "diseñaría",
+        "diseñarías",
+        "diseñaría",
+        "diseñaríamos",
+        "diseñaríais",
+        "diseñarían"
+      ]
+    }
+  },
+  "borrar": {
+    "infinitive": "borrar",
+    "base_verb": "borrar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "borro",
+        "borras",
+        "borra",
+        "borramos",
+        "borráis",
+        "borran"
+      ],
+      "Pretérito": [
+        "borré",
+        "borraste",
+        "borró",
+        "borramos",
+        "borrasteis",
+        "borraron"
+      ],
+      "Imperfecto": [
+        "borraba",
+        "borrabas",
+        "borraba",
+        "borrábamos",
+        "borrabais",
+        "borraban"
+      ],
+      "Futuro": [
+        "borraré",
+        "borrarás",
+        "borrará",
+        "borraremos",
+        "borraréis",
+        "borrarán"
+      ],
+      "Condicional": [
+        "borraría",
+        "borrarías",
+        "borraría",
+        "borraríamos",
+        "borraríais",
+        "borrarían"
+      ]
+    }
+  },
+  "prohibir": {
+    "infinitive": "prohibir",
+    "base_verb": "prohibir",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "prohíbo",
+        "prohíbes",
+        "prohíbe",
+        "prohibimos",
+        "prohibís",
+        "prohíben"
+      ],
+      "Pretérito": [
+        "prohibí",
+        "prohibiste",
+        "prohibió",
+        "prohibimos",
+        "prohibisteis",
+        "prohibieron"
+      ],
+      "Imperfecto": [
+        "prohibía",
+        "prohibías",
+        "prohibía",
+        "prohibíamos",
+        "prohibíais",
+        "prohibían"
+      ],
+      "Futuro": [
+        "prohibiré",
+        "prohibirás",
+        "prohibirá",
+        "prohibiremos",
+        "prohibiréis",
+        "prohibirán"
+      ],
+      "Condicional": [
+        "prohibiría",
+        "prohibirías",
+        "prohibiría",
+        "prohibiríamos",
+        "prohibiríais",
+        "prohibirían"
+      ]
+    }
+  },
+  "denunciar": {
+    "infinitive": "denunciar",
+    "base_verb": "denunciar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "denuncio",
+        "denuncias",
+        "denuncia",
+        "denunciamos",
+        "denunciáis",
+        "denuncian"
+      ],
+      "Pretérito": [
+        "denuncié",
+        "denunciaste",
+        "denunció",
+        "denunciamos",
+        "denunciasteis",
+        "denunciaron"
+      ],
+      "Imperfecto": [
+        "denunciaba",
+        "denunciabas",
+        "denunciaba",
+        "denunciábamos",
+        "denunciabais",
+        "denunciaban"
+      ],
+      "Futuro": [
+        "denunciaré",
+        "denunciarás",
+        "denunciará",
+        "denunciaremos",
+        "denunciaréis",
+        "denunciarán"
+      ],
+      "Condicional": [
+        "denunciaría",
+        "denunciarías",
+        "denunciaría",
+        "denunciaríamos",
+        "denunciaríais",
+        "denunciarían"
+      ]
+    }
+  },
+  "renunciar": {
+    "infinitive": "renunciar",
+    "base_verb": "renunciar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "renuncio",
+        "renuncias",
+        "renuncia",
+        "renunciamos",
+        "renunciáis",
+        "renuncian"
+      ],
+      "Pretérito": [
+        "renuncié",
+        "renunciaste",
+        "renunció",
+        "renunciamos",
+        "renunciasteis",
+        "renunciaron"
+      ],
+      "Imperfecto": [
+        "renunciaba",
+        "renunciabas",
+        "renunciaba",
+        "renunciábamos",
+        "renunciabais",
+        "renunciaban"
+      ],
+      "Futuro": [
+        "renunciaré",
+        "renunciarás",
+        "renunciará",
+        "renunciaremos",
+        "renunciaréis",
+        "renunciarán"
+      ],
+      "Condicional": [
+        "renunciaría",
+        "renunciarías",
+        "renunciaría",
+        "renunciaríamos",
+        "renunciaríais",
+        "renunciarían"
+      ]
+    }
+  },
+  "sonreír": {
+    "infinitive": "sonreír",
+    "base_verb": "sonreír",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "sonrío",
+        "sonríes",
+        "sonríe",
+        "sonreímos",
+        "sonreís",
+        "sonríen"
+      ],
+      "Pretérito": [
+        "sonreí",
+        "sonreíste",
+        "sonrió",
+        "sonreímos",
+        "sonreísteis",
+        "sonrieron"
+      ],
+      "Imperfecto": [
+        "sonreía",
+        "sonreías",
+        "sonreía",
+        "sonreíamos",
+        "sonreíais",
+        "sonreían"
+      ],
+      "Futuro": [
+        "sonreiré",
+        "sonreirás",
+        "sonreirá",
+        "sonreiremos",
+        "sonreiréis",
+        "sonreirán"
+      ],
+      "Condicional": [
+        "sonreiría",
+        "sonreirías",
+        "sonreiría",
+        "sonreiríamos",
+        "sonreiríais",
+        "sonreirían"
+      ]
+    }
+  },
+  "hacer cola": {
+    "infinitive": "hacer cola",
+    "base_verb": "hacer",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "hago cola",
+        "haces cola",
+        "hace cola",
+        "hacemos cola",
+        "hacéis cola",
+        "hacen cola"
+      ],
+      "Pretérito": [
+        "hice cola",
+        "hiciste cola",
+        "hizo cola",
+        "hicimos cola",
+        "hicisteis cola",
+        "hicieron cola"
+      ],
+      "Imperfecto": [
+        "hacía cola",
+        "hacías cola",
+        "hacía cola",
+        "hacíamos cola",
+        "hacíais cola",
+        "hacían cola"
+      ],
+      "Futuro": [
+        "haré cola",
+        "harás cola",
+        "hará cola",
+        "haremos cola",
+        "haréis cola",
+        "harán cola"
+      ],
+      "Condicional": [
+        "haría cola",
+        "harías cola",
+        "haría cola",
+        "haríamos cola",
+        "haríais cola",
+        "harían cola"
+      ]
+    }
+  },
+  "aconsejar": {
+    "infinitive": "aconsejar",
+    "base_verb": "aconsejar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "aconsejo",
+        "aconsejas",
+        "aconseja",
+        "aconsejamos",
+        "aconsejáis",
+        "aconsejan"
+      ],
+      "Pretérito": [
+        "aconsejé",
+        "aconsejaste",
+        "aconsejó",
+        "aconsejamos",
+        "aconsejasteis",
+        "aconsejaron"
+      ],
+      "Imperfecto": [
+        "aconsejaba",
+        "aconsejabas",
+        "aconsejaba",
+        "aconsejábamos",
+        "aconsejabais",
+        "aconsejaban"
+      ],
+      "Futuro": [
+        "aconsejaré",
+        "aconsejarás",
+        "aconsejará",
+        "aconsejaremos",
+        "aconsejaréis",
+        "aconsejarán"
+      ],
+      "Condicional": [
+        "aconsejaría",
+        "aconsejarías",
+        "aconsejaría",
+        "aconsejaríamos",
+        "aconsejaríais",
+        "aconsejarían"
+      ]
+    }
+  },
+  "votar": {
+    "infinitive": "votar",
+    "base_verb": "votar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "voto",
+        "votas",
+        "vota",
+        "votamos",
+        "votáis",
+        "votan"
+      ],
+      "Pretérito": [
+        "voté",
+        "votaste",
+        "votó",
+        "votamos",
+        "votasteis",
+        "votaron"
+      ],
+      "Imperfecto": [
+        "votaba",
+        "votabas",
+        "votaba",
+        "votábamos",
+        "votabais",
+        "votaban"
+      ],
+      "Futuro": [
+        "votaré",
+        "votarás",
+        "votará",
+        "votaremos",
+        "votaréis",
+        "votarán"
+      ],
+      "Condicional": [
+        "votaría",
+        "votarías",
+        "votaría",
+        "votaríamos",
+        "votaríais",
+        "votarían"
+      ]
+    }
+  },
+  "sudar": {
+    "infinitive": "sudar",
+    "base_verb": "sudar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "sudo",
+        "sudas",
+        "suda",
+        "sudamos",
+        "sudáis",
+        "sudan"
+      ],
+      "Pretérito": [
+        "sudé",
+        "sudaste",
+        "sudó",
+        "sudamos",
+        "sudasteis",
+        "sudaron"
+      ],
+      "Imperfecto": [
+        "sudaba",
+        "sudabas",
+        "sudaba",
+        "sudábamos",
+        "sudabais",
+        "sudaban"
+      ],
+      "Futuro": [
+        "sudaré",
+        "sudarás",
+        "sudará",
+        "sudaremos",
+        "sudaréis",
+        "sudarán"
+      ],
+      "Condicional": [
+        "sudaría",
+        "sudarías",
+        "sudaría",
+        "sudaríamos",
+        "sudaríais",
+        "sudarían"
+      ]
+    }
+  },
+  "perjudicar": {
+    "infinitive": "perjudicar",
+    "base_verb": "perjudicar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "perjudico",
+        "perjudicas",
+        "perjudica",
+        "perjudicamos",
+        "perjudicáis",
+        "perjudican"
+      ],
+      "Pretérito": [
+        "perjudiqué",
+        "perjudicaste",
+        "perjudicó",
+        "perjudicamos",
+        "perjudicasteis",
+        "perjudicaron"
+      ],
+      "Imperfecto": [
+        "perjudicaba",
+        "perjudicabas",
+        "perjudicaba",
+        "perjudicábamos",
+        "perjudicabais",
+        "perjudicaban"
+      ],
+      "Futuro": [
+        "perjudicaré",
+        "perjudicarás",
+        "perjudicará",
+        "perjudicaremos",
+        "perjudicaréis",
+        "perjudicarán"
+      ],
+      "Condicional": [
+        "perjudicaría",
+        "perjudicarías",
+        "perjudicaría",
+        "perjudicaríamos",
+        "perjudicaríais",
+        "perjudicarían"
+      ]
+    }
+  },
+  "aguantar": {
+    "infinitive": "aguantar",
+    "base_verb": "aguantar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "aguanto",
+        "aguantas",
+        "aguanta",
+        "aguantamos",
+        "aguantáis",
+        "aguantan"
+      ],
+      "Pretérito": [
+        "aguanté",
+        "aguantaste",
+        "aguantó",
+        "aguantamos",
+        "aguantasteis",
+        "aguantaron"
+      ],
+      "Imperfecto": [
+        "aguantaba",
+        "aguantabas",
+        "aguantaba",
+        "aguantábamos",
+        "aguantabais",
+        "aguantaban"
+      ],
+      "Futuro": [
+        "aguantaré",
+        "aguantarás",
+        "aguantará",
+        "aguantaremos",
+        "aguantaréis",
+        "aguantarán"
+      ],
+      "Condicional": [
+        "aguantaría",
+        "aguantarías",
+        "aguantaría",
+        "aguantaríamos",
+        "aguantaríais",
+        "aguantarían"
+      ]
+    }
+  },
+  "agotar": {
+    "infinitive": "agotar",
+    "base_verb": "agotar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "agoto",
+        "agotas",
+        "agota",
+        "agotamos",
+        "agotáis",
+        "agotan"
+      ],
+      "Pretérito": [
+        "agoté",
+        "agotaste",
+        "agotó",
+        "agotamos",
+        "agotasteis",
+        "agotaron"
+      ],
+      "Imperfecto": [
+        "agotaba",
+        "agotabas",
+        "agotaba",
+        "agotábamos",
+        "agotabais",
+        "agotaban"
+      ],
+      "Futuro": [
+        "agotaré",
+        "agotarás",
+        "agotará",
+        "agotaremos",
+        "agotaréis",
+        "agotarán"
+      ],
+      "Condicional": [
+        "agotaría",
+        "agotarías",
+        "agotaría",
+        "agotaríamos",
+        "agotaríais",
+        "agotarían"
+      ]
+    }
+  },
+  "proponer": {
+    "infinitive": "proponer",
+    "base_verb": "proponer",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "propongo",
+        "propones",
+        "propone",
+        "proponemos",
+        "proponéis",
+        "proponen"
+      ],
+      "Pretérito": [
+        "propuse",
+        "propusiste",
+        "propuso",
+        "propusimos",
+        "propusisteis",
+        "propusieron"
+      ],
+      "Imperfecto": [
+        "proponía",
+        "proponías",
+        "proponía",
+        "proponíamos",
+        "proponíais",
+        "proponían"
+      ],
+      "Futuro": [
+        "propondré",
+        "propondrás",
+        "propondrá",
+        "propondremos",
+        "propondréis",
+        "propondrán"
+      ],
+      "Condicional": [
+        "propondría",
+        "propondrías",
+        "propondría",
+        "propondríamos",
+        "propondríais",
+        "propondrían"
+      ]
+    }
+  },
+  "valorar": {
+    "infinitive": "valorar",
+    "base_verb": "valorar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "valoro",
+        "valoras",
+        "valora",
+        "valoramos",
+        "valoráis",
+        "valoran"
+      ],
+      "Pretérito": [
+        "valoré",
+        "valoraste",
+        "valoró",
+        "valoramos",
+        "valorasteis",
+        "valoraron"
+      ],
+      "Imperfecto": [
+        "valoraba",
+        "valorabas",
+        "valoraba",
+        "valorábamos",
+        "valorabais",
+        "valoraban"
+      ],
+      "Futuro": [
+        "valoraré",
+        "valorarás",
+        "valorará",
+        "valoraremos",
+        "valoraréis",
+        "valorarán"
+      ],
+      "Condicional": [
+        "valoraría",
+        "valorarías",
+        "valoraría",
+        "valoraríamos",
+        "valoraríais",
+        "valorarían"
+      ]
+    }
+  },
+  "reconocer": {
+    "infinitive": "reconocer",
+    "base_verb": "reconocer",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "reconozco",
+        "reconoces",
+        "reconoce",
+        "reconocemos",
+        "reconocéis",
+        "reconocen"
+      ],
+      "Pretérito": [
+        "reconocí",
+        "reconociste",
+        "reconoció",
+        "reconocimos",
+        "reconocisteis",
+        "reconocieron"
+      ],
+      "Imperfecto": [
+        "reconocía",
+        "reconocías",
+        "reconocía",
+        "reconocíamos",
+        "reconocíais",
+        "reconocían"
+      ],
+      "Futuro": [
+        "reconoceré",
+        "reconocerás",
+        "reconocerá",
+        "reconoceremos",
+        "reconoceréis",
+        "reconocerán"
+      ],
+      "Condicional": [
+        "reconocería",
+        "reconocerías",
+        "reconocería",
+        "reconoceríamos",
+        "reconoceríais",
+        "reconocerían"
+      ]
+    }
+  },
+  "acordarse": {
+    "infinitive": "acordarse",
+    "base_verb": "acordar",
+    "reflexive": true,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "me acuerdo",
+        "te acuerdas",
+        "se acuerda",
+        "nos acordamos",
+        "os acordáis",
+        "se acuerdan"
+      ],
+      "Pretérito": [
+        "me acordé",
+        "te acordaste",
+        "se acordó",
+        "nos acordamos",
+        "os acordasteis",
+        "se acordaron"
+      ],
+      "Imperfecto": [
+        "me acordaba",
+        "te acordabas",
+        "se acordaba",
+        "nos acordábamos",
+        "os acordabais",
+        "se acordaban"
+      ],
+      "Futuro": [
+        "me acordaré",
+        "te acordarás",
+        "se acordará",
+        "nos acordaremos",
+        "os acordaréis",
+        "se acordarán"
+      ],
+      "Condicional": [
+        "me acordaría",
+        "te acordarías",
+        "se acordaría",
+        "nos acordaríamos",
+        "os acordaríais",
+        "se acordarían"
+      ]
+    }
+  },
+  "descargar": {
+    "infinitive": "descargar",
+    "base_verb": "descargar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "descargo",
+        "descargas",
+        "descarga",
+        "descargamos",
+        "descargáis",
+        "descargan"
+      ],
+      "Pretérito": [
+        "descargué",
+        "descargaste",
+        "descargó",
+        "descargamos",
+        "descargasteis",
+        "descargaron"
+      ],
+      "Imperfecto": [
+        "descargaba",
+        "descargabas",
+        "descargaba",
+        "descargábamos",
+        "descargabais",
+        "descargaban"
+      ],
+      "Futuro": [
+        "descargaré",
+        "descargarás",
+        "descargará",
+        "descargaremos",
+        "descargaréis",
+        "descargarán"
+      ],
+      "Condicional": [
+        "descargaría",
+        "descargarías",
+        "descargaría",
+        "descargaríamos",
+        "descargaríais",
+        "descargarían"
+      ]
+    }
+  },
+  "levantar": {
+    "infinitive": "levantar",
+    "base_verb": "levantar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "levanto",
+        "levantas",
+        "levanta",
+        "levantamos",
+        "levantáis",
+        "levantan"
+      ],
+      "Pretérito": [
+        "levanté",
+        "levantaste",
+        "levantó",
+        "levantamos",
+        "levantasteis",
+        "levantaron"
+      ],
+      "Imperfecto": [
+        "levantaba",
+        "levantabas",
+        "levantaba",
+        "levantábamos",
+        "levantabais",
+        "levantaban"
+      ],
+      "Futuro": [
+        "levantaré",
+        "levantarás",
+        "levantará",
+        "levantaremos",
+        "levantaréis",
+        "levantarán"
+      ],
+      "Condicional": [
+        "levantaría",
+        "levantarías",
+        "levantaría",
+        "levantaríamos",
+        "levantaríais",
+        "levantarían"
+      ]
+    }
+  },
+  "pelearse": {
+    "infinitive": "pelearse",
+    "base_verb": "pelear",
+    "reflexive": true,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "me peleo",
+        "te peleas",
+        "se pelea",
+        "nos peleamos",
+        "os peleáis",
+        "se pelean"
+      ],
+      "Pretérito": [
+        "me peleé",
+        "te peleaste",
+        "se peleó",
+        "nos peleamos",
+        "os peleasteis",
+        "se pelearon"
+      ],
+      "Imperfecto": [
+        "me peleaba",
+        "te peleabas",
+        "se peleaba",
+        "nos peleábamos",
+        "os peleabais",
+        "se peleaban"
+      ],
+      "Futuro": [
+        "me pelearé",
+        "te pelearás",
+        "se peleará",
+        "nos pelearemos",
+        "os pelearéis",
+        "se pelearán"
+      ],
+      "Condicional": [
+        "me pelearía",
+        "te pelearías",
+        "se pelearía",
+        "nos pelearíamos",
+        "os pelearíais",
+        "se pelearían"
+      ]
+    }
+  },
+  "engordar": {
+    "infinitive": "engordar",
+    "base_verb": "engordar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "engordo",
+        "engordas",
+        "engorda",
+        "engordamos",
+        "engordáis",
+        "engordan"
+      ],
+      "Pretérito": [
+        "engordé",
+        "engordaste",
+        "engordó",
+        "engordamos",
+        "engordasteis",
+        "engordaron"
+      ],
+      "Imperfecto": [
+        "engordaba",
+        "engordabas",
+        "engordaba",
+        "engordábamos",
+        "engordabais",
+        "engordaban"
+      ],
+      "Futuro": [
+        "engordaré",
+        "engordarás",
+        "engordará",
+        "engordaremos",
+        "engordaréis",
+        "engordarán"
+      ],
+      "Condicional": [
+        "engordaría",
+        "engordarías",
+        "engordaría",
+        "engordaríamos",
+        "engordaríais",
+        "engordarían"
+      ]
+    }
+  },
+  "pelear": {
+    "infinitive": "pelear",
+    "base_verb": "pelear",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "peleo",
+        "peleas",
+        "pelea",
+        "peleamos",
+        "peleáis",
+        "pelean"
+      ],
+      "Pretérito": [
+        "peleé",
+        "peleaste",
+        "peleó",
+        "peleamos",
+        "peleasteis",
+        "pelearon"
+      ],
+      "Imperfecto": [
+        "peleaba",
+        "peleabas",
+        "peleaba",
+        "peleábamos",
+        "peleabais",
+        "peleaban"
+      ],
+      "Futuro": [
+        "pelearé",
+        "pelearás",
+        "peleará",
+        "pelearemos",
+        "pelearéis",
+        "pelearán"
+      ],
+      "Condicional": [
+        "pelearía",
+        "pelearías",
+        "pelearía",
+        "pelearíamos",
+        "pelearíais",
+        "pelearían"
+      ]
+    }
+  },
+  "mentir": {
+    "infinitive": "mentir",
+    "base_verb": "mentir",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "miento",
+        "mientes",
+        "miente",
+        "mentimos",
+        "mentís",
+        "mienten"
+      ],
+      "Pretérito": [
+        "mentí",
+        "mentiste",
+        "mintió",
+        "mentimos",
+        "mentisteis",
+        "mintieron"
+      ],
+      "Imperfecto": [
+        "mentía",
+        "mentías",
+        "mentía",
+        "mentíamos",
+        "mentíais",
+        "mentían"
+      ],
+      "Futuro": [
+        "mentiré",
+        "mentirás",
+        "mentirá",
+        "mentiremos",
+        "mentiréis",
+        "mentirán"
+      ],
+      "Condicional": [
+        "mentiría",
+        "mentirías",
+        "mentiría",
+        "mentiríamos",
+        "mentiríais",
+        "mentirían"
+      ]
+    }
+  },
+  "componer": {
+    "infinitive": "componer",
+    "base_verb": "componer",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "compongo",
+        "compones",
+        "compone",
+        "componemos",
+        "componéis",
+        "componen"
+      ],
+      "Pretérito": [
+        "compuse",
+        "compusiste",
+        "compuso",
+        "compusimos",
+        "compusisteis",
+        "compusieron"
+      ],
+      "Imperfecto": [
+        "componía",
+        "componías",
+        "componía",
+        "componíamos",
+        "componíais",
+        "componían"
+      ],
+      "Futuro": [
+        "compondré",
+        "compondrás",
+        "compondrá",
+        "compondremos",
+        "compondréis",
+        "compondrán"
+      ],
+      "Condicional": [
+        "compondría",
+        "compondrías",
+        "compondría",
+        "compondríamos",
+        "compondríais",
+        "compondrían"
+      ]
+    }
+  },
+  "producir": {
+    "infinitive": "producir",
+    "base_verb": "producir",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "produzco",
+        "produces",
+        "produce",
+        "producimos",
+        "producís",
+        "producen"
+      ],
+      "Pretérito": [
+        "produje",
+        "produjiste",
+        "produjo",
+        "produjimos",
+        "produjisteis",
+        "produjeron"
+      ],
+      "Imperfecto": [
+        "producía",
+        "producías",
+        "producía",
+        "producíamos",
+        "producíais",
+        "producían"
+      ],
+      "Futuro": [
+        "produciré",
+        "producirás",
+        "producirá",
+        "produciremos",
+        "produciréis",
+        "producirán"
+      ],
+      "Condicional": [
+        "produciría",
+        "producirías",
+        "produciría",
+        "produciríamos",
+        "produciríais",
+        "producirían"
+      ]
+    }
+  },
+  "levantar pesas": {
+    "infinitive": "levantar pesas",
+    "base_verb": "levantar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "levanto pesas",
+        "levantas pesas",
+        "levanta pesas",
+        "levantamos pesas",
+        "levantáis pesas",
+        "levantan pesas"
+      ],
+      "Pretérito": [
+        "levanté pesas",
+        "levantaste pesas",
+        "levantó pesas",
+        "levantamos pesas",
+        "levantasteis pesas",
+        "levantaron pesas"
+      ],
+      "Imperfecto": [
+        "levantaba pesas",
+        "levantabas pesas",
+        "levantaba pesas",
+        "levantábamos pesas",
+        "levantabais pesas",
+        "levantaban pesas"
+      ],
+      "Futuro": [
+        "levantaré pesas",
+        "levantarás pesas",
+        "levantará pesas",
+        "levantaremos pesas",
+        "levantaréis pesas",
+        "levantarán pesas"
+      ],
+      "Condicional": [
+        "levantaría pesas",
+        "levantarías pesas",
+        "levantaría pesas",
+        "levantaríamos pesas",
+        "levantaríais pesas",
+        "levantarían pesas"
+      ]
+    }
+  },
+  "sugerir": {
+    "infinitive": "sugerir",
+    "base_verb": "sugerir",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "sugiero",
+        "sugieres",
+        "sugiere",
+        "sugerimos",
+        "sugerís",
+        "sugieren"
+      ],
+      "Pretérito": [
+        "sugerí",
+        "sugeriste",
+        "sugirió",
+        "sugerimos",
+        "sugeristeis",
+        "sugirieron"
+      ],
+      "Imperfecto": [
+        "sugería",
+        "sugerías",
+        "sugería",
+        "sugeríamos",
+        "sugeríais",
+        "sugerían"
+      ],
+      "Futuro": [
+        "sugeriré",
+        "sugerirás",
+        "sugerirá",
+        "sugeriremos",
+        "sugeriréis",
+        "sugerirán"
+      ],
+      "Condicional": [
+        "sugeriría",
+        "sugerirías",
+        "sugeriría",
+        "sugeriríamos",
+        "sugeriríais",
+        "sugerirían"
+      ]
+    }
+  },
+  "invertir": {
+    "infinitive": "invertir",
+    "base_verb": "invertir",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "invierto",
+        "inviertes",
+        "invierte",
+        "invertimos",
+        "invertís",
+        "invierten"
+      ],
+      "Pretérito": [
+        "invertí",
+        "invertiste",
+        "invirtió",
+        "invertimos",
+        "invertisteis",
+        "invirtieron"
+      ],
+      "Imperfecto": [
+        "invertía",
+        "invertías",
+        "invertía",
+        "invertíamos",
+        "invertíais",
+        "invertían"
+      ],
+      "Futuro": [
+        "invertiré",
+        "invertirás",
+        "invertirá",
+        "invertiremos",
+        "invertiréis",
+        "invertirán"
+      ],
+      "Condicional": [
+        "invertiría",
+        "invertirías",
+        "invertiría",
+        "invertiríamos",
+        "invertiríais",
+        "invertirían"
+      ]
+    }
+  },
+  "enojarse": {
+    "infinitive": "enojarse",
+    "base_verb": "enojar",
+    "reflexive": true,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "me enojo",
+        "te enojas",
+        "se enoja",
+        "nos enojamos",
+        "os enojáis",
+        "se enojan"
+      ],
+      "Pretérito": [
+        "me enojé",
+        "te enojaste",
+        "se enojó",
+        "nos enojamos",
+        "os enojasteis",
+        "se enojaron"
+      ],
+      "Imperfecto": [
+        "me enojaba",
+        "te enojabas",
+        "se enojaba",
+        "nos enojábamos",
+        "os enojabais",
+        "se enojaban"
+      ],
+      "Futuro": [
+        "me enojaré",
+        "te enojarás",
+        "se enojará",
+        "nos enojaremos",
+        "os enojaréis",
+        "se enojarán"
+      ],
+      "Condicional": [
+        "me enojaría",
+        "te enojarías",
+        "se enojaría",
+        "nos enojaríamos",
+        "os enojaríais",
+        "se enojarían"
+      ]
+    }
+  },
+  "tener prisa": {
+    "infinitive": "tener prisa",
+    "base_verb": "tener",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "tengo prisa",
+        "tienes prisa",
+        "tiene prisa",
+        "tenemos prisa",
+        "tenéis prisa",
+        "tienen prisa"
+      ],
+      "Pretérito": [
+        "tuve prisa",
+        "tuviste prisa",
+        "tuvo prisa",
+        "tuvimos prisa",
+        "tuvisteis prisa",
+        "tuvieron prisa"
+      ],
+      "Imperfecto": [
+        "tenía prisa",
+        "tenías prisa",
+        "tenía prisa",
+        "teníamos prisa",
+        "teníais prisa",
+        "tenían prisa"
+      ],
+      "Futuro": [
+        "tendré prisa",
+        "tendrás prisa",
+        "tendrá prisa",
+        "tendremos prisa",
+        "tendréis prisa",
+        "tendrán prisa"
+      ],
+      "Condicional": [
+        "tendría prisa",
+        "tendrías prisa",
+        "tendría prisa",
+        "tendríamos prisa",
+        "tendríais prisa",
+        "tendrían prisa"
+      ]
+    }
+  },
+  "aburrirse": {
+    "infinitive": "aburrirse",
+    "base_verb": "aburrir",
+    "reflexive": true,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "me aburro",
+        "te aburres",
+        "se aburre",
+        "nos aburrimos",
+        "os aburrís",
+        "se aburren"
+      ],
+      "Pretérito": [
+        "me aburrí",
+        "te aburriste",
+        "se aburrió",
+        "nos aburrimos",
+        "os aburristeis",
+        "se aburrieron"
+      ],
+      "Imperfecto": [
+        "me aburría",
+        "te aburrías",
+        "se aburría",
+        "nos aburríamos",
+        "os aburríais",
+        "se aburrían"
+      ],
+      "Futuro": [
+        "me aburriré",
+        "te aburrirás",
+        "se aburrirá",
+        "nos aburriremos",
+        "os aburriréis",
+        "se aburrirán"
+      ],
+      "Condicional": [
+        "me aburriría",
+        "te aburrirías",
+        "se aburriría",
+        "nos aburriríamos",
+        "os aburriríais",
+        "se aburrirían"
+      ]
+    }
+  },
+  "graduarse": {
+    "infinitive": "graduarse",
+    "base_verb": "graduar",
+    "reflexive": true,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "me gradúo",
+        "te gradúas",
+        "se gradúa",
+        "nos graduamos",
+        "os graduáis",
+        "se gradúan"
+      ],
+      "Pretérito": [
+        "me gradué",
+        "te graduaste",
+        "se graduó",
+        "nos graduamos",
+        "os graduasteis",
+        "se graduaron"
+      ],
+      "Imperfecto": [
+        "me graduaba",
+        "te graduabas",
+        "se graduaba",
+        "nos graduábamos",
+        "os graduabais",
+        "se graduaban"
+      ],
+      "Futuro": [
+        "me graduaré",
+        "te graduarás",
+        "se graduará",
+        "nos graduaremos",
+        "os graduaréis",
+        "se graduarán"
+      ],
+      "Condicional": [
+        "me graduaría",
+        "te graduarías",
+        "se graduaría",
+        "nos graduaríamos",
+        "os graduaríais",
+        "se graduarían"
+      ]
+    }
+  },
+  "entrevistar": {
+    "infinitive": "entrevistar",
+    "base_verb": "entrevistar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "entrevisto",
+        "entrevistas",
+        "entrevista",
+        "entrevistamos",
+        "entrevistáis",
+        "entrevistan"
+      ],
+      "Pretérito": [
+        "entrevisté",
+        "entrevistaste",
+        "entrevistó",
+        "entrevistamos",
+        "entrevistasteis",
+        "entrevistaron"
+      ],
+      "Imperfecto": [
+        "entrevistaba",
+        "entrevistabas",
+        "entrevistaba",
+        "entrevistábamos",
+        "entrevistabais",
+        "entrevistaban"
+      ],
+      "Futuro": [
+        "entrevistaré",
+        "entrevistarás",
+        "entrevistará",
+        "entrevistaremos",
+        "entrevistaréis",
+        "entrevistarán"
+      ],
+      "Condicional": [
+        "entrevistaría",
+        "entrevistarías",
+        "entrevistaría",
+        "entrevistaríamos",
+        "entrevistaríais",
+        "entrevistarían"
+      ]
+    }
+  },
+  "disminuir": {
+    "infinitive": "disminuir",
+    "base_verb": "disminuir",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "disminuyo",
+        "disminuyes",
+        "disminuye",
+        "disminuimos",
+        "disminuís",
+        "disminuyen"
+      ],
+      "Pretérito": [
+        "disminuí",
+        "disminuiste",
+        "disminuyó",
+        "disminuimos",
+        "disminuisteis",
+        "disminuyeron"
+      ],
+      "Imperfecto": [
+        "disminuía",
+        "disminuías",
+        "disminuía",
+        "disminuíamos",
+        "disminuíais",
+        "disminuían"
+      ],
+      "Futuro": [
+        "disminuiré",
+        "disminuirás",
+        "disminuirá",
+        "disminuiremos",
+        "disminuiréis",
+        "disminuirán"
+      ],
+      "Condicional": [
+        "disminuiría",
+        "disminuirías",
+        "disminuiría",
+        "disminuiríamos",
+        "disminuiríais",
+        "disminuirían"
+      ]
+    }
+  },
+  "esconder": {
+    "infinitive": "esconder",
+    "base_verb": "esconder",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "escondo",
+        "escondes",
+        "esconde",
+        "escondemos",
+        "escondéis",
+        "esconden"
+      ],
+      "Pretérito": [
+        "escondí",
+        "escondiste",
+        "escondió",
+        "escondimos",
+        "escondisteis",
+        "escondieron"
+      ],
+      "Imperfecto": [
+        "escondía",
+        "escondías",
+        "escondía",
+        "escondíamos",
+        "escondíais",
+        "escondían"
+      ],
+      "Futuro": [
+        "esconderé",
+        "esconderás",
+        "esconderá",
+        "esconderemos",
+        "esconderéis",
+        "esconderán"
+      ],
+      "Condicional": [
+        "escondería",
+        "esconderías",
+        "escondería",
+        "esconderíamos",
+        "esconderíais",
+        "esconderían"
+      ]
+    }
+  },
+  "atraer": {
+    "infinitive": "atraer",
+    "base_verb": "atraer",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "atraigo",
+        "atraes",
+        "atrae",
+        "atraemos",
+        "atraéis",
+        "atraen"
+      ],
+      "Pretérito": [
+        "atraje",
+        "atrajiste",
+        "atrajo",
+        "atrajimos",
+        "atrajisteis",
+        "atrajeron"
+      ],
+      "Imperfecto": [
+        "atraía",
+        "atraías",
+        "atraía",
+        "atraíamos",
+        "atraíais",
+        "atraían"
+      ],
+      "Futuro": [
+        "atraeré",
+        "atraerás",
+        "atraerá",
+        "atraeremos",
+        "atraeréis",
+        "atraerán"
+      ],
+      "Condicional": [
+        "atraería",
+        "atraerías",
+        "atraería",
+        "atraeríamos",
+        "atraeríais",
+        "atraerían"
+      ]
+    }
+  },
+  "apreciar": {
+    "infinitive": "apreciar",
+    "base_verb": "apreciar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "aprecio",
+        "aprecias",
+        "aprecia",
+        "apreciamos",
+        "apreciáis",
+        "aprecian"
+      ],
+      "Pretérito": [
+        "aprecié",
+        "apreciaste",
+        "apreció",
+        "apreciamos",
+        "apreciasteis",
+        "apreciaron"
+      ],
+      "Imperfecto": [
+        "apreciaba",
+        "apreciabas",
+        "apreciaba",
+        "apreciábamos",
+        "apreciabais",
+        "apreciaban"
+      ],
+      "Futuro": [
+        "apreciaré",
+        "apreciarás",
+        "apreciará",
+        "apreciaremos",
+        "apreciaréis",
+        "apreciarán"
+      ],
+      "Condicional": [
+        "apreciaría",
+        "apreciarías",
+        "apreciaría",
+        "apreciaríamos",
+        "apreciaríais",
+        "apreciarían"
+      ]
+    }
+  },
+  "alegrarse": {
+    "infinitive": "alegrarse",
+    "base_verb": "alegrar",
+    "reflexive": true,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "me alegro",
+        "te alegras",
+        "se alegra",
+        "nos alegramos",
+        "os alegráis",
+        "se alegran"
+      ],
+      "Pretérito": [
+        "me alegré",
+        "te alegraste",
+        "se alegró",
+        "nos alegramos",
+        "os alegrasteis",
+        "se alegraron"
+      ],
+      "Imperfecto": [
+        "me alegraba",
+        "te alegrabas",
+        "se alegraba",
+        "nos alegrábamos",
+        "os alegrabais",
+        "se alegraban"
+      ],
+      "Futuro": [
+        "me alegraré",
+        "te alegrarás",
+        "se alegrará",
+        "nos alegraremos",
+        "os alegraréis",
+        "se alegrarán"
+      ],
+      "Condicional": [
+        "me alegraría",
+        "te alegrarías",
+        "se alegraría",
+        "nos alegraríamos",
+        "os alegraríais",
+        "se alegrarían"
+      ]
+    }
+  },
+  "obedecer": {
+    "infinitive": "obedecer",
+    "base_verb": "obedecer",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "obedezco",
+        "obedeces",
+        "obedece",
+        "obedecemos",
+        "obedecéis",
+        "obedecen"
+      ],
+      "Pretérito": [
+        "obedecí",
+        "obedeciste",
+        "obedeció",
+        "obedecimos",
+        "obedecisteis",
+        "obedecieron"
+      ],
+      "Imperfecto": [
+        "obedecía",
+        "obedecías",
+        "obedecía",
+        "obedecíamos",
+        "obedecíais",
+        "obedecían"
+      ],
+      "Futuro": [
+        "obedeceré",
+        "obedecerás",
+        "obedecerá",
+        "obedeceremos",
+        "obedeceréis",
+        "obedecerán"
+      ],
+      "Condicional": [
+        "obedecería",
+        "obedecerías",
+        "obedecería",
+        "obedeceríamos",
+        "obedeceríais",
+        "obedecerían"
+      ]
+    }
+  },
+  "sembrar": {
+    "infinitive": "sembrar",
+    "base_verb": "sembrar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "siembro",
+        "siembras",
+        "siembra",
+        "sembramos",
+        "sembráis",
+        "siembran"
+      ],
+      "Pretérito": [
+        "sembré",
+        "sembraste",
+        "sembró",
+        "sembramos",
+        "sembrasteis",
+        "sembraron"
+      ],
+      "Imperfecto": [
+        "sembraba",
+        "sembrabas",
+        "sembraba",
+        "sembrábamos",
+        "sembrabais",
+        "sembraban"
+      ],
+      "Futuro": [
+        "sembraré",
+        "sembrarás",
+        "sembrará",
+        "sembraremos",
+        "sembraréis",
+        "sembrarán"
+      ],
+      "Condicional": [
+        "sembraría",
+        "sembrarías",
+        "sembraría",
+        "sembraríamos",
+        "sembraríais",
+        "sembrarían"
+      ]
+    }
+  },
+  "derramar": {
+    "infinitive": "derramar",
+    "base_verb": "derramar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "derramo",
+        "derramas",
+        "derrama",
+        "derramamos",
+        "derramáis",
+        "derraman"
+      ],
+      "Pretérito": [
+        "derramé",
+        "derramaste",
+        "derramó",
+        "derramamos",
+        "derramasteis",
+        "derramaron"
+      ],
+      "Imperfecto": [
+        "derramaba",
+        "derramabas",
+        "derramaba",
+        "derramábamos",
+        "derramabais",
+        "derramaban"
+      ],
+      "Futuro": [
+        "derramaré",
+        "derramarás",
+        "derramará",
+        "derramaremos",
+        "derramaréis",
+        "derramarán"
+      ],
+      "Condicional": [
+        "derramaría",
+        "derramarías",
+        "derramaría",
+        "derramaríamos",
+        "derramaríais",
+        "derramarían"
+      ]
+    }
+  },
+  "tener hambre": {
+    "infinitive": "tener hambre",
+    "base_verb": "tener",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "tengo hambre",
+        "tienes hambre",
+        "tiene hambre",
+        "tenemos hambre",
+        "tenéis hambre",
+        "tienen hambre"
+      ],
+      "Pretérito": [
+        "tuve hambre",
+        "tuviste hambre",
+        "tuvo hambre",
+        "tuvimos hambre",
+        "tuvisteis hambre",
+        "tuvieron hambre"
+      ],
+      "Imperfecto": [
+        "tenía hambre",
+        "tenías hambre",
+        "tenía hambre",
+        "teníamos hambre",
+        "teníais hambre",
+        "tenían hambre"
+      ],
+      "Futuro": [
+        "tendré hambre",
+        "tendrás hambre",
+        "tendrá hambre",
+        "tendremos hambre",
+        "tendréis hambre",
+        "tendrán hambre"
+      ],
+      "Condicional": [
+        "tendría hambre",
+        "tendrías hambre",
+        "tendría hambre",
+        "tendríamos hambre",
+        "tendríais hambre",
+        "tendrían hambre"
+      ]
+    }
+  },
+  "interpretar": {
+    "infinitive": "interpretar",
+    "base_verb": "interpretar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "interpreto",
+        "interpretas",
+        "interpreta",
+        "interpretamos",
+        "interpretáis",
+        "interpretan"
+      ],
+      "Pretérito": [
+        "interpreté",
+        "interpretaste",
+        "interpretó",
+        "interpretamos",
+        "interpretasteis",
+        "interpretaron"
+      ],
+      "Imperfecto": [
+        "interpretaba",
+        "interpretabas",
+        "interpretaba",
+        "interpretábamos",
+        "interpretabais",
+        "interpretaban"
+      ],
+      "Futuro": [
+        "interpretaré",
+        "interpretarás",
+        "interpretará",
+        "interpretaremos",
+        "interpretaréis",
+        "interpretarán"
+      ],
+      "Condicional": [
+        "interpretaría",
+        "interpretarías",
+        "interpretaría",
+        "interpretaríamos",
+        "interpretaríais",
+        "interpretarían"
+      ]
+    }
+  },
+  "prevenir": {
+    "infinitive": "prevenir",
+    "base_verb": "prevenir",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "prevengo",
+        "previenes",
+        "previene",
+        "prevenimos",
+        "prevenís",
+        "previenen"
+      ],
+      "Pretérito": [
+        "previne",
+        "previniste",
+        "previno",
+        "previnimos",
+        "previnisteis",
+        "previnieron"
+      ],
+      "Imperfecto": [
+        "prevenía",
+        "prevenías",
+        "prevenía",
+        "preveníamos",
+        "preveníais",
+        "prevenían"
+      ],
+      "Futuro": [
+        "prevendré",
+        "prevendrás",
+        "prevendrá",
+        "prevendremos",
+        "prevendréis",
+        "prevendrán"
+      ],
+      "Condicional": [
+        "prevendría",
+        "prevendrías",
+        "prevendría",
+        "prevendríamos",
+        "prevendríais",
+        "prevendrían"
+      ]
+    }
+  },
+  "doblar": {
+    "infinitive": "doblar",
+    "base_verb": "doblar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "doblo",
+        "doblas",
+        "dobla",
+        "doblamos",
+        "dobláis",
+        "doblan"
+      ],
+      "Pretérito": [
+        "doblé",
+        "doblaste",
+        "dobló",
+        "doblamos",
+        "doblasteis",
+        "doblaron"
+      ],
+      "Imperfecto": [
+        "doblaba",
+        "doblabas",
+        "doblaba",
+        "doblábamos",
+        "doblabais",
+        "doblaban"
+      ],
+      "Futuro": [
+        "doblaré",
+        "doblarás",
+        "doblará",
+        "doblaremos",
+        "doblaréis",
+        "doblarán"
+      ],
+      "Condicional": [
+        "doblaría",
+        "doblarías",
+        "doblaría",
+        "doblaríamos",
+        "doblaríais",
+        "doblarían"
+      ]
+    }
+  },
+  "permitir": {
+    "infinitive": "permitir",
+    "base_verb": "permitir",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "permito",
+        "permites",
+        "permite",
+        "permitimos",
+        "permitís",
+        "permiten"
+      ],
+      "Pretérito": [
+        "permití",
+        "permitiste",
+        "permitió",
+        "permitimos",
+        "permitisteis",
+        "permitieron"
+      ],
+      "Imperfecto": [
+        "permitía",
+        "permitías",
+        "permitía",
+        "permitíamos",
+        "permitíais",
+        "permitían"
+      ],
+      "Futuro": [
+        "permitiré",
+        "permitirás",
+        "permitirá",
+        "permitiremos",
+        "permitiréis",
+        "permitirán"
+      ],
+      "Condicional": [
+        "permitiría",
+        "permitirías",
+        "permitiría",
+        "permitiríamos",
+        "permitiríais",
+        "permitirían"
+      ]
+    }
+  },
+  "aburrir": {
+    "infinitive": "aburrir",
+    "base_verb": "aburrir",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "aburro",
+        "aburres",
+        "aburre",
+        "aburrimos",
+        "aburrís",
+        "aburren"
+      ],
+      "Pretérito": [
+        "aburrí",
+        "aburriste",
+        "aburrió",
+        "aburrimos",
+        "aburristeis",
+        "aburrieron"
+      ],
+      "Imperfecto": [
+        "aburría",
+        "aburrías",
+        "aburría",
+        "aburríamos",
+        "aburríais",
+        "aburrían"
+      ],
+      "Futuro": [
+        "aburriré",
+        "aburrirás",
+        "aburrirá",
+        "aburriremos",
+        "aburriréis",
+        "aburrirán"
+      ],
+      "Condicional": [
+        "aburriría",
+        "aburrirías",
+        "aburriría",
+        "aburriríamos",
+        "aburriríais",
+        "aburrirían"
+      ]
+    }
+  },
+  "mantener": {
+    "infinitive": "mantener",
+    "base_verb": "mantener",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "mantengo",
+        "mantienes",
+        "mantiene",
+        "mantenemos",
+        "mantenéis",
+        "mantienen"
+      ],
+      "Pretérito": [
+        "mantuve",
+        "mantuviste",
+        "mantuvo",
+        "mantuvimos",
+        "mantuvisteis",
+        "mantuvieron"
+      ],
+      "Imperfecto": [
+        "mantenía",
+        "mantenías",
+        "mantenía",
+        "manteníamos",
+        "manteníais",
+        "mantenían"
+      ],
+      "Futuro": [
+        "mantendré",
+        "mantendrás",
+        "mantendrá",
+        "mantendremos",
+        "mantendréis",
+        "mantendrán"
+      ],
+      "Condicional": [
+        "mantendría",
+        "mantendrías",
+        "mantendría",
+        "mantendríamos",
+        "mantendríais",
+        "mantendrían"
+      ]
+    }
+  },
+  "revisar": {
+    "infinitive": "revisar",
+    "base_verb": "revisar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "reviso",
+        "revisas",
+        "revisa",
+        "revisamos",
+        "revisáis",
+        "revisan"
+      ],
+      "Pretérito": [
+        "revisé",
+        "revisaste",
+        "revisó",
+        "revisamos",
+        "revisasteis",
+        "revisaron"
+      ],
+      "Imperfecto": [
+        "revisaba",
+        "revisabas",
+        "revisaba",
+        "revisábamos",
+        "revisabais",
+        "revisaban"
+      ],
+      "Futuro": [
+        "revisaré",
+        "revisarás",
+        "revisará",
+        "revisaremos",
+        "revisaréis",
+        "revisarán"
+      ],
+      "Condicional": [
+        "revisaría",
+        "revisarías",
+        "revisaría",
+        "revisaríamos",
+        "revisaríais",
+        "revisarían"
+      ]
+    }
+  },
+  "tener miedo": {
+    "infinitive": "tener miedo",
+    "base_verb": "tener",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "tengo miedo",
+        "tienes miedo",
+        "tiene miedo",
+        "tenemos miedo",
+        "tenéis miedo",
+        "tienen miedo"
+      ],
+      "Pretérito": [
+        "tuve miedo",
+        "tuviste miedo",
+        "tuvo miedo",
+        "tuvimos miedo",
+        "tuvisteis miedo",
+        "tuvieron miedo"
+      ],
+      "Imperfecto": [
+        "tenía miedo",
+        "tenías miedo",
+        "tenía miedo",
+        "teníamos miedo",
+        "teníais miedo",
+        "tenían miedo"
+      ],
+      "Futuro": [
+        "tendré miedo",
+        "tendrás miedo",
+        "tendrá miedo",
+        "tendremos miedo",
+        "tendréis miedo",
+        "tendrán miedo"
+      ],
+      "Condicional": [
+        "tendría miedo",
+        "tendrías miedo",
+        "tendría miedo",
+        "tendríamos miedo",
+        "tendríais miedo",
+        "tendrían miedo"
+      ]
+    }
+  },
+  "temer": {
+    "infinitive": "temer",
+    "base_verb": "temer",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "temo",
+        "temes",
+        "teme",
+        "tememos",
+        "teméis",
+        "temen"
+      ],
+      "Pretérito": [
+        "temí",
+        "temiste",
+        "temió",
+        "temimos",
+        "temisteis",
+        "temieron"
+      ],
+      "Imperfecto": [
+        "temía",
+        "temías",
+        "temía",
+        "temíamos",
+        "temíais",
+        "temían"
+      ],
+      "Futuro": [
+        "temeré",
+        "temerás",
+        "temerá",
+        "temeremos",
+        "temeréis",
+        "temerán"
+      ],
+      "Condicional": [
+        "temería",
+        "temerías",
+        "temería",
+        "temeríamos",
+        "temeríais",
+        "temerían"
+      ]
+    }
+  },
+  "promover": {
+    "infinitive": "promover",
+    "base_verb": "promover",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "promuevo",
+        "promueves",
+        "promueve",
+        "promovemos",
+        "promovéis",
+        "promueven"
+      ],
+      "Pretérito": [
+        "promoví",
+        "promoviste",
+        "promovió",
+        "promovimos",
+        "promovisteis",
+        "promovieron"
+      ],
+      "Imperfecto": [
+        "promovía",
+        "promovías",
+        "promovía",
+        "promovíamos",
+        "promovíais",
+        "promovían"
+      ],
+      "Futuro": [
+        "promoveré",
+        "promoverás",
+        "promoverá",
+        "promoveremos",
+        "promoveréis",
+        "promoverán"
+      ],
+      "Condicional": [
+        "promovería",
+        "promoverías",
+        "promovería",
+        "promoveríamos",
+        "promoveríais",
+        "promoverían"
+      ]
+    }
+  },
+  "abrazar": {
+    "infinitive": "abrazar",
+    "base_verb": "abrazar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "abrazo",
+        "abrazas",
+        "abraza",
+        "abrazamos",
+        "abrazáis",
+        "abrazan"
+      ],
+      "Pretérito": [
+        "abracé",
+        "abrazaste",
+        "abrazó",
+        "abrazamos",
+        "abrazasteis",
+        "abrazaron"
+      ],
+      "Imperfecto": [
+        "abrazaba",
+        "abrazabas",
+        "abrazaba",
+        "abrazábamos",
+        "abrazabais",
+        "abrazaban"
+      ],
+      "Futuro": [
+        "abrazaré",
+        "abrazarás",
+        "abrazará",
+        "abrazaremos",
+        "abrazaréis",
+        "abrazarán"
+      ],
+      "Condicional": [
+        "abrazaría",
+        "abrazarías",
+        "abrazaría",
+        "abrazaríamos",
+        "abrazaríais",
+        "abrazarían"
+      ]
+    }
+  },
+  "contratar": {
+    "infinitive": "contratar",
+    "base_verb": "contratar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "contrato",
+        "contratas",
+        "contrata",
+        "contratamos",
+        "contratáis",
+        "contratan"
+      ],
+      "Pretérito": [
+        "contraté",
+        "contrataste",
+        "contrató",
+        "contratamos",
+        "contratasteis",
+        "contrataron"
+      ],
+      "Imperfecto": [
+        "contrataba",
+        "contratabas",
+        "contrataba",
+        "contratábamos",
+        "contratabais",
+        "contrataban"
+      ],
+      "Futuro": [
+        "contrataré",
+        "contratarás",
+        "contratará",
+        "contrataremos",
+        "contrataréis",
+        "contratarán"
+      ],
+      "Condicional": [
+        "contrataría",
+        "contratarías",
+        "contrataría",
+        "contrataríamos",
+        "contrataríais",
+        "contratarían"
+      ]
+    }
+  },
+  "conservar": {
+    "infinitive": "conservar",
+    "base_verb": "conservar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "conservo",
+        "conservas",
+        "conserva",
+        "conservamos",
+        "conserváis",
+        "conservan"
+      ],
+      "Pretérito": [
+        "conservé",
+        "conservaste",
+        "conservó",
+        "conservamos",
+        "conservasteis",
+        "conservaron"
+      ],
+      "Imperfecto": [
+        "conservaba",
+        "conservabas",
+        "conservaba",
+        "conservábamos",
+        "conservabais",
+        "conservaban"
+      ],
+      "Futuro": [
+        "conservaré",
+        "conservarás",
+        "conservará",
+        "conservaremos",
+        "conservaréis",
+        "conservarán"
+      ],
+      "Condicional": [
+        "conservaría",
+        "conservarías",
+        "conservaría",
+        "conservaríamos",
+        "conservaríais",
+        "conservarían"
+      ]
+    }
+  },
+  "coger": {
+    "infinitive": "coger",
+    "base_verb": "coger",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "cojo",
+        "coges",
+        "coge",
+        "cogemos",
+        "cogéis",
+        "cogen"
+      ],
+      "Pretérito": [
+        "cogí",
+        "cogiste",
+        "cogió",
+        "cogimos",
+        "cogisteis",
+        "cogieron"
+      ],
+      "Imperfecto": [
+        "cogía",
+        "cogías",
+        "cogía",
+        "cogíamos",
+        "cogíais",
+        "cogían"
+      ],
+      "Futuro": [
+        "cogeré",
+        "cogerás",
+        "cogerá",
+        "cogeremos",
+        "cogeréis",
+        "cogerán"
+      ],
+      "Condicional": [
+        "cogería",
+        "cogerías",
+        "cogería",
+        "cogeríamos",
+        "cogeríais",
+        "cogerían"
+      ]
+    }
+  },
+  "suponer": {
+    "infinitive": "suponer",
+    "base_verb": "suponer",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "supongo",
+        "supones",
+        "supone",
+        "suponemos",
+        "suponéis",
+        "suponen"
+      ],
+      "Pretérito": [
+        "supuse",
+        "supusiste",
+        "supuso",
+        "supusimos",
+        "supusisteis",
+        "supusieron"
+      ],
+      "Imperfecto": [
+        "suponía",
+        "suponías",
+        "suponía",
+        "suponíamos",
+        "suponíais",
+        "suponían"
+      ],
+      "Futuro": [
+        "supondré",
+        "supondrás",
+        "supondrá",
+        "supondremos",
+        "supondréis",
+        "supondrán"
+      ],
+      "Condicional": [
+        "supondría",
+        "supondrías",
+        "supondría",
+        "supondríamos",
+        "supondríais",
+        "supondrían"
+      ]
+    }
+  },
+  "apoyar": {
+    "infinitive": "apoyar",
+    "base_verb": "apoyar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "apoyo",
+        "apoyas",
+        "apoya",
+        "apoyamos",
+        "apoyáis",
+        "apoyan"
+      ],
+      "Pretérito": [
+        "apoyé",
+        "apoyaste",
+        "apoyó",
+        "apoyamos",
+        "apoyasteis",
+        "apoyaron"
+      ],
+      "Imperfecto": [
+        "apoyaba",
+        "apoyabas",
+        "apoyaba",
+        "apoyábamos",
+        "apoyabais",
+        "apoyaban"
+      ],
+      "Futuro": [
+        "apoyaré",
+        "apoyarás",
+        "apoyará",
+        "apoyaremos",
+        "apoyaréis",
+        "apoyarán"
+      ],
+      "Condicional": [
+        "apoyaría",
+        "apoyarías",
+        "apoyaría",
+        "apoyaríamos",
+        "apoyaríais",
+        "apoyarían"
+      ]
+    }
+  },
+  "pescar": {
+    "infinitive": "pescar",
+    "base_verb": "pescar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "pesco",
+        "pescas",
+        "pesca",
+        "pescamos",
+        "pescáis",
+        "pescan"
+      ],
+      "Pretérito": [
+        "pesqué",
+        "pescaste",
+        "pescó",
+        "pescamos",
+        "pescasteis",
+        "pescaron"
+      ],
+      "Imperfecto": [
+        "pescaba",
+        "pescabas",
+        "pescaba",
+        "pescábamos",
+        "pescabais",
+        "pescaban"
+      ],
+      "Futuro": [
+        "pescaré",
+        "pescarás",
+        "pescará",
+        "pescaremos",
+        "pescaréis",
+        "pescarán"
+      ],
+      "Condicional": [
+        "pescaría",
+        "pescarías",
+        "pescaría",
+        "pescaríamos",
+        "pescaríais",
+        "pescarían"
+      ]
+    }
+  },
+  "jurar": {
+    "infinitive": "jurar",
+    "base_verb": "jurar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "juro",
+        "juras",
+        "jura",
+        "juramos",
+        "juráis",
+        "juran"
+      ],
+      "Pretérito": [
+        "juré",
+        "juraste",
+        "juró",
+        "juramos",
+        "jurasteis",
+        "juraron"
+      ],
+      "Imperfecto": [
+        "juraba",
+        "jurabas",
+        "juraba",
+        "jurábamos",
+        "jurabais",
+        "juraban"
+      ],
+      "Futuro": [
+        "juraré",
+        "jurarás",
+        "jurará",
+        "juraremos",
+        "juraréis",
+        "jurarán"
+      ],
+      "Condicional": [
+        "juraría",
+        "jurarías",
+        "juraría",
+        "juraríamos",
+        "juraríais",
+        "jurarían"
+      ]
+    }
+  },
+  "convertirse en": {
+    "infinitive": "convertirse en",
+    "base_verb": "convertir",
+    "reflexive": true,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "me convierto en",
+        "te conviertes en",
+        "se convierte en",
+        "nos convertimos en",
+        "os convertís en",
+        "se convierten en"
+      ],
+      "Pretérito": [
+        "me convertí en",
+        "te convertiste en",
+        "se convirtió en",
+        "nos convertimos en",
+        "os convertisteis en",
+        "se convirtieron en"
+      ],
+      "Imperfecto": [
+        "me convertía en",
+        "te convertías en",
+        "se convertía en",
+        "nos convertíamos en",
+        "os convertíais en",
+        "se convertían en"
+      ],
+      "Futuro": [
+        "me convertiré en",
+        "te convertirás en",
+        "se convertirá en",
+        "nos convertiremos en",
+        "os convertiréis en",
+        "se convertirán en"
+      ],
+      "Condicional": [
+        "me convertiría en",
+        "te convertirías en",
+        "se convertiría en",
+        "nos convertiríamos en",
+        "os convertiríais en",
+        "se convertirían en"
+      ]
+    }
+  },
+  "negar": {
+    "infinitive": "negar",
+    "base_verb": "negar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "niego",
+        "niegas",
+        "niega",
+        "negamos",
+        "negáis",
+        "niegan"
+      ],
+      "Pretérito": [
+        "negué",
+        "negaste",
+        "negó",
+        "negamos",
+        "negasteis",
+        "negaron"
+      ],
+      "Imperfecto": [
+        "negaba",
+        "negabas",
+        "negaba",
+        "negábamos",
+        "negabais",
+        "negaban"
+      ],
+      "Futuro": [
+        "negaré",
+        "negarás",
+        "negará",
+        "negaremos",
+        "negaréis",
+        "negarán"
+      ],
+      "Condicional": [
+        "negaría",
+        "negarías",
+        "negaría",
+        "negaríamos",
+        "negaríais",
+        "negarían"
+      ]
+    }
+  },
+  "entrenarse": {
+    "infinitive": "entrenarse",
+    "base_verb": "entrenar",
+    "reflexive": true,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "me entreno",
+        "te entrenas",
+        "se entrena",
+        "nos entrenamos",
+        "os entrenáis",
+        "se entrenan"
+      ],
+      "Pretérito": [
+        "me entrené",
+        "te entrenaste",
+        "se entrenó",
+        "nos entrenamos",
+        "os entrenasteis",
+        "se entrenaron"
+      ],
+      "Imperfecto": [
+        "me entrenaba",
+        "te entrenabas",
+        "se entrenaba",
+        "nos entrenábamos",
+        "os entrenabais",
+        "se entrenaban"
+      ],
+      "Futuro": [
+        "me entrenaré",
+        "te entrenarás",
+        "se entrenará",
+        "nos entrenaremos",
+        "os entrenaréis",
+        "se entrenarán"
+      ],
+      "Condicional": [
+        "me entrenaría",
+        "te entrenarías",
+        "se entrenaría",
+        "nos entrenaríamos",
+        "os entrenaríais",
+        "se entrenarían"
+      ]
+    }
+  },
+  "confiar": {
+    "infinitive": "confiar",
+    "base_verb": "confiar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "confío",
+        "confías",
+        "confía",
+        "confiamos",
+        "confiáis",
+        "confían"
+      ],
+      "Pretérito": [
+        "confié",
+        "confiaste",
+        "confió",
+        "confiamos",
+        "confiasteis",
+        "confiaron"
+      ],
+      "Imperfecto": [
+        "confiaba",
+        "confiabas",
+        "confiaba",
+        "confiábamos",
+        "confiabais",
+        "confiaban"
+      ],
+      "Futuro": [
+        "confiaré",
+        "confiarás",
+        "confiará",
+        "confiaremos",
+        "confiaréis",
+        "confiarán"
+      ],
+      "Condicional": [
+        "confiaría",
+        "confiarías",
+        "confiaría",
+        "confiaríamos",
+        "confiaríais",
+        "confiarían"
+      ]
+    }
+  },
+  "anunciar": {
+    "infinitive": "anunciar",
+    "base_verb": "anunciar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "anuncio",
+        "anuncias",
+        "anuncia",
+        "anunciamos",
+        "anunciáis",
+        "anuncian"
+      ],
+      "Pretérito": [
+        "anuncié",
+        "anunciaste",
+        "anunció",
+        "anunciamos",
+        "anunciasteis",
+        "anunciaron"
+      ],
+      "Imperfecto": [
+        "anunciaba",
+        "anunciabas",
+        "anunciaba",
+        "anunciábamos",
+        "anunciabais",
+        "anunciaban"
+      ],
+      "Futuro": [
+        "anunciaré",
+        "anunciarás",
+        "anunciará",
+        "anunciaremos",
+        "anunciaréis",
+        "anunciarán"
+      ],
+      "Condicional": [
+        "anunciaría",
+        "anunciarías",
+        "anunciaría",
+        "anunciaríamos",
+        "anunciaríais",
+        "anunciarían"
+      ]
+    }
+  },
+  "reservar": {
+    "infinitive": "reservar",
+    "base_verb": "reservar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "reservo",
+        "reservas",
+        "reserva",
+        "reservamos",
+        "reserváis",
+        "reservan"
+      ],
+      "Pretérito": [
+        "reservé",
+        "reservaste",
+        "reservó",
+        "reservamos",
+        "reservasteis",
+        "reservaron"
+      ],
+      "Imperfecto": [
+        "reservaba",
+        "reservabas",
+        "reservaba",
+        "reservábamos",
+        "reservabais",
+        "reservaban"
+      ],
+      "Futuro": [
+        "reservaré",
+        "reservarás",
+        "reservará",
+        "reservaremos",
+        "reservaréis",
+        "reservarán"
+      ],
+      "Condicional": [
+        "reservaría",
+        "reservarías",
+        "reservaría",
+        "reservaríamos",
+        "reservaríais",
+        "reservarían"
+      ]
+    }
+  },
+  "aparecer": {
+    "infinitive": "aparecer",
+    "base_verb": "aparecer",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "aparezco",
+        "apareces",
+        "aparece",
+        "aparecemos",
+        "aparecéis",
+        "aparecen"
+      ],
+      "Pretérito": [
+        "aparecí",
+        "apareciste",
+        "apareció",
+        "aparecimos",
+        "aparecisteis",
+        "aparecieron"
+      ],
+      "Imperfecto": [
+        "aparecía",
+        "aparecías",
+        "aparecía",
+        "aparecíamos",
+        "aparecíais",
+        "aparecían"
+      ],
+      "Futuro": [
+        "apareceré",
+        "aparecerás",
+        "aparecerá",
+        "apareceremos",
+        "apareceréis",
+        "aparecerán"
+      ],
+      "Condicional": [
+        "aparecería",
+        "aparecerías",
+        "aparecería",
+        "apareceríamos",
+        "apareceríais",
+        "aparecerían"
+      ]
+    }
+  },
+  "charlar": {
+    "infinitive": "charlar",
+    "base_verb": "charlar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "charlo",
+        "charlas",
+        "charla",
+        "charlamos",
+        "charláis",
+        "charlan"
+      ],
+      "Pretérito": [
+        "charlé",
+        "charlaste",
+        "charló",
+        "charlamos",
+        "charlasteis",
+        "charlaron"
+      ],
+      "Imperfecto": [
+        "charlaba",
+        "charlabas",
+        "charlaba",
+        "charlábamos",
+        "charlabais",
+        "charlaban"
+      ],
+      "Futuro": [
+        "charlaré",
+        "charlarás",
+        "charlará",
+        "charlaremos",
+        "charlaréis",
+        "charlarán"
+      ],
+      "Condicional": [
+        "charlaría",
+        "charlarías",
+        "charlaría",
+        "charlaríamos",
+        "charlaríais",
+        "charlarían"
+      ]
+    }
+  },
+  "batir": {
+    "infinitive": "batir",
+    "base_verb": "batir",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "bato",
+        "bates",
+        "bate",
+        "batimos",
+        "batís",
+        "baten"
+      ],
+      "Pretérito": [
+        "batí",
+        "batiste",
+        "batió",
+        "batimos",
+        "batisteis",
+        "batieron"
+      ],
+      "Imperfecto": [
+        "batía",
+        "batías",
+        "batía",
+        "batíamos",
+        "batíais",
+        "batían"
+      ],
+      "Futuro": [
+        "batiré",
+        "batirás",
+        "batirá",
+        "batiremos",
+        "batiréis",
+        "batirán"
+      ],
+      "Condicional": [
+        "batiría",
+        "batirías",
+        "batiría",
+        "batiríamos",
+        "batiríais",
+        "batirían"
+      ]
+    }
+  },
+  "asegurar": {
+    "infinitive": "asegurar",
+    "base_verb": "asegurar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "aseguro",
+        "aseguras",
+        "asegura",
+        "aseguramos",
+        "aseguráis",
+        "aseguran"
+      ],
+      "Pretérito": [
+        "aseguré",
+        "aseguraste",
+        "aseguró",
+        "aseguramos",
+        "asegurasteis",
+        "aseguraron"
+      ],
+      "Imperfecto": [
+        "aseguraba",
+        "asegurabas",
+        "aseguraba",
+        "asegurábamos",
+        "asegurabais",
+        "aseguraban"
+      ],
+      "Futuro": [
+        "aseguraré",
+        "asegurarás",
+        "asegurará",
+        "aseguraremos",
+        "aseguraréis",
+        "asegurarán"
+      ],
+      "Condicional": [
+        "aseguraría",
+        "asegurarías",
+        "aseguraría",
+        "aseguraríamos",
+        "aseguraríais",
+        "asegurarían"
+      ]
+    }
+  },
+  "responder": {
+    "infinitive": "responder",
+    "base_verb": "responder",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "respondo",
+        "respondes",
+        "responde",
+        "respondemos",
+        "respondéis",
+        "responden"
+      ],
+      "Pretérito": [
+        "respondí",
+        "respondiste",
+        "respondió",
+        "respondimos",
+        "respondisteis",
+        "respondieron"
+      ],
+      "Imperfecto": [
+        "respondía",
+        "respondías",
+        "respondía",
+        "respondíamos",
+        "respondíais",
+        "respondían"
+      ],
+      "Futuro": [
+        "responderé",
+        "responderás",
+        "responderá",
+        "responderemos",
+        "responderéis",
+        "responderán"
+      ],
+      "Condicional": [
+        "respondería",
+        "responderías",
+        "respondería",
+        "responderíamos",
+        "responderíais",
+        "responderían"
+      ]
+    }
+  },
+  "mezclar": {
+    "infinitive": "mezclar",
+    "base_verb": "mezclar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "mezclo",
+        "mezclas",
+        "mezcla",
+        "mezclamos",
+        "mezcláis",
+        "mezclan"
+      ],
+      "Pretérito": [
+        "mezclé",
+        "mezclaste",
+        "mezcló",
+        "mezclamos",
+        "mezclasteis",
+        "mezclaron"
+      ],
+      "Imperfecto": [
+        "mezclaba",
+        "mezclabas",
+        "mezclaba",
+        "mezclábamos",
+        "mezclabais",
+        "mezclaban"
+      ],
+      "Futuro": [
+        "mezclaré",
+        "mezclarás",
+        "mezclará",
+        "mezclaremos",
+        "mezclaréis",
+        "mezclarán"
+      ],
+      "Condicional": [
+        "mezclaría",
+        "mezclarías",
+        "mezclaría",
+        "mezclaríamos",
+        "mezclaríais",
+        "mezclarían"
+      ]
+    }
+  },
+  "enfermarse": {
+    "infinitive": "enfermarse",
+    "base_verb": "enfermar",
+    "reflexive": true,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "me enfermo",
+        "te enfermas",
+        "se enferma",
+        "nos enfermamos",
+        "os enfermáis",
+        "se enferman"
+      ],
+      "Pretérito": [
+        "me enfermé",
+        "te enfermaste",
+        "se enfermó",
+        "nos enfermamos",
+        "os enfermasteis",
+        "se enfermaron"
+      ],
+      "Imperfecto": [
+        "me enfermaba",
+        "te enfermabas",
+        "se enfermaba",
+        "nos enfermábamos",
+        "os enfermabais",
+        "se enfermaban"
+      ],
+      "Futuro": [
+        "me enfermaré",
+        "te enfermarás",
+        "se enfermará",
+        "nos enfermaremos",
+        "os enfermaréis",
+        "se enfermarán"
+      ],
+      "Condicional": [
+        "me enfermaría",
+        "te enfermarías",
+        "se enfermaría",
+        "nos enfermaríamos",
+        "os enfermaríais",
+        "se enfermarían"
+      ]
+    }
+  },
+  "dudar": {
+    "infinitive": "dudar",
+    "base_verb": "dudar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "dudo",
+        "dudas",
+        "duda",
+        "dudamos",
+        "dudáis",
+        "dudan"
+      ],
+      "Pretérito": [
+        "dudé",
+        "dudaste",
+        "dudó",
+        "dudamos",
+        "dudasteis",
+        "dudaron"
+      ],
+      "Imperfecto": [
+        "dudaba",
+        "dudabas",
+        "dudaba",
+        "dudábamos",
+        "dudabais",
+        "dudaban"
+      ],
+      "Futuro": [
+        "dudaré",
+        "dudarás",
+        "dudará",
+        "dudaremos",
+        "dudaréis",
+        "dudarán"
+      ],
+      "Condicional": [
+        "dudaría",
+        "dudarías",
+        "dudaría",
+        "dudaríamos",
+        "dudaríais",
+        "dudarían"
+      ]
+    }
+  },
+  "conversar": {
+    "infinitive": "conversar",
+    "base_verb": "conversar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "converso",
+        "conversas",
+        "conversa",
+        "conversamos",
+        "conversáis",
+        "conversan"
+      ],
+      "Pretérito": [
+        "conversé",
+        "conversaste",
+        "conversó",
+        "conversamos",
+        "conversasteis",
+        "conversaron"
+      ],
+      "Imperfecto": [
+        "conversaba",
+        "conversabas",
+        "conversaba",
+        "conversábamos",
+        "conversabais",
+        "conversaban"
+      ],
+      "Futuro": [
+        "conversaré",
+        "conversarás",
+        "conversará",
+        "conversaremos",
+        "conversaréis",
+        "conversarán"
+      ],
+      "Condicional": [
+        "conversaría",
+        "conversarías",
+        "conversaría",
+        "conversaríamos",
+        "conversaríais",
+        "conversarían"
+      ]
+    }
+  },
+  "reemplazar": {
+    "infinitive": "reemplazar",
+    "base_verb": "reemplazar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "reemplazo",
+        "reemplazas",
+        "reemplaza",
+        "reemplazamos",
+        "reemplazáis",
+        "reemplazan"
+      ],
+      "Pretérito": [
+        "reemplacé",
+        "reemplazaste",
+        "reemplazó",
+        "reemplazamos",
+        "reemplazasteis",
+        "reemplazaron"
+      ],
+      "Imperfecto": [
+        "reemplazaba",
+        "reemplazabas",
+        "reemplazaba",
+        "reemplazábamos",
+        "reemplazabais",
+        "reemplazaban"
+      ],
+      "Futuro": [
+        "reemplazaré",
+        "reemplazarás",
+        "reemplazará",
+        "reemplazaremos",
+        "reemplazaréis",
+        "reemplazarán"
+      ],
+      "Condicional": [
+        "reemplazaría",
+        "reemplazarías",
+        "reemplazaría",
+        "reemplazaríamos",
+        "reemplazaríais",
+        "reemplazarían"
+      ]
+    }
+  },
+  "exigir": {
+    "infinitive": "exigir",
+    "base_verb": "exigir",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "exijo",
+        "exiges",
+        "exige",
+        "exigimos",
+        "exigís",
+        "exigen"
+      ],
+      "Pretérito": [
+        "exigí",
+        "exigiste",
+        "exigió",
+        "exigimos",
+        "exigisteis",
+        "exigieron"
+      ],
+      "Imperfecto": [
+        "exigía",
+        "exigías",
+        "exigía",
+        "exigíamos",
+        "exigíais",
+        "exigían"
+      ],
+      "Futuro": [
+        "exigiré",
+        "exigirás",
+        "exigirá",
+        "exigiremos",
+        "exigiréis",
+        "exigirán"
+      ],
+      "Condicional": [
+        "exigiría",
+        "exigirías",
+        "exigiría",
+        "exigiríamos",
+        "exigiríais",
+        "exigirían"
+      ]
+    }
+  },
+  "tratar de": {
+    "infinitive": "tratar de",
+    "base_verb": "tratar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "trato de",
+        "tratas de",
+        "trata de",
+        "tratamos de",
+        "tratáis de",
+        "tratan de"
+      ],
+      "Pretérito": [
+        "traté de",
+        "trataste de",
+        "trató de",
+        "tratamos de",
+        "tratasteis de",
+        "trataron de"
+      ],
+      "Imperfecto": [
+        "trataba de",
+        "tratabas de",
+        "trataba de",
+        "tratábamos de",
+        "tratabais de",
+        "trataban de"
+      ],
+      "Futuro": [
+        "trataré de",
+        "tratarás de",
+        "tratará de",
+        "trataremos de",
+        "trataréis de",
+        "tratarán de"
+      ],
+      "Condicional": [
+        "trataría de",
+        "tratarías de",
+        "trataría de",
+        "trataríamos de",
+        "trataríais de",
+        "tratarían de"
+      ]
+    }
+  },
+  "mudarse": {
+    "infinitive": "mudarse",
+    "base_verb": "mudar",
+    "reflexive": true,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "me mudo",
+        "te mudas",
+        "se muda",
+        "nos mudamos",
+        "os mudáis",
+        "se mudan"
+      ],
+      "Pretérito": [
+        "me mudé",
+        "te mudaste",
+        "se mudó",
+        "nos mudamos",
+        "os mudasteis",
+        "se mudaron"
+      ],
+      "Imperfecto": [
+        "me mudaba",
+        "te mudabas",
+        "se mudaba",
+        "nos mudábamos",
+        "os mudabais",
+        "se mudaban"
+      ],
+      "Futuro": [
+        "me mudaré",
+        "te mudarás",
+        "se mudará",
+        "nos mudaremos",
+        "os mudaréis",
+        "se mudarán"
+      ],
+      "Condicional": [
+        "me mudaría",
+        "te mudarías",
+        "se mudaría",
+        "nos mudaríamos",
+        "os mudaríais",
+        "se mudarían"
+      ]
+    }
+  },
+  "enfrentar": {
+    "infinitive": "enfrentar",
+    "base_verb": "enfrentar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "enfrento",
+        "enfrentas",
+        "enfrenta",
+        "enfrentamos",
+        "enfrentáis",
+        "enfrentan"
+      ],
+      "Pretérito": [
+        "enfrenté",
+        "enfrentaste",
+        "enfrentó",
+        "enfrentamos",
+        "enfrentasteis",
+        "enfrentaron"
+      ],
+      "Imperfecto": [
+        "enfrentaba",
+        "enfrentabas",
+        "enfrentaba",
+        "enfrentábamos",
+        "enfrentabais",
+        "enfrentaban"
+      ],
+      "Futuro": [
+        "enfrentaré",
+        "enfrentarás",
+        "enfrentará",
+        "enfrentaremos",
+        "enfrentaréis",
+        "enfrentarán"
+      ],
+      "Condicional": [
+        "enfrentaría",
+        "enfrentarías",
+        "enfrentaría",
+        "enfrentaríamos",
+        "enfrentaríais",
+        "enfrentarían"
+      ]
+    }
+  },
+  "robar": {
+    "infinitive": "robar",
+    "base_verb": "robar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "robo",
+        "robas",
+        "roba",
+        "robamos",
+        "robáis",
+        "roban"
+      ],
+      "Pretérito": [
+        "robé",
+        "robaste",
+        "robó",
+        "robamos",
+        "robasteis",
+        "robaron"
+      ],
+      "Imperfecto": [
+        "robaba",
+        "robabas",
+        "robaba",
+        "robábamos",
+        "robabais",
+        "robaban"
+      ],
+      "Futuro": [
+        "robaré",
+        "robarás",
+        "robará",
+        "robaremos",
+        "robaréis",
+        "robarán"
+      ],
+      "Condicional": [
+        "robaría",
+        "robarías",
+        "robaría",
+        "robaríamos",
+        "robaríais",
+        "robarían"
+      ]
+    }
+  },
+  "despedir": {
+    "infinitive": "despedir",
+    "base_verb": "despedir",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "despido",
+        "despides",
+        "despide",
+        "despedimos",
+        "despedís",
+        "despiden"
+      ],
+      "Pretérito": [
+        "despedí",
+        "despediste",
+        "despidió",
+        "despedimos",
+        "despedisteis",
+        "despidieron"
+      ],
+      "Imperfecto": [
+        "despedía",
+        "despedías",
+        "despedía",
+        "despedíamos",
+        "despedíais",
+        "despedían"
+      ],
+      "Futuro": [
+        "despediré",
+        "despedirás",
+        "despedirá",
+        "despediremos",
+        "despediréis",
+        "despedirán"
+      ],
+      "Condicional": [
+        "despediría",
+        "despedirías",
+        "despediría",
+        "despediríamos",
+        "despediríais",
+        "despedirían"
+      ]
+    }
+  },
+  "ir a": {
+    "infinitive": "ir a",
+    "base_verb": "ir",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "voy a",
+        "vas a",
+        "va a",
+        "vamos a",
+        "vais a",
+        "van a"
+      ],
+      "Pretérito": [
+        "fui a",
+        "fuiste a",
+        "fue a",
+        "fuimos a",
+        "fuisteis a",
+        "fueron a"
+      ],
+      "Imperfecto": [
+        "iba a",
+        "ibas a",
+        "iba a",
+        "íbamos a",
+        "ibais a",
+        "iban a"
+      ],
+      "Futuro": [
+        "iré a",
+        "irás a",
+        "irá a",
+        "iremos a",
+        "iréis a",
+        "irán a"
+      ],
+      "Condicional": [
+        "iría a",
+        "irías a",
+        "iría a",
+        "iríamos a",
+        "iríais a",
+        "irían a"
+      ]
+    }
+  },
+  "fascinar": {
+    "infinitive": "fascinar",
+    "base_verb": "fascinar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "fascino",
+        "fascinas",
+        "fascina",
+        "fascinamos",
+        "fascináis",
+        "fascinan"
+      ],
+      "Pretérito": [
+        "fasciné",
+        "fascinaste",
+        "fascinó",
+        "fascinamos",
+        "fascinasteis",
+        "fascinaron"
+      ],
+      "Imperfecto": [
+        "fascinaba",
+        "fascinabas",
+        "fascinaba",
+        "fascinábamos",
+        "fascinabais",
+        "fascinaban"
+      ],
+      "Futuro": [
+        "fascinaré",
+        "fascinarás",
+        "fascinará",
+        "fascinaremos",
+        "fascinaréis",
+        "fascinarán"
+      ],
+      "Condicional": [
+        "fascinaría",
+        "fascinarías",
+        "fascinaría",
+        "fascinaríamos",
+        "fascinaríais",
+        "fascinarían"
+      ]
+    }
+  },
+  "respetar": {
+    "infinitive": "respetar",
+    "base_verb": "respetar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "respeto",
+        "respetas",
+        "respeta",
+        "respetamos",
+        "respetáis",
+        "respetan"
+      ],
+      "Pretérito": [
+        "respeté",
+        "respetaste",
+        "respetó",
+        "respetamos",
+        "respetasteis",
+        "respetaron"
+      ],
+      "Imperfecto": [
+        "respetaba",
+        "respetabas",
+        "respetaba",
+        "respetábamos",
+        "respetabais",
+        "respetaban"
+      ],
+      "Futuro": [
+        "respetaré",
+        "respetarás",
+        "respetará",
+        "respetaremos",
+        "respetaréis",
+        "respetarán"
+      ],
+      "Condicional": [
+        "respetaría",
+        "respetarías",
+        "respetaría",
+        "respetaríamos",
+        "respetaríais",
+        "respetarían"
+      ]
+    }
+  },
+  "quitarse": {
+    "infinitive": "quitarse",
+    "base_verb": "quitar",
+    "reflexive": true,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "me quito",
+        "te quitas",
+        "se quita",
+        "nos quitamos",
+        "os quitáis",
+        "se quitan"
+      ],
+      "Pretérito": [
+        "me quité",
+        "te quitaste",
+        "se quitó",
+        "nos quitamos",
+        "os quitasteis",
+        "se quitaron"
+      ],
+      "Imperfecto": [
+        "me quitaba",
+        "te quitabas",
+        "se quitaba",
+        "nos quitábamos",
+        "os quitabais",
+        "se quitaban"
+      ],
+      "Futuro": [
+        "me quitaré",
+        "te quitarás",
+        "se quitará",
+        "nos quitaremos",
+        "os quitaréis",
+        "se quitarán"
+      ],
+      "Condicional": [
+        "me quitaría",
+        "te quitarías",
+        "se quitaría",
+        "nos quitaríamos",
+        "os quitaríais",
+        "se quitarían"
+      ]
+    }
+  },
+  "interesar": {
+    "infinitive": "interesar",
+    "base_verb": "interesar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "intereso",
+        "interesas",
+        "interesa",
+        "interesamos",
+        "interesáis",
+        "interesan"
+      ],
+      "Pretérito": [
+        "interesé",
+        "interesaste",
+        "interesó",
+        "interesamos",
+        "interesasteis",
+        "interesaron"
+      ],
+      "Imperfecto": [
+        "interesaba",
+        "interesabas",
+        "interesaba",
+        "interesábamos",
+        "interesabais",
+        "interesaban"
+      ],
+      "Futuro": [
+        "interesaré",
+        "interesarás",
+        "interesará",
+        "interesaremos",
+        "interesaréis",
+        "interesarán"
+      ],
+      "Condicional": [
+        "interesaría",
+        "interesarías",
+        "interesaría",
+        "interesaríamos",
+        "interesaríais",
+        "interesarían"
+      ]
+    }
+  },
+  "cobrar": {
+    "infinitive": "cobrar",
+    "base_verb": "cobrar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "cobro",
+        "cobras",
+        "cobra",
+        "cobramos",
+        "cobráis",
+        "cobran"
+      ],
+      "Pretérito": [
+        "cobré",
+        "cobraste",
+        "cobró",
+        "cobramos",
+        "cobrasteis",
+        "cobraron"
+      ],
+      "Imperfecto": [
+        "cobraba",
+        "cobrabas",
+        "cobraba",
+        "cobrábamos",
+        "cobrabais",
+        "cobraban"
+      ],
+      "Futuro": [
+        "cobraré",
+        "cobrarás",
+        "cobrará",
+        "cobraremos",
+        "cobraréis",
+        "cobrarán"
+      ],
+      "Condicional": [
+        "cobraría",
+        "cobrarías",
+        "cobraría",
+        "cobraríamos",
+        "cobraríais",
+        "cobrarían"
+      ]
+    }
+  },
+  "probarse": {
+    "infinitive": "probarse",
+    "base_verb": "probar",
+    "reflexive": true,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "me pruebo",
+        "te pruebas",
+        "se prueba",
+        "nos probamos",
+        "os probáis",
+        "se prueban"
+      ],
+      "Pretérito": [
+        "me probé",
+        "te probaste",
+        "se probó",
+        "nos probamos",
+        "os probasteis",
+        "se probaron"
+      ],
+      "Imperfecto": [
+        "me probaba",
+        "te probabas",
+        "se probaba",
+        "nos probábamos",
+        "os probabais",
+        "se probaban"
+      ],
+      "Futuro": [
+        "me probaré",
+        "te probarás",
+        "se probará",
+        "nos probaremos",
+        "os probaréis",
+        "se probarán"
+      ],
+      "Condicional": [
+        "me probaría",
+        "te probarías",
+        "se probaría",
+        "nos probaríamos",
+        "os probaríais",
+        "se probarían"
+      ]
+    }
+  },
+  "utilizar": {
+    "infinitive": "utilizar",
+    "base_verb": "utilizar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "utilizo",
+        "utilizas",
+        "utiliza",
+        "utilizamos",
+        "utilizáis",
+        "utilizan"
+      ],
+      "Pretérito": [
+        "utilicé",
+        "utilizaste",
+        "utilizó",
+        "utilizamos",
+        "utilizasteis",
+        "utilizaron"
+      ],
+      "Imperfecto": [
+        "utilizaba",
+        "utilizabas",
+        "utilizaba",
+        "utilizábamos",
+        "utilizabais",
+        "utilizaban"
+      ],
+      "Futuro": [
+        "utilizaré",
+        "utilizarás",
+        "utilizará",
+        "utilizaremos",
+        "utilizaréis",
+        "utilizarán"
+      ],
+      "Condicional": [
+        "utilizaría",
+        "utilizarías",
+        "utilizaría",
+        "utilizaríamos",
+        "utilizaríais",
+        "utilizarían"
+      ]
+    }
+  },
+  "medir": {
+    "infinitive": "medir",
+    "base_verb": "medir",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "mido",
+        "mides",
+        "mide",
+        "medimos",
+        "medís",
+        "miden"
+      ],
+      "Pretérito": [
+        "medí",
+        "mediste",
+        "midió",
+        "medimos",
+        "medisteis",
+        "midieron"
+      ],
+      "Imperfecto": [
+        "medía",
+        "medías",
+        "medía",
+        "medíamos",
+        "medíais",
+        "medían"
+      ],
+      "Futuro": [
+        "mediré",
+        "medirás",
+        "medirá",
+        "mediremos",
+        "mediréis",
+        "medirán"
+      ],
+      "Condicional": [
+        "mediría",
+        "medirías",
+        "mediría",
+        "mediríamos",
+        "mediríais",
+        "medirían"
+      ]
+    }
+  },
+  "elegir": {
+    "infinitive": "elegir",
+    "base_verb": "elegir",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "elijo",
+        "eliges",
+        "elige",
+        "elegimos",
+        "elegís",
+        "eligen"
+      ],
+      "Pretérito": [
+        "elegí",
+        "elegiste",
+        "eligió",
+        "elegimos",
+        "elegisteis",
+        "eligieron"
+      ],
+      "Imperfecto": [
+        "elegía",
+        "elegías",
+        "elegía",
+        "elegíamos",
+        "elegíais",
+        "elegían"
+      ],
+      "Futuro": [
+        "elegiré",
+        "elegirás",
+        "elegirá",
+        "elegiremos",
+        "elegiréis",
+        "elegirán"
+      ],
+      "Condicional": [
+        "elegiría",
+        "elegirías",
+        "elegiría",
+        "elegiríamos",
+        "elegiríais",
+        "elegirían"
+      ]
+    }
+  },
+  "relajarse": {
+    "infinitive": "relajarse",
+    "base_verb": "relajar",
+    "reflexive": true,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "me relajo",
+        "te relajas",
+        "se relaja",
+        "nos relajamos",
+        "os relajáis",
+        "se relajan"
+      ],
+      "Pretérito": [
+        "me relajé",
+        "te relajaste",
+        "se relajó",
+        "nos relajamos",
+        "os relajasteis",
+        "se relajaron"
+      ],
+      "Imperfecto": [
+        "me relajaba",
+        "te relajabas",
+        "se relajaba",
+        "nos relajábamos",
+        "os relajabais",
+        "se relajaban"
+      ],
+      "Futuro": [
+        "me relajaré",
+        "te relajarás",
+        "se relajará",
+        "nos relajaremos",
+        "os relajaréis",
+        "se relajarán"
+      ],
+      "Condicional": [
+        "me relajaría",
+        "te relajarías",
+        "se relajaría",
+        "nos relajaríamos",
+        "os relajaríais",
+        "se relajarían"
+      ]
+    }
+  },
+  "recorrer": {
+    "infinitive": "recorrer",
+    "base_verb": "recorrer",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "recorro",
+        "recorres",
+        "recorre",
+        "recorremos",
+        "recorréis",
+        "recorren"
+      ],
+      "Pretérito": [
+        "recorrí",
+        "recorriste",
+        "recorrió",
+        "recorrimos",
+        "recorristeis",
+        "recorrieron"
+      ],
+      "Imperfecto": [
+        "recorría",
+        "recorrías",
+        "recorría",
+        "recorríamos",
+        "recorríais",
+        "recorrían"
+      ],
+      "Futuro": [
+        "recorreré",
+        "recorrerás",
+        "recorrerá",
+        "recorreremos",
+        "recorreréis",
+        "recorrerán"
+      ],
+      "Condicional": [
+        "recorrería",
+        "recorrerías",
+        "recorrería",
+        "recorreríamos",
+        "recorreríais",
+        "recorrerían"
+      ]
+    }
+  },
+  "crecer": {
+    "infinitive": "crecer",
+    "base_verb": "crecer",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "crezco",
+        "creces",
+        "crece",
+        "crecemos",
+        "crecéis",
+        "crecen"
+      ],
+      "Pretérito": [
+        "crecí",
+        "creciste",
+        "creció",
+        "crecimos",
+        "crecisteis",
+        "crecieron"
+      ],
+      "Imperfecto": [
+        "crecía",
+        "crecías",
+        "crecía",
+        "crecíamos",
+        "crecíais",
+        "crecían"
+      ],
+      "Futuro": [
+        "creceré",
+        "crecerás",
+        "crecerá",
+        "creceremos",
+        "creceréis",
+        "crecerán"
+      ],
+      "Condicional": [
+        "crecería",
+        "crecerías",
+        "crecería",
+        "creceríamos",
+        "creceríais",
+        "crecerían"
+      ]
+    }
+  },
+  "alquilar": {
+    "infinitive": "alquilar",
+    "base_verb": "alquilar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "alquilo",
+        "alquilas",
+        "alquila",
+        "alquilamos",
+        "alquiláis",
+        "alquilan"
+      ],
+      "Pretérito": [
+        "alquilé",
+        "alquilaste",
+        "alquiló",
+        "alquilamos",
+        "alquilasteis",
+        "alquilaron"
+      ],
+      "Imperfecto": [
+        "alquilaba",
+        "alquilabas",
+        "alquilaba",
+        "alquilábamos",
+        "alquilabais",
+        "alquilaban"
+      ],
+      "Futuro": [
+        "alquilaré",
+        "alquilarás",
+        "alquilará",
+        "alquilaremos",
+        "alquilaréis",
+        "alquilarán"
+      ],
+      "Condicional": [
+        "alquilaría",
+        "alquilarías",
+        "alquilaría",
+        "alquilaríamos",
+        "alquilaríais",
+        "alquilarían"
+      ]
+    }
+  },
+  "aprovechar": {
+    "infinitive": "aprovechar",
+    "base_verb": "aprovechar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "aprovecho",
+        "aprovechas",
+        "aprovecha",
+        "aprovechamos",
+        "aprovecháis",
+        "aprovechan"
+      ],
+      "Pretérito": [
+        "aproveché",
+        "aprovechaste",
+        "aprovechó",
+        "aprovechamos",
+        "aprovechasteis",
+        "aprovecharon"
+      ],
+      "Imperfecto": [
+        "aprovechaba",
+        "aprovechabas",
+        "aprovechaba",
+        "aprovechábamos",
+        "aprovechabais",
+        "aprovechaban"
+      ],
+      "Futuro": [
+        "aprovecharé",
+        "aprovecharás",
+        "aprovechará",
+        "aprovecharemos",
+        "aprovecharéis",
+        "aprovecharán"
+      ],
+      "Condicional": [
+        "aprovecharía",
+        "aprovecharías",
+        "aprovecharía",
+        "aprovecharíamos",
+        "aprovecharíais",
+        "aprovecharían"
+      ]
+    }
+  },
+  "transmitir": {
+    "infinitive": "transmitir",
+    "base_verb": "transmitir",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "transmito",
+        "transmites",
+        "transmite",
+        "transmitimos",
+        "transmitís",
+        "transmiten"
+      ],
+      "Pretérito": [
+        "transmití",
+        "transmitiste",
+        "transmitió",
+        "transmitimos",
+        "transmitisteis",
+        "transmitieron"
+      ],
+      "Imperfecto": [
+        "transmitía",
+        "transmitías",
+        "transmitía",
+        "transmitíamos",
+        "transmitíais",
+        "transmitían"
+      ],
+      "Futuro": [
+        "transmitiré",
+        "transmitirás",
+        "transmitirá",
+        "transmitiremos",
+        "transmitiréis",
+        "transmitirán"
+      ],
+      "Condicional": [
+        "transmitiría",
+        "transmitirías",
+        "transmitiría",
+        "transmitiríamos",
+        "transmitiríais",
+        "transmitirían"
+      ]
+    }
+  },
+  "aumentar": {
+    "infinitive": "aumentar",
+    "base_verb": "aumentar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "aumento",
+        "aumentas",
+        "aumenta",
+        "aumentamos",
+        "aumentáis",
+        "aumentan"
+      ],
+      "Pretérito": [
+        "aumenté",
+        "aumentaste",
+        "aumentó",
+        "aumentamos",
+        "aumentasteis",
+        "aumentaron"
+      ],
+      "Imperfecto": [
+        "aumentaba",
+        "aumentabas",
+        "aumentaba",
+        "aumentábamos",
+        "aumentabais",
+        "aumentaban"
+      ],
+      "Futuro": [
+        "aumentaré",
+        "aumentarás",
+        "aumentará",
+        "aumentaremos",
+        "aumentaréis",
+        "aumentarán"
+      ],
+      "Condicional": [
+        "aumentaría",
+        "aumentarías",
+        "aumentaría",
+        "aumentaríamos",
+        "aumentaríais",
+        "aumentarían"
+      ]
+    }
+  },
+  "cazar": {
+    "infinitive": "cazar",
+    "base_verb": "cazar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "cazo",
+        "cazas",
+        "caza",
+        "cazamos",
+        "cazáis",
+        "cazan"
+      ],
+      "Pretérito": [
+        "cacé",
+        "cazaste",
+        "cazó",
+        "cazamos",
+        "cazasteis",
+        "cazaron"
+      ],
+      "Imperfecto": [
+        "cazaba",
+        "cazabas",
+        "cazaba",
+        "cazábamos",
+        "cazabais",
+        "cazaban"
+      ],
+      "Futuro": [
+        "cazaré",
+        "cazarás",
+        "cazará",
+        "cazaremos",
+        "cazaréis",
+        "cazarán"
+      ],
+      "Condicional": [
+        "cazaría",
+        "cazarías",
+        "cazaría",
+        "cazaríamos",
+        "cazaríais",
+        "cazarían"
+      ]
+    }
+  },
+  "colocar": {
+    "infinitive": "colocar",
+    "base_verb": "colocar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "coloco",
+        "colocas",
+        "coloca",
+        "colocamos",
+        "colocáis",
+        "colocan"
+      ],
+      "Pretérito": [
+        "coloqué",
+        "colocaste",
+        "colocó",
+        "colocamos",
+        "colocasteis",
+        "colocaron"
+      ],
+      "Imperfecto": [
+        "colocaba",
+        "colocabas",
+        "colocaba",
+        "colocábamos",
+        "colocabais",
+        "colocaban"
+      ],
+      "Futuro": [
+        "colocaré",
+        "colocarás",
+        "colocará",
+        "colocaremos",
+        "colocaréis",
+        "colocarán"
+      ],
+      "Condicional": [
+        "colocaría",
+        "colocarías",
+        "colocaría",
+        "colocaríamos",
+        "colocaríais",
+        "colocarían"
+      ]
+    }
+  },
+  "importar": {
+    "infinitive": "importar",
+    "base_verb": "importar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "importo",
+        "importas",
+        "importa",
+        "importamos",
+        "importáis",
+        "importan"
+      ],
+      "Pretérito": [
+        "importé",
+        "importaste",
+        "importó",
+        "importamos",
+        "importasteis",
+        "importaron"
+      ],
+      "Imperfecto": [
+        "importaba",
+        "importabas",
+        "importaba",
+        "importábamos",
+        "importabais",
+        "importaban"
+      ],
+      "Futuro": [
+        "importaré",
+        "importarás",
+        "importará",
+        "importaremos",
+        "importaréis",
+        "importarán"
+      ],
+      "Condicional": [
+        "importaría",
+        "importarías",
+        "importaría",
+        "importaríamos",
+        "importaríais",
+        "importarían"
+      ]
+    }
+  },
+  "presentar": {
+    "infinitive": "presentar",
+    "base_verb": "presentar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "presento",
+        "presentas",
+        "presenta",
+        "presentamos",
+        "presentáis",
+        "presentan"
+      ],
+      "Pretérito": [
+        "presenté",
+        "presentaste",
+        "presentó",
+        "presentamos",
+        "presentasteis",
+        "presentaron"
+      ],
+      "Imperfecto": [
+        "presentaba",
+        "presentabas",
+        "presentaba",
+        "presentábamos",
+        "presentabais",
+        "presentaban"
+      ],
+      "Futuro": [
+        "presentaré",
+        "presentarás",
+        "presentará",
+        "presentaremos",
+        "presentaréis",
+        "presentarán"
+      ],
+      "Condicional": [
+        "presentaría",
+        "presentarías",
+        "presentaría",
+        "presentaríamos",
+        "presentaríais",
+        "presentarían"
+      ]
+    }
+  },
+  "saltar": {
+    "infinitive": "saltar",
+    "base_verb": "saltar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "salto",
+        "saltas",
+        "salta",
+        "saltamos",
+        "saltáis",
+        "saltan"
+      ],
+      "Pretérito": [
+        "salté",
+        "saltaste",
+        "saltó",
+        "saltamos",
+        "saltasteis",
+        "saltaron"
+      ],
+      "Imperfecto": [
+        "saltaba",
+        "saltabas",
+        "saltaba",
+        "saltábamos",
+        "saltabais",
+        "saltaban"
+      ],
+      "Futuro": [
+        "saltaré",
+        "saltarás",
+        "saltará",
+        "saltaremos",
+        "saltaréis",
+        "saltarán"
+      ],
+      "Condicional": [
+        "saltaría",
+        "saltarías",
+        "saltaría",
+        "saltaríamos",
+        "saltaríais",
+        "saltarían"
+      ]
+    }
+  },
+  "soler": {
+    "infinitive": "soler",
+    "base_verb": "soler",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "suelo",
+        "sueles",
+        "suele",
+        "solemos",
+        "soléis",
+        "suelen"
+      ],
+      "Pretérito": [
+        "solí",
+        "soliste",
+        "solió",
+        "solimos",
+        "solisteis",
+        "solieron"
+      ],
+      "Imperfecto": [
+        "solía",
+        "solías",
+        "solía",
+        "solíamos",
+        "solíais",
+        "solían"
+      ],
+      "Futuro": [
+        "soleré",
+        "solerás",
+        "solerá",
+        "soleremos",
+        "soleréis",
+        "solerán"
+      ],
+      "Condicional": [
+        "solería",
+        "solerías",
+        "solería",
+        "soleríamos",
+        "soleríais",
+        "solerían"
+      ]
+    }
+  },
+  "jubilarse": {
+    "infinitive": "jubilarse",
+    "base_verb": "jubilar",
+    "reflexive": true,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "me jubilo",
+        "te jubilas",
+        "se jubila",
+        "nos jubilamos",
+        "os jubiláis",
+        "se jubilan"
+      ],
+      "Pretérito": [
+        "me jubilé",
+        "te jubilaste",
+        "se jubiló",
+        "nos jubilamos",
+        "os jubilasteis",
+        "se jubilaron"
+      ],
+      "Imperfecto": [
+        "me jubilaba",
+        "te jubilabas",
+        "se jubilaba",
+        "nos jubilábamos",
+        "os jubilabais",
+        "se jubilaban"
+      ],
+      "Futuro": [
+        "me jubilaré",
+        "te jubilarás",
+        "se jubilará",
+        "nos jubilaremos",
+        "os jubilaréis",
+        "se jubilarán"
+      ],
+      "Condicional": [
+        "me jubilaría",
+        "te jubilarías",
+        "se jubilaría",
+        "nos jubilaríamos",
+        "os jubilaríais",
+        "se jubilarían"
+      ]
+    }
+  },
+  "amenazar": {
+    "infinitive": "amenazar",
+    "base_verb": "amenazar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "amenazo",
+        "amenazas",
+        "amenaza",
+        "amenazamos",
+        "amenazáis",
+        "amenazan"
+      ],
+      "Pretérito": [
+        "amenacé",
+        "amenazaste",
+        "amenazó",
+        "amenazamos",
+        "amenazasteis",
+        "amenazaron"
+      ],
+      "Imperfecto": [
+        "amenazaba",
+        "amenazabas",
+        "amenazaba",
+        "amenazábamos",
+        "amenazabais",
+        "amenazaban"
+      ],
+      "Futuro": [
+        "amenazaré",
+        "amenazarás",
+        "amenazará",
+        "amenazaremos",
+        "amenazaréis",
+        "amenazarán"
+      ],
+      "Condicional": [
+        "amenazaría",
+        "amenazarías",
+        "amenazaría",
+        "amenazaríamos",
+        "amenazaríais",
+        "amenazarían"
+      ]
+    }
+  },
+  "matar": {
+    "infinitive": "matar",
+    "base_verb": "matar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "mato",
+        "matas",
+        "mata",
+        "matamos",
+        "matáis",
+        "matan"
+      ],
+      "Pretérito": [
+        "maté",
+        "mataste",
+        "mató",
+        "matamos",
+        "matasteis",
+        "mataron"
+      ],
+      "Imperfecto": [
+        "mataba",
+        "matabas",
+        "mataba",
+        "matábamos",
+        "matabais",
+        "mataban"
+      ],
+      "Futuro": [
+        "mataré",
+        "matarás",
+        "matará",
+        "mataremos",
+        "mataréis",
+        "matarán"
+      ],
+      "Condicional": [
+        "mataría",
+        "matarías",
+        "mataría",
+        "mataríamos",
+        "mataríais",
+        "matarían"
+      ]
+    }
+  },
+  "regalar": {
+    "infinitive": "regalar",
+    "base_verb": "regalar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "regalo",
+        "regalas",
+        "regala",
+        "regalamos",
+        "regaláis",
+        "regalan"
+      ],
+      "Pretérito": [
+        "regalé",
+        "regalaste",
+        "regaló",
+        "regalamos",
+        "regalasteis",
+        "regalaron"
+      ],
+      "Imperfecto": [
+        "regalaba",
+        "regalabas",
+        "regalaba",
+        "regalábamos",
+        "regalabais",
+        "regalaban"
+      ],
+      "Futuro": [
+        "regalaré",
+        "regalarás",
+        "regalará",
+        "regalaremos",
+        "regalaréis",
+        "regalarán"
+      ],
+      "Condicional": [
+        "regalaría",
+        "regalarías",
+        "regalaría",
+        "regalaríamos",
+        "regalaríais",
+        "regalarían"
+      ]
+    }
+  },
+  "saludar": {
+    "infinitive": "saludar",
+    "base_verb": "saludar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "saludo",
+        "saludas",
+        "saluda",
+        "saludamos",
+        "saludáis",
+        "saludan"
+      ],
+      "Pretérito": [
+        "saludé",
+        "saludaste",
+        "saludó",
+        "saludamos",
+        "saludasteis",
+        "saludaron"
+      ],
+      "Imperfecto": [
+        "saludaba",
+        "saludabas",
+        "saludaba",
+        "saludábamos",
+        "saludabais",
+        "saludaban"
+      ],
+      "Futuro": [
+        "saludaré",
+        "saludarás",
+        "saludará",
+        "saludaremos",
+        "saludaréis",
+        "saludarán"
+      ],
+      "Condicional": [
+        "saludaría",
+        "saludarías",
+        "saludaría",
+        "saludaríamos",
+        "saludaríais",
+        "saludarían"
+      ]
+    }
+  },
+  "soñar": {
+    "infinitive": "soñar",
+    "base_verb": "soñar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "sueño",
+        "sueñas",
+        "sueña",
+        "soñamos",
+        "soñáis",
+        "sueñan"
+      ],
+      "Pretérito": [
+        "soñé",
+        "soñaste",
+        "soñó",
+        "soñamos",
+        "soñasteis",
+        "soñaron"
+      ],
+      "Imperfecto": [
+        "soñaba",
+        "soñabas",
+        "soñaba",
+        "soñábamos",
+        "soñabais",
+        "soñaban"
+      ],
+      "Futuro": [
+        "soñaré",
+        "soñarás",
+        "soñará",
+        "soñaremos",
+        "soñaréis",
+        "soñarán"
+      ],
+      "Condicional": [
+        "soñaría",
+        "soñarías",
+        "soñaría",
+        "soñaríamos",
+        "soñaríais",
+        "soñarían"
+      ]
+    }
+  },
+  "despedirse": {
+    "infinitive": "despedirse",
+    "base_verb": "despedir",
+    "reflexive": true,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "me despido",
+        "te despides",
+        "se despide",
+        "nos despedimos",
+        "os despedís",
+        "se despiden"
+      ],
+      "Pretérito": [
+        "me despedí",
+        "te despediste",
+        "se despidió",
+        "nos despedimos",
+        "os despedisteis",
+        "se despidieron"
+      ],
+      "Imperfecto": [
+        "me despedía",
+        "te despedías",
+        "se despedía",
+        "nos despedíamos",
+        "os despedíais",
+        "se despedían"
+      ],
+      "Futuro": [
+        "me despediré",
+        "te despedirás",
+        "se despedirá",
+        "nos despediremos",
+        "os despediréis",
+        "se despedirán"
+      ],
+      "Condicional": [
+        "me despediría",
+        "te despedirías",
+        "se despediría",
+        "nos despediríamos",
+        "os despediríais",
+        "se despedirían"
+      ]
+    }
+  },
+  "tener que": {
+    "infinitive": "tener que",
+    "base_verb": "tener",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "tengo que",
+        "tienes que",
+        "tiene que",
+        "tenemos que",
+        "tenéis que",
+        "tienen que"
+      ],
+      "Pretérito": [
+        "tuve que",
+        "tuviste que",
+        "tuvo que",
+        "tuvimos que",
+        "tuvisteis que",
+        "tuvieron que"
+      ],
+      "Imperfecto": [
+        "tenía que",
+        "tenías que",
+        "tenía que",
+        "teníamos que",
+        "teníais que",
+        "tenían que"
+      ],
+      "Futuro": [
+        "tendré que",
+        "tendrás que",
+        "tendrá que",
+        "tendremos que",
+        "tendréis que",
+        "tendrán que"
+      ],
+      "Condicional": [
+        "tendría que",
+        "tendrías que",
+        "tendría que",
+        "tendríamos que",
+        "tendríais que",
+        "tendrían que"
+      ]
+    }
+  },
+  "romperse": {
+    "infinitive": "romperse",
+    "base_verb": "romper",
+    "reflexive": true,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "me rompo",
+        "te rompes",
+        "se rompe",
+        "nos rompemos",
+        "os rompéis",
+        "se rompen"
+      ],
+      "Pretérito": [
+        "me rompí",
+        "te rompiste",
+        "se rompió",
+        "nos rompimos",
+        "os rompisteis",
+        "se rompieron"
+      ],
+      "Imperfecto": [
+        "me rompía",
+        "te rompías",
+        "se rompía",
+        "nos rompíamos",
+        "os rompíais",
+        "se rompían"
+      ],
+      "Futuro": [
+        "me romperé",
+        "te romperás",
+        "se romperá",
+        "nos romperemos",
+        "os romperéis",
+        "se romperán"
+      ],
+      "Condicional": [
+        "me rompería",
+        "te romperías",
+        "se rompería",
+        "nos romperíamos",
+        "os romperíais",
+        "se romperían"
+      ]
+    }
+  },
+  "destruir": {
+    "infinitive": "destruir",
+    "base_verb": "destruir",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "destruyo",
+        "destruyes",
+        "destruye",
+        "destruimos",
+        "destruís",
+        "destruyen"
+      ],
+      "Pretérito": [
+        "destruí",
+        "destruiste",
+        "destruyó",
+        "destruimos",
+        "destruisteis",
+        "destruyeron"
+      ],
+      "Imperfecto": [
+        "destruía",
+        "destruías",
+        "destruía",
+        "destruíamos",
+        "destruíais",
+        "destruían"
+      ],
+      "Futuro": [
+        "destruiré",
+        "destruirás",
+        "destruirá",
+        "destruiremos",
+        "destruiréis",
+        "destruirán"
+      ],
+      "Condicional": [
+        "destruiría",
+        "destruirías",
+        "destruiría",
+        "destruiríamos",
+        "destruiríais",
+        "destruirían"
+      ]
+    }
+  },
+  "preocuparse": {
+    "infinitive": "preocuparse",
+    "base_verb": "preocupar",
+    "reflexive": true,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "me preocupo",
+        "te preocupas",
+        "se preocupa",
+        "nos preocupamos",
+        "os preocupáis",
+        "se preocupan"
+      ],
+      "Pretérito": [
+        "me preocupé",
+        "te preocupaste",
+        "se preocupó",
+        "nos preocupamos",
+        "os preocupasteis",
+        "se preocuparon"
+      ],
+      "Imperfecto": [
+        "me preocupaba",
+        "te preocupabas",
+        "se preocupaba",
+        "nos preocupábamos",
+        "os preocupabais",
+        "se preocupaban"
+      ],
+      "Futuro": [
+        "me preocuparé",
+        "te preocuparás",
+        "se preocupará",
+        "nos preocuparemos",
+        "os preocuparéis",
+        "se preocuparán"
+      ],
+      "Condicional": [
+        "me preocuparía",
+        "te preocuparías",
+        "se preocuparía",
+        "nos preocuparíamos",
+        "os preocuparíais",
+        "se preocuparían"
+      ]
+    }
+  },
+  "volar": {
+    "infinitive": "volar",
+    "base_verb": "volar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "vuelo",
+        "vuelas",
+        "vuela",
+        "volamos",
+        "voláis",
+        "vuelan"
+      ],
+      "Pretérito": [
+        "volé",
+        "volaste",
+        "voló",
+        "volamos",
+        "volasteis",
+        "volaron"
+      ],
+      "Imperfecto": [
+        "volaba",
+        "volabas",
+        "volaba",
+        "volábamos",
+        "volabais",
+        "volaban"
+      ],
+      "Futuro": [
+        "volaré",
+        "volarás",
+        "volará",
+        "volaremos",
+        "volaréis",
+        "volarán"
+      ],
+      "Condicional": [
+        "volaría",
+        "volarías",
+        "volaría",
+        "volaríamos",
+        "volaríais",
+        "volarían"
+      ]
+    }
+  },
+  "construir": {
+    "infinitive": "construir",
+    "base_verb": "construir",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "construyo",
+        "construyes",
+        "construye",
+        "construimos",
+        "construís",
+        "construyen"
+      ],
+      "Pretérito": [
+        "construí",
+        "construiste",
+        "construyó",
+        "construimos",
+        "construisteis",
+        "construyeron"
+      ],
+      "Imperfecto": [
+        "construía",
+        "construías",
+        "construía",
+        "construíamos",
+        "construíais",
+        "construían"
+      ],
+      "Futuro": [
+        "construiré",
+        "construirás",
+        "construirá",
+        "construiremos",
+        "construiréis",
+        "construirán"
+      ],
+      "Condicional": [
+        "construiría",
+        "construirías",
+        "construiría",
+        "construiríamos",
+        "construiríais",
+        "construirían"
+      ]
+    }
+  },
+  "encender": {
+    "infinitive": "encender",
+    "base_verb": "encender",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "enciendo",
+        "enciendes",
+        "enciende",
+        "encendemos",
+        "encendéis",
+        "encienden"
+      ],
+      "Pretérito": [
+        "encendí",
+        "encendiste",
+        "encendió",
+        "encendimos",
+        "encendisteis",
+        "encendieron"
+      ],
+      "Imperfecto": [
+        "encendía",
+        "encendías",
+        "encendía",
+        "encendíamos",
+        "encendíais",
+        "encendían"
+      ],
+      "Futuro": [
+        "encenderé",
+        "encenderás",
+        "encenderá",
+        "encenderemos",
+        "encenderéis",
+        "encenderán"
+      ],
+      "Condicional": [
+        "encendería",
+        "encenderías",
+        "encendería",
+        "encenderíamos",
+        "encenderíais",
+        "encenderían"
+      ]
+    }
+  },
+  "crear": {
+    "infinitive": "crear",
+    "base_verb": "crear",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "creo",
+        "creas",
+        "crea",
+        "creamos",
+        "creáis",
+        "crean"
+      ],
+      "Pretérito": [
+        "creé",
+        "creaste",
+        "creó",
+        "creamos",
+        "creasteis",
+        "crearon"
+      ],
+      "Imperfecto": [
+        "creaba",
+        "creabas",
+        "creaba",
+        "creábamos",
+        "creabais",
+        "creaban"
+      ],
+      "Futuro": [
+        "crearé",
+        "crearás",
+        "creará",
+        "crearemos",
+        "crearéis",
+        "crearán"
+      ],
+      "Condicional": [
+        "crearía",
+        "crearías",
+        "crearía",
+        "crearíamos",
+        "crearíais",
+        "crearían"
+      ]
+    }
+  },
+  "gritar": {
+    "infinitive": "gritar",
+    "base_verb": "gritar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "grito",
+        "gritas",
+        "grita",
+        "gritamos",
+        "gritáis",
+        "gritan"
+      ],
+      "Pretérito": [
+        "grité",
+        "gritaste",
+        "gritó",
+        "gritamos",
+        "gritasteis",
+        "gritaron"
+      ],
+      "Imperfecto": [
+        "gritaba",
+        "gritabas",
+        "gritaba",
+        "gritábamos",
+        "gritabais",
+        "gritaban"
+      ],
+      "Futuro": [
+        "gritaré",
+        "gritarás",
+        "gritará",
+        "gritaremos",
+        "gritaréis",
+        "gritarán"
+      ],
+      "Condicional": [
+        "gritaría",
+        "gritarías",
+        "gritaría",
+        "gritaríamos",
+        "gritaríais",
+        "gritarían"
+      ]
+    }
+  },
+  "describir": {
+    "infinitive": "describir",
+    "base_verb": "describir",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "describo",
+        "describes",
+        "describe",
+        "describimos",
+        "describís",
+        "describen"
+      ],
+      "Pretérito": [
+        "describí",
+        "describiste",
+        "describió",
+        "describimos",
+        "describisteis",
+        "describieron"
+      ],
+      "Imperfecto": [
+        "describía",
+        "describías",
+        "describía",
+        "describíamos",
+        "describíais",
+        "describían"
+      ],
+      "Futuro": [
+        "describiré",
+        "describirás",
+        "describirá",
+        "describiremos",
+        "describiréis",
+        "describirán"
+      ],
+      "Condicional": [
+        "describiría",
+        "describirías",
+        "describiría",
+        "describiríamos",
+        "describiríais",
+        "describirían"
+      ]
+    }
+  },
+  "llorar": {
+    "infinitive": "llorar",
+    "base_verb": "llorar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "lloro",
+        "lloras",
+        "llora",
+        "lloramos",
+        "lloráis",
+        "lloran"
+      ],
+      "Pretérito": [
+        "lloré",
+        "lloraste",
+        "lloró",
+        "lloramos",
+        "llorasteis",
+        "lloraron"
+      ],
+      "Imperfecto": [
+        "lloraba",
+        "llorabas",
+        "lloraba",
+        "llorábamos",
+        "llorabais",
+        "lloraban"
+      ],
+      "Futuro": [
+        "lloraré",
+        "llorarás",
+        "llorará",
+        "lloraremos",
+        "lloraréis",
+        "llorarán"
+      ],
+      "Condicional": [
+        "lloraría",
+        "llorarías",
+        "lloraría",
+        "lloraríamos",
+        "lloraríais",
+        "llorarían"
+      ]
+    }
+  },
+  "amar": {
+    "infinitive": "amar",
+    "base_verb": "amar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "amo",
+        "amas",
+        "ama",
+        "amamos",
+        "amáis",
+        "aman"
+      ],
+      "Pretérito": [
+        "amé",
+        "amaste",
+        "amó",
+        "amamos",
+        "amasteis",
+        "amaron"
+      ],
+      "Imperfecto": [
+        "amaba",
+        "amabas",
+        "amaba",
+        "amábamos",
+        "amabais",
+        "amaban"
+      ],
+      "Futuro": [
+        "amaré",
+        "amarás",
+        "amará",
+        "amaremos",
+        "amaréis",
+        "amarán"
+      ],
+      "Condicional": [
+        "amaría",
+        "amarías",
+        "amaría",
+        "amaríamos",
+        "amaríais",
+        "amarían"
+      ]
+    }
+  },
+  "decidir": {
+    "infinitive": "decidir",
+    "base_verb": "decidir",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "decido",
+        "decides",
+        "decide",
+        "decidimos",
+        "decidís",
+        "deciden"
+      ],
+      "Pretérito": [
+        "decidí",
+        "decidiste",
+        "decidió",
+        "decidimos",
+        "decidisteis",
+        "decidieron"
+      ],
+      "Imperfecto": [
+        "decidía",
+        "decidías",
+        "decidía",
+        "decidíamos",
+        "decidíais",
+        "decidían"
+      ],
+      "Futuro": [
+        "decidiré",
+        "decidirás",
+        "decidirá",
+        "decidiremos",
+        "decidiréis",
+        "decidirán"
+      ],
+      "Condicional": [
+        "decidiría",
+        "decidirías",
+        "decidiría",
+        "decidiríamos",
+        "decidiríais",
+        "decidirían"
+      ]
+    }
+  },
+  "comunicarse": {
+    "infinitive": "comunicarse",
+    "base_verb": "comunicar",
+    "reflexive": true,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "me comunico",
+        "te comunicas",
+        "se comunica",
+        "nos comunicamos",
+        "os comunicáis",
+        "se comunican"
+      ],
+      "Pretérito": [
+        "me comuniqué",
+        "te comunicaste",
+        "se comunicó",
+        "nos comunicamos",
+        "os comunicasteis",
+        "se comunicaron"
+      ],
+      "Imperfecto": [
+        "me comunicaba",
+        "te comunicabas",
+        "se comunicaba",
+        "nos comunicábamos",
+        "os comunicabais",
+        "se comunicaban"
+      ],
+      "Futuro": [
+        "me comunicaré",
+        "te comunicarás",
+        "se comunicará",
+        "nos comunicaremos",
+        "os comunicaréis",
+        "se comunicarán"
+      ],
+      "Condicional": [
+        "me comunicaría",
+        "te comunicarías",
+        "se comunicaría",
+        "nos comunicaríamos",
+        "os comunicaríais",
+        "se comunicarían"
+      ]
+    }
+  },
+  "informar": {
+    "infinitive": "informar",
+    "base_verb": "informar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "informo",
+        "informas",
+        "informa",
+        "informamos",
+        "informáis",
+        "informan"
+      ],
+      "Pretérito": [
+        "informé",
+        "informaste",
+        "informó",
+        "informamos",
+        "informasteis",
+        "informaron"
+      ],
+      "Imperfecto": [
+        "informaba",
+        "informabas",
+        "informaba",
+        "informábamos",
+        "informabais",
+        "informaban"
+      ],
+      "Futuro": [
+        "informaré",
+        "informarás",
+        "informará",
+        "informaremos",
+        "informaréis",
+        "informarán"
+      ],
+      "Condicional": [
+        "informaría",
+        "informarías",
+        "informaría",
+        "informaríamos",
+        "informaríais",
+        "informarían"
+      ]
+    }
+  },
+  "manipular": {
+    "infinitive": "manipular",
+    "base_verb": "manipular",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "manipulo",
+        "manipulas",
+        "manipula",
+        "manipulamos",
+        "manipuláis",
+        "manipulan"
+      ],
+      "Pretérito": [
+        "manipulé",
+        "manipulaste",
+        "manipuló",
+        "manipulamos",
+        "manipulasteis",
+        "manipularon"
+      ],
+      "Imperfecto": [
+        "manipulaba",
+        "manipulabas",
+        "manipulaba",
+        "manipulábamos",
+        "manipulabais",
+        "manipulaban"
+      ],
+      "Futuro": [
+        "manipularé",
+        "manipularás",
+        "manipulará",
+        "manipularemos",
+        "manipularéis",
+        "manipularán"
+      ],
+      "Condicional": [
+        "manipularía",
+        "manipularías",
+        "manipularía",
+        "manipularíamos",
+        "manipularíais",
+        "manipularían"
+      ]
+    }
+  },
+  "controlar": {
+    "infinitive": "controlar",
+    "base_verb": "controlar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "controlo",
+        "controlas",
+        "controla",
+        "controlamos",
+        "controláis",
+        "controlan"
+      ],
+      "Pretérito": [
+        "controlé",
+        "controlaste",
+        "controló",
+        "controlamos",
+        "controlasteis",
+        "controlaron"
+      ],
+      "Imperfecto": [
+        "controlaba",
+        "controlabas",
+        "controlaba",
+        "controlábamos",
+        "controlabais",
+        "controlaban"
+      ],
+      "Futuro": [
+        "controlaré",
+        "controlarás",
+        "controlará",
+        "controlaremos",
+        "controlaréis",
+        "controlarán"
+      ],
+      "Condicional": [
+        "controlaría",
+        "controlarías",
+        "controlaría",
+        "controlaríamos",
+        "controlaríais",
+        "controlarían"
+      ]
+    }
+  },
+  "consumir": {
+    "infinitive": "consumir",
+    "base_verb": "consumir",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "consumo",
+        "consumes",
+        "consume",
+        "consumimos",
+        "consumís",
+        "consumen"
+      ],
+      "Pretérito": [
+        "consumí",
+        "consumiste",
+        "consumió",
+        "consumimos",
+        "consumisteis",
+        "consumieron"
+      ],
+      "Imperfecto": [
+        "consumía",
+        "consumías",
+        "consumía",
+        "consumíamos",
+        "consumíais",
+        "consumían"
+      ],
+      "Futuro": [
+        "consumiré",
+        "consumirás",
+        "consumirá",
+        "consumiremos",
+        "consumiréis",
+        "consumirán"
+      ],
+      "Condicional": [
+        "consumiría",
+        "consumirías",
+        "consumiría",
+        "consumiríamos",
+        "consumiríais",
+        "consumirían"
+      ]
+    }
+  },
+  "publicar": {
+    "infinitive": "publicar",
+    "base_verb": "publicar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "publico",
+        "publicas",
+        "publica",
+        "publicamos",
+        "publicáis",
+        "publican"
+      ],
+      "Pretérito": [
+        "publiqué",
+        "publicaste",
+        "publicó",
+        "publicamos",
+        "publicasteis",
+        "publicaron"
+      ],
+      "Imperfecto": [
+        "publicaba",
+        "publicabas",
+        "publicaba",
+        "publicábamos",
+        "publicabais",
+        "publicaban"
+      ],
+      "Futuro": [
+        "publicaré",
+        "publicarás",
+        "publicará",
+        "publicaremos",
+        "publicaréis",
+        "publicarán"
+      ],
+      "Condicional": [
+        "publicaría",
+        "publicarías",
+        "publicaría",
+        "publicaríamos",
+        "publicaríais",
+        "publicarían"
+      ]
+    }
+  },
+  "tener una cita": {
+    "infinitive": "tener una cita",
+    "base_verb": "tener",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "tengo una cita",
+        "tienes una cita",
+        "tiene una cita",
+        "tenemos una cita",
+        "tenéis una cita",
+        "tienen una cita"
+      ],
+      "Pretérito": [
+        "tuve una cita",
+        "tuviste una cita",
+        "tuvo una cita",
+        "tuvimos una cita",
+        "tuvisteis una cita",
+        "tuvieron una cita"
+      ],
+      "Imperfecto": [
+        "tenía una cita",
+        "tenías una cita",
+        "tenía una cita",
+        "teníamos una cita",
+        "teníais una cita",
+        "tenían una cita"
+      ],
+      "Futuro": [
+        "tendré una cita",
+        "tendrás una cita",
+        "tendrá una cita",
+        "tendremos una cita",
+        "tendréis una cita",
+        "tendrán una cita"
+      ],
+      "Condicional": [
+        "tendría una cita",
+        "tendrías una cita",
+        "tendría una cita",
+        "tendríamos una cita",
+        "tendríais una cita",
+        "tendrían una cita"
+      ]
+    }
+  },
+  "llamarse": {
+    "infinitive": "llamarse",
+    "base_verb": "llamar",
+    "reflexive": true,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "me llamo",
+        "te llamas",
+        "se llama",
+        "nos llamamos",
+        "os llamáis",
+        "se llaman"
+      ],
+      "Pretérito": [
+        "me llamé",
+        "te llamaste",
+        "se llamó",
+        "nos llamamos",
+        "os llamasteis",
+        "se llamaron"
+      ],
+      "Imperfecto": [
+        "me llamaba",
+        "te llamabas",
+        "se llamaba",
+        "nos llamábamos",
+        "os llamabais",
+        "se llamaban"
+      ],
+      "Futuro": [
+        "me llamaré",
+        "te llamarás",
+        "se llamará",
+        "nos llamaremos",
+        "os llamaréis",
+        "se llamarán"
+      ],
+      "Condicional": [
+        "me llamaría",
+        "te llamarías",
+        "se llamaría",
+        "nos llamaríamos",
+        "os llamaríais",
+        "se llamarían"
+      ]
+    }
+  },
+  "salir con": {
+    "infinitive": "salir con",
+    "base_verb": "salir",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "salgo con",
+        "sales con",
+        "sale con",
+        "salimos con",
+        "salís con",
+        "salen con"
+      ],
+      "Pretérito": [
+        "salí con",
+        "saliste con",
+        "salió con",
+        "salimos con",
+        "salisteis con",
+        "salieron con"
+      ],
+      "Imperfecto": [
+        "salía con",
+        "salías con",
+        "salía con",
+        "salíamos con",
+        "salíais con",
+        "salían con"
+      ],
+      "Futuro": [
+        "saldré con",
+        "saldrás con",
+        "saldrá con",
+        "saldremos con",
+        "saldréis con",
+        "saldrán con"
+      ],
+      "Condicional": [
+        "saldría con",
+        "saldrías con",
+        "saldría con",
+        "saldríamos con",
+        "saldríais con",
+        "saldrían con"
+      ]
+    }
+  },
+  "depositar": {
+    "infinitive": "depositar",
+    "base_verb": "depositar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "deposito",
+        "depositas",
+        "deposita",
+        "depositamos",
+        "depositáis",
+        "depositan"
+      ],
+      "Pretérito": [
+        "deposité",
+        "depositaste",
+        "depositó",
+        "depositamos",
+        "depositasteis",
+        "depositaron"
+      ],
+      "Imperfecto": [
+        "depositaba",
+        "depositabas",
+        "depositaba",
+        "depositábamos",
+        "depositabais",
+        "depositaban"
+      ],
+      "Futuro": [
+        "depositaré",
+        "depositarás",
+        "depositará",
+        "depositaremos",
+        "depositaréis",
+        "depositarán"
+      ],
+      "Condicional": [
+        "depositaría",
+        "depositarías",
+        "depositaría",
+        "depositaríamos",
+        "depositaríais",
+        "depositarían"
+      ]
+    }
+  },
+  "tener cuidado": {
+    "infinitive": "tener cuidado",
+    "base_verb": "tener",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "tengo cuidado",
+        "tienes cuidado",
+        "tiene cuidado",
+        "tenemos cuidado",
+        "tenéis cuidado",
+        "tienen cuidado"
+      ],
+      "Pretérito": [
+        "tuve cuidado",
+        "tuviste cuidado",
+        "tuvo cuidado",
+        "tuvimos cuidado",
+        "tuvisteis cuidado",
+        "tuvieron cuidado"
+      ],
+      "Imperfecto": [
+        "tenía cuidado",
+        "tenías cuidado",
+        "tenía cuidado",
+        "teníamos cuidado",
+        "teníais cuidado",
+        "tenían cuidado"
+      ],
+      "Futuro": [
+        "tendré cuidado",
+        "tendrás cuidado",
+        "tendrá cuidado",
+        "tendremos cuidado",
+        "tendréis cuidado",
+        "tendrán cuidado"
+      ],
+      "Condicional": [
+        "tendría cuidado",
+        "tendrías cuidado",
+        "tendría cuidado",
+        "tendríamos cuidado",
+        "tendríais cuidado",
+        "tendrían cuidado"
+      ]
+    }
+  },
+  "tener sueño": {
+    "infinitive": "tener sueño",
+    "base_verb": "tener",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "tengo sueño",
+        "tienes sueño",
+        "tiene sueño",
+        "tenemos sueño",
+        "tenéis sueño",
+        "tienen sueño"
+      ],
+      "Pretérito": [
+        "tuve sueño",
+        "tuviste sueño",
+        "tuvo sueño",
+        "tuvimos sueño",
+        "tuvisteis sueño",
+        "tuvieron sueño"
+      ],
+      "Imperfecto": [
+        "tenía sueño",
+        "tenías sueño",
+        "tenía sueño",
+        "teníamos sueño",
+        "teníais sueño",
+        "tenían sueño"
+      ],
+      "Futuro": [
+        "tendré sueño",
+        "tendrás sueño",
+        "tendrá sueño",
+        "tendremos sueño",
+        "tendréis sueño",
+        "tendrán sueño"
+      ],
+      "Condicional": [
+        "tendría sueño",
+        "tendrías sueño",
+        "tendría sueño",
+        "tendríamos sueño",
+        "tendríais sueño",
+        "tendrían sueño"
+      ]
+    }
+  },
+  "lavarse la cara": {
+    "infinitive": "lavarse la cara",
+    "base_verb": "lavar",
+    "reflexive": true,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "me lavo la cara",
+        "te lavas la cara",
+        "se lava la cara",
+        "nos lavamos la cara",
+        "os laváis la cara",
+        "se lavan la cara"
+      ],
+      "Pretérito": [
+        "me lavé la cara",
+        "te lavaste la cara",
+        "se lavó la cara",
+        "nos lavamos la cara",
+        "os lavasteis la cara",
+        "se lavaron la cara"
+      ],
+      "Imperfecto": [
+        "me lavaba la cara",
+        "te lavabas la cara",
+        "se lavaba la cara",
+        "nos lavábamos la cara",
+        "os lavabais la cara",
+        "se lavaban la cara"
+      ],
+      "Futuro": [
+        "me lavaré la cara",
+        "te lavarás la cara",
+        "se lavará la cara",
+        "nos lavaremos la cara",
+        "os lavaréis la cara",
+        "se lavarán la cara"
+      ],
+      "Condicional": [
+        "me lavaría la cara",
+        "te lavarías la cara",
+        "se lavaría la cara",
+        "nos lavaríamos la cara",
+        "os lavaríais la cara",
+        "se lavarían la cara"
+      ]
+    }
+  },
+  "tener celos": {
+    "infinitive": "tener celos",
+    "base_verb": "tener",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "tengo celos",
+        "tienes celos",
+        "tiene celos",
+        "tenemos celos",
+        "tenéis celos",
+        "tienen celos"
+      ],
+      "Pretérito": [
+        "tuve celos",
+        "tuviste celos",
+        "tuvo celos",
+        "tuvimos celos",
+        "tuvisteis celos",
+        "tuvieron celos"
+      ],
+      "Imperfecto": [
+        "tenía celos",
+        "tenías celos",
+        "tenía celos",
+        "teníamos celos",
+        "teníais celos",
+        "tenían celos"
+      ],
+      "Futuro": [
+        "tendré celos",
+        "tendrás celos",
+        "tendrá celos",
+        "tendremos celos",
+        "tendréis celos",
+        "tendrán celos"
+      ],
+      "Condicional": [
+        "tendría celos",
+        "tendrías celos",
+        "tendría celos",
+        "tendríamos celos",
+        "tendríais celos",
+        "tendrían celos"
+      ]
+    }
+  },
+  "tener razón": {
+    "infinitive": "tener razón",
+    "base_verb": "tener",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "tengo razón",
+        "tienes razón",
+        "tiene razón",
+        "tenemos razón",
+        "tenéis razón",
+        "tienen razón"
+      ],
+      "Pretérito": [
+        "tuve razón",
+        "tuviste razón",
+        "tuvo razón",
+        "tuvimos razón",
+        "tuvisteis razón",
+        "tuvieron razón"
+      ],
+      "Imperfecto": [
+        "tenía razón",
+        "tenías razón",
+        "tenía razón",
+        "teníamos razón",
+        "teníais razón",
+        "tenían razón"
+      ],
+      "Futuro": [
+        "tendré razón",
+        "tendrás razón",
+        "tendrá razón",
+        "tendremos razón",
+        "tendréis razón",
+        "tendrán razón"
+      ],
+      "Condicional": [
+        "tendría razón",
+        "tendrías razón",
+        "tendría razón",
+        "tendríamos razón",
+        "tendríais razón",
+        "tendrían razón"
+      ]
+    }
+  },
+  "insistir en": {
+    "infinitive": "insistir en",
+    "base_verb": "insistir",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "insisto en",
+        "insistes en",
+        "insiste en",
+        "insistimos en",
+        "insistís en",
+        "insisten en"
+      ],
+      "Pretérito": [
+        "insistí en",
+        "insististe en",
+        "insistió en",
+        "insistimos en",
+        "insististeis en",
+        "insistieron en"
+      ],
+      "Imperfecto": [
+        "insistía en",
+        "insistías en",
+        "insistía en",
+        "insistíamos en",
+        "insistíais en",
+        "insistían en"
+      ],
+      "Futuro": [
+        "insistiré en",
+        "insistirás en",
+        "insistirá en",
+        "insistiremos en",
+        "insistiréis en",
+        "insistirán en"
+      ],
+      "Condicional": [
+        "insistiría en",
+        "insistirías en",
+        "insistiría en",
+        "insistiríamos en",
+        "insistiríais en",
+        "insistirían en"
+      ]
+    }
+  },
+  "quitar la mesa": {
+    "infinitive": "quitar la mesa",
+    "base_verb": "quitar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "quito la mesa",
+        "quitas la mesa",
+        "quita la mesa",
+        "quitamos la mesa",
+        "quitáis la mesa",
+        "quitan la mesa"
+      ],
+      "Pretérito": [
+        "quité la mesa",
+        "quitaste la mesa",
+        "quitó la mesa",
+        "quitamos la mesa",
+        "quitasteis la mesa",
+        "quitaron la mesa"
+      ],
+      "Imperfecto": [
+        "quitaba la mesa",
+        "quitabas la mesa",
+        "quitaba la mesa",
+        "quitábamos la mesa",
+        "quitabais la mesa",
+        "quitaban la mesa"
+      ],
+      "Futuro": [
+        "quitaré la mesa",
+        "quitarás la mesa",
+        "quitará la mesa",
+        "quitaremos la mesa",
+        "quitaréis la mesa",
+        "quitarán la mesa"
+      ],
+      "Condicional": [
+        "quitaría la mesa",
+        "quitarías la mesa",
+        "quitaría la mesa",
+        "quitaríamos la mesa",
+        "quitaríais la mesa",
+        "quitarían la mesa"
+      ]
+    }
+  },
+  "tener éxito": {
+    "infinitive": "tener éxito",
+    "base_verb": "tener",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "tengo éxito",
+        "tienes éxito",
+        "tiene éxito",
+        "tenemos éxito",
+        "tenéis éxito",
+        "tienen éxito"
+      ],
+      "Pretérito": [
+        "tuve éxito",
+        "tuviste éxito",
+        "tuvo éxito",
+        "tuvimos éxito",
+        "tuvisteis éxito",
+        "tuvieron éxito"
+      ],
+      "Imperfecto": [
+        "tenía éxito",
+        "tenías éxito",
+        "tenía éxito",
+        "teníamos éxito",
+        "teníais éxito",
+        "tenían éxito"
+      ],
+      "Futuro": [
+        "tendré éxito",
+        "tendrás éxito",
+        "tendrá éxito",
+        "tendremos éxito",
+        "tendréis éxito",
+        "tendrán éxito"
+      ],
+      "Condicional": [
+        "tendría éxito",
+        "tendrías éxito",
+        "tendría éxito",
+        "tendríamos éxito",
+        "tendríais éxito",
+        "tendrían éxito"
+      ]
+    }
+  },
+  "llevarse bien": {
+    "infinitive": "llevarse bien",
+    "base_verb": "llevar",
+    "reflexive": true,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "me llevo bien",
+        "te llevas bien",
+        "se lleva bien",
+        "nos llevamos bien",
+        "os lleváis bien",
+        "se llevan bien"
+      ],
+      "Pretérito": [
+        "me llevé bien",
+        "te llevaste bien",
+        "se llevó bien",
+        "nos llevamos bien",
+        "os llevasteis bien",
+        "se llevaron bien"
+      ],
+      "Imperfecto": [
+        "me llevaba bien",
+        "te llevabas bien",
+        "se llevaba bien",
+        "nos llevábamos bien",
+        "os llevabais bien",
+        "se llevaban bien"
+      ],
+      "Futuro": [
+        "me llevaré bien",
+        "te llevarás bien",
+        "se llevará bien",
+        "nos llevaremos bien",
+        "os llevaréis bien",
+        "se llevarán bien"
+      ],
+      "Condicional": [
+        "me llevaría bien",
+        "te llevarías bien",
+        "se llevaría bien",
+        "nos llevaríamos bien",
+        "os llevaríais bien",
+        "se llevarían bien"
+      ]
+    }
+  },
+  "llegar tarde": {
+    "infinitive": "llegar tarde",
+    "base_verb": "llegar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "llego tarde",
+        "llegas tarde",
+        "llega tarde",
+        "llegamos tarde",
+        "llegáis tarde",
+        "llegan tarde"
+      ],
+      "Pretérito": [
+        "llegué tarde",
+        "llegaste tarde",
+        "llegó tarde",
+        "llegamos tarde",
+        "llegasteis tarde",
+        "llegaron tarde"
+      ],
+      "Imperfecto": [
+        "llegaba tarde",
+        "llegabas tarde",
+        "llegaba tarde",
+        "llegábamos tarde",
+        "llegabais tarde",
+        "llegaban tarde"
+      ],
+      "Futuro": [
+        "llegaré tarde",
+        "llegarás tarde",
+        "llegará tarde",
+        "llegaremos tarde",
+        "llegaréis tarde",
+        "llegarán tarde"
+      ],
+      "Condicional": [
+        "llegaría tarde",
+        "llegarías tarde",
+        "llegaría tarde",
+        "llegaríamos tarde",
+        "llegaríais tarde",
+        "llegarían tarde"
+      ]
+    }
+  },
+  "disfrutar de": {
+    "infinitive": "disfrutar de",
+    "base_verb": "disfrutar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "disfruto de",
+        "disfrutas de",
+        "disfruta de",
+        "disfrutamos de",
+        "disfrutáis de",
+        "disfrutan de"
+      ],
+      "Pretérito": [
+        "disfruté de",
+        "disfrutaste de",
+        "disfrutó de",
+        "disfrutamos de",
+        "disfrutasteis de",
+        "disfrutaron de"
+      ],
+      "Imperfecto": [
+        "disfrutaba de",
+        "disfrutabas de",
+        "disfrutaba de",
+        "disfrutábamos de",
+        "disfrutabais de",
+        "disfrutaban de"
+      ],
+      "Futuro": [
+        "disfrutaré de",
+        "disfrutarás de",
+        "disfrutará de",
+        "disfrutaremos de",
+        "disfrutaréis de",
+        "disfrutarán de"
+      ],
+      "Condicional": [
+        "disfrutaría de",
+        "disfrutarías de",
+        "disfrutaría de",
+        "disfrutaríamos de",
+        "disfrutaríais de",
+        "disfrutarían de"
+      ]
+    }
+  },
+  "escalar montañas": {
+    "infinitive": "escalar montañas",
+    "base_verb": "escalar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "escalo montañas",
+        "escalas montañas",
+        "escala montañas",
+        "escalamos montañas",
+        "escaláis montañas",
+        "escalan montañas"
+      ],
+      "Pretérito": [
+        "escalé montañas",
+        "escalaste montañas",
+        "escaló montañas",
+        "escalamos montañas",
+        "escalasteis montañas",
+        "escalaron montañas"
+      ],
+      "Imperfecto": [
+        "escalaba montañas",
+        "escalabas montañas",
+        "escalaba montañas",
+        "escalábamos montañas",
+        "escalabais montañas",
+        "escalaban montañas"
+      ],
+      "Futuro": [
+        "escalaré montañas",
+        "escalarás montañas",
+        "escalará montañas",
+        "escalaremos montañas",
+        "escalaréis montañas",
+        "escalarán montañas"
+      ],
+      "Condicional": [
+        "escalaría montañas",
+        "escalarías montañas",
+        "escalaría montañas",
+        "escalaríamos montañas",
+        "escalaríais montañas",
+        "escalarían montañas"
+      ]
+    }
+  },
+  "estar a dieta": {
+    "infinitive": "estar a dieta",
+    "base_verb": "estar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "estoy a dieta",
+        "estás a dieta",
+        "está a dieta",
+        "estamos a dieta",
+        "estáis a dieta",
+        "están a dieta"
+      ],
+      "Pretérito": [
+        "estuve a dieta",
+        "estuviste a dieta",
+        "estuvo a dieta",
+        "estuvimos a dieta",
+        "estuvisteis a dieta",
+        "estuvieron a dieta"
+      ],
+      "Imperfecto": [
+        "estaba a dieta",
+        "estabas a dieta",
+        "estaba a dieta",
+        "estábamos a dieta",
+        "estabais a dieta",
+        "estaban a dieta"
+      ],
+      "Futuro": [
+        "estaré a dieta",
+        "estarás a dieta",
+        "estará a dieta",
+        "estaremos a dieta",
+        "estaréis a dieta",
+        "estarán a dieta"
+      ],
+      "Condicional": [
+        "estaría a dieta",
+        "estarías a dieta",
+        "estaría a dieta",
+        "estaríamos a dieta",
+        "estaríais a dieta",
+        "estarían a dieta"
+      ]
+    }
+  },
+  "ir de vacaciones": {
+    "infinitive": "ir de vacaciones",
+    "base_verb": "ir",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "voy de vacaciones",
+        "vas de vacaciones",
+        "va de vacaciones",
+        "vamos de vacaciones",
+        "vais de vacaciones",
+        "van de vacaciones"
+      ],
+      "Pretérito": [
+        "fui de vacaciones",
+        "fuiste de vacaciones",
+        "fue de vacaciones",
+        "fuimos de vacaciones",
+        "fuisteis de vacaciones",
+        "fueron de vacaciones"
+      ],
+      "Imperfecto": [
+        "iba de vacaciones",
+        "ibas de vacaciones",
+        "iba de vacaciones",
+        "íbamos de vacaciones",
+        "ibais de vacaciones",
+        "iban de vacaciones"
+      ],
+      "Futuro": [
+        "iré de vacaciones",
+        "irás de vacaciones",
+        "irá de vacaciones",
+        "iremos de vacaciones",
+        "iréis de vacaciones",
+        "irán de vacaciones"
+      ],
+      "Condicional": [
+        "iría de vacaciones",
+        "irías de vacaciones",
+        "iría de vacaciones",
+        "iríamos de vacaciones",
+        "iríais de vacaciones",
+        "irían de vacaciones"
+      ]
+    }
+  },
+  "hacer un viaje": {
+    "infinitive": "hacer un viaje",
+    "base_verb": "hacer",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "hago un viaje",
+        "haces un viaje",
+        "hace un viaje",
+        "hacemos un viaje",
+        "hacéis un viaje",
+        "hacen un viaje"
+      ],
+      "Pretérito": [
+        "hice un viaje",
+        "hiciste un viaje",
+        "hizo un viaje",
+        "hicimos un viaje",
+        "hicisteis un viaje",
+        "hicieron un viaje"
+      ],
+      "Imperfecto": [
+        "hacía un viaje",
+        "hacías un viaje",
+        "hacía un viaje",
+        "hacíamos un viaje",
+        "hacíais un viaje",
+        "hacían un viaje"
+      ],
+      "Futuro": [
+        "haré un viaje",
+        "harás un viaje",
+        "hará un viaje",
+        "haremos un viaje",
+        "haréis un viaje",
+        "harán un viaje"
+      ],
+      "Condicional": [
+        "haría un viaje",
+        "harías un viaje",
+        "haría un viaje",
+        "haríamos un viaje",
+        "haríais un viaje",
+        "harían un viaje"
+      ]
+    }
+  },
+  "pasarlo mal": {
+    "infinitive": "pasarlo mal",
+    "base_verb": "pasar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "lo paso mal",
+        "lo pasas mal",
+        "lo pasa mal",
+        "lo pasamos mal",
+        "lo pasáis mal",
+        "lo pasan mal"
+      ],
+      "Pretérito": [
+        "lo pasé mal",
+        "lo pasaste mal",
+        "lo pasó mal",
+        "lo pasamos mal",
+        "lo pasasteis mal",
+        "lo pasaron mal"
+      ],
+      "Imperfecto": [
+        "lo pasaba mal",
+        "lo pasabas mal",
+        "lo pasaba mal",
+        "lo pasábamos mal",
+        "lo pasabais mal",
+        "lo pasaban mal"
+      ],
+      "Futuro": [
+        "lo pasaré mal",
+        "lo pasarás mal",
+        "lo pasará mal",
+        "lo pasaremos mal",
+        "lo pasaréis mal",
+        "lo pasarán mal"
+      ],
+      "Condicional": [
+        "lo pasaría mal",
+        "lo pasarías mal",
+        "lo pasaría mal",
+        "lo pasaríamos mal",
+        "lo pasaríais mal",
+        "lo pasarían mal"
+      ]
+    }
+  },
+  "ganarse la vida": {
+    "infinitive": "ganarse la vida",
+    "base_verb": "ganar",
+    "reflexive": true,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "me gano la vida",
+        "te ganas la vida",
+        "se gana la vida",
+        "nos ganamos la vida",
+        "os ganáis la vida",
+        "se ganan la vida"
+      ],
+      "Pretérito": [
+        "me gané la vida",
+        "te ganaste la vida",
+        "se ganó la vida",
+        "nos ganamos la vida",
+        "os ganasteis la vida",
+        "se ganaron la vida"
+      ],
+      "Imperfecto": [
+        "me ganaba la vida",
+        "te ganabas la vida",
+        "se ganaba la vida",
+        "nos ganábamos la vida",
+        "os ganabais la vida",
+        "se ganaban la vida"
+      ],
+      "Futuro": [
+        "me ganaré la vida",
+        "te ganarás la vida",
+        "se ganará la vida",
+        "nos ganaremos la vida",
+        "os ganaréis la vida",
+        "se ganarán la vida"
+      ],
+      "Condicional": [
+        "me ganaría la vida",
+        "te ganarías la vida",
+        "se ganaría la vida",
+        "nos ganaríamos la vida",
+        "os ganaríais la vida",
+        "se ganarían la vida"
+      ]
+    }
+  },
+  "llevarse mal": {
+    "infinitive": "llevarse mal",
+    "base_verb": "llevar",
+    "reflexive": true,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "me llevo mal",
+        "te llevas mal",
+        "se lleva mal",
+        "nos llevamos mal",
+        "os lleváis mal",
+        "se llevan mal"
+      ],
+      "Pretérito": [
+        "me llevé mal",
+        "te llevaste mal",
+        "se llevó mal",
+        "nos llevamos mal",
+        "os llevasteis mal",
+        "se llevaron mal"
+      ],
+      "Imperfecto": [
+        "me llevaba mal",
+        "te llevabas mal",
+        "se llevaba mal",
+        "nos llevábamos mal",
+        "os llevabais mal",
+        "se llevaban mal"
+      ],
+      "Futuro": [
+        "me llevaré mal",
+        "te llevarás mal",
+        "se llevará mal",
+        "nos llevaremos mal",
+        "os llevaréis mal",
+        "se llevarán mal"
+      ],
+      "Condicional": [
+        "me llevaría mal",
+        "te llevarías mal",
+        "se llevaría mal",
+        "nos llevaríamos mal",
+        "os llevaríais mal",
+        "se llevarían mal"
+      ]
+    }
+  },
+  "comentar": {
+    "infinitive": "comentar",
+    "base_verb": "comentar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "comento",
+        "comentas",
+        "comenta",
+        "comentamos",
+        "comentáis",
+        "comentan"
+      ],
+      "Pretérito": [
+        "comenté",
+        "comentaste",
+        "comentó",
+        "comentamos",
+        "comentasteis",
+        "comentaron"
+      ],
+      "Imperfecto": [
+        "comentaba",
+        "comentabas",
+        "comentaba",
+        "comentábamos",
+        "comentabais",
+        "comentaban"
+      ],
+      "Futuro": [
+        "comentaré",
+        "comentarás",
+        "comentará",
+        "comentaremos",
+        "comentaréis",
+        "comentarán"
+      ],
+      "Condicional": [
+        "comentaría",
+        "comentarías",
+        "comentaría",
+        "comentaríamos",
+        "comentaríais",
+        "comentarían"
+      ]
+    }
+  },
+  "elaborar": {
+    "infinitive": "elaborar",
+    "base_verb": "elaborar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "elaboro",
+        "elaboras",
+        "elabora",
+        "elaboramos",
+        "elaboráis",
+        "elaboran"
+      ],
+      "Pretérito": [
+        "elaboré",
+        "elaboraste",
+        "elaboró",
+        "elaboramos",
+        "elaborasteis",
+        "elaboraron"
+      ],
+      "Imperfecto": [
+        "elaboraba",
+        "elaborabas",
+        "elaboraba",
+        "elaborábamos",
+        "elaborabais",
+        "elaboraban"
+      ],
+      "Futuro": [
+        "elaboraré",
+        "elaborarás",
+        "elaborará",
+        "elaboraremos",
+        "elaboraréis",
+        "elaborarán"
+      ],
+      "Condicional": [
+        "elaboraría",
+        "elaborarías",
+        "elaboraría",
+        "elaboraríamos",
+        "elaboraríais",
+        "elaborarían"
+      ]
+    }
+  },
+  "pedir prestado": {
+    "infinitive": "pedir prestado",
+    "base_verb": "pedir",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "pido prestado",
+        "pides prestado",
+        "pide prestado",
+        "pedimos prestado",
+        "pedís prestado",
+        "piden prestado"
+      ],
+      "Pretérito": [
+        "pedí prestado",
+        "pediste prestado",
+        "pidió prestado",
+        "pedimos prestado",
+        "pedisteis prestado",
+        "pidieron prestado"
+      ],
+      "Imperfecto": [
+        "pedía prestado",
+        "pedías prestado",
+        "pedía prestado",
+        "pedíamos prestado",
+        "pedíais prestado",
+        "pedían prestado"
+      ],
+      "Futuro": [
+        "pediré prestado",
+        "pedirás prestado",
+        "pedirá prestado",
+        "pediremos prestado",
+        "pediréis prestado",
+        "pedirán prestado"
+      ],
+      "Condicional": [
+        "pediría prestado",
+        "pedirías prestado",
+        "pediría prestado",
+        "pediríamos prestado",
+        "pediríais prestado",
+        "pedirían prestado"
+      ]
+    }
+  },
+  "empatar": {
+    "infinitive": "empatar",
+    "base_verb": "empatar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "empato",
+        "empatas",
+        "empata",
+        "empatamos",
+        "empatáis",
+        "empatan"
+      ],
+      "Pretérito": [
+        "empaté",
+        "empataste",
+        "empató",
+        "empatamos",
+        "empatasteis",
+        "empataron"
+      ],
+      "Imperfecto": [
+        "empataba",
+        "empatabas",
+        "empataba",
+        "empatábamos",
+        "empatabais",
+        "empataban"
+      ],
+      "Futuro": [
+        "empataré",
+        "empatarás",
+        "empatará",
+        "empataremos",
+        "empataréis",
+        "empatarán"
+      ],
+      "Condicional": [
+        "empataría",
+        "empatarías",
+        "empataría",
+        "empataríamos",
+        "empataríais",
+        "empatarían"
+      ]
+    }
+  },
+  "adelgazar": {
+    "infinitive": "adelgazar",
+    "base_verb": "adelgazar",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "adelgazo",
+        "adelgazas",
+        "adelgaza",
+        "adelgazamos",
+        "adelgazáis",
+        "adelgazan"
+      ],
+      "Pretérito": [
+        "adelgacé",
+        "adelgazaste",
+        "adelgazó",
+        "adelgazamos",
+        "adelgazasteis",
+        "adelgazaron"
+      ],
+      "Imperfecto": [
+        "adelgazaba",
+        "adelgazabas",
+        "adelgazaba",
+        "adelgazábamos",
+        "adelgazabais",
+        "adelgazaban"
+      ],
+      "Futuro": [
+        "adelgazaré",
+        "adelgazarás",
+        "adelgazará",
+        "adelgazaremos",
+        "adelgazaréis",
+        "adelgazarán"
+      ],
+      "Condicional": [
+        "adelgazaría",
+        "adelgazarías",
+        "adelgazaría",
+        "adelgazaríamos",
+        "adelgazaríais",
+        "adelgazarían"
+      ]
+    }
+  },
+  "aplaudir": {
+    "infinitive": "aplaudir",
+    "base_verb": "aplaudir",
+    "reflexive": false,
+    "persons": [
+      "yo",
+      "tú",
+      "él/ella/usted",
+      "nosotros/as",
+      "vosotros/as",
+      "ellos/ellas/ustedes"
+    ],
+    "tenses": {
+      "Presente": [
+        "aplaudo",
+        "aplaudes",
+        "aplaude",
+        "aplaudimos",
+        "aplaudís",
+        "aplauden"
+      ],
+      "Pretérito": [
+        "aplaudí",
+        "aplaudiste",
+        "aplaudió",
+        "aplaudimos",
+        "aplaudisteis",
+        "aplaudieron"
+      ],
+      "Imperfecto": [
+        "aplaudía",
+        "aplaudías",
+        "aplaudía",
+        "aplaudíamos",
+        "aplaudíais",
+        "aplaudían"
+      ],
+      "Futuro": [
+        "aplaudiré",
+        "aplaudirás",
+        "aplaudirá",
+        "aplaudiremos",
+        "aplaudiréis",
+        "aplaudirán"
+      ],
+      "Condicional": [
+        "aplaudiría",
+        "aplaudirías",
+        "aplaudiría",
+        "aplaudiríamos",
+        "aplaudiríais",
+        "aplaudirían"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "spanish_app",
+      "runtimeExecutable": "php",
+      "runtimeArgs": ["-S", "localhost:8811", "-t", "."],
+      "port": 8811
+    }
+  ]
+}

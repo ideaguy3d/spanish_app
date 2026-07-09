@@ -1,0 +1,565 @@
+id,spanish,example_es,example_en,mood,tense
+1,el ejército,El ejército defendió la frontera durante la guerra.,The army defended the border during the war.,,
+2,el aviso,Leí el aviso en la puerta de la oficina.,I read the notice on the office door.,,
+3,egoísta,Mi hermano es muy egoísta y nunca comparte su comida.,My brother is very selfish and never shares his food.,,
+4,inolvidable,Nuestro viaje a México fue una experiencia inolvidable.,Our trip to Mexico was an unforgettable experience.,,
+5,la cancha,Los niños juegan al básquetbol en la cancha del parque.,The kids play basketball on the court at the park.,,
+6,vencer,"De niño, siempre vencía a mis amigos en ajedrez.","As a kid, I always used to beat my friends at chess.",Indicativo,Imperfecto
+7,faltar,"Cuando era estudiante, faltaba mucho a clase.","When he was a student, he used to miss class a lot.",Indicativo,Imperfecto
+8,emocionante,La película tuvo un final muy emocionante.,The movie had a very exciting ending.,,
+9,la juventud,Pasó su juventud viajando por Europa.,He spent his youth traveling around Europe.,,
+10,la ciencia,Ella estudia ciencia en la universidad.,She studies science at the university.,,
+11,ansioso,Estoy ansioso por los resultados del examen.,I'm anxious about the exam results.,,
+12,diseñar,"En la universidad, diseñábamos carteles para los eventos.","In college, we used to design posters for events.",Indicativo,Imperfecto
+13,encantado,Estoy encantado de conocerte por fin.,I'm delighted to finally meet you.,,
+14,borrar,Ella siempre borraba la pizarra al final de la clase.,She always used to erase the board at the end of class.,Indicativo,Imperfecto
+15,prohibir,Mis padres me prohibían salir tarde de niño.,My parents used to prohibit me from staying out late as a kid.,Indicativo,Imperfecto
+16,la asignatura,Mi asignatura favorita es la historia.,My favorite subject is history.,,
+17,orgulloso,Estamos muy orgullosos de tu graduación.,We are very proud of your graduation.,,
+18,estrecho,La calle es demasiado estrecha para dos coches.,The street is too narrow for two cars.,,
+19,denunciar,Los vecinos denunciaban el ruido todas las noches.,The neighbors used to report the noise every night.,Indicativo,Imperfecto
+20,renunciar,Ella renunciaba a sus vacaciones para ayudar a su familia.,She used to give up her vacations to help her family.,Indicativo,Imperfecto
+21,sonreír,Yo sonreía mucho más cuando era niño.,I used to smile a lot more when I was a kid.,Indicativo,Imperfecto
+22,la paciencia,Se necesita mucha paciencia para enseñar a niños pequeños.,It takes a lot of patience to teach small children.,,
+23,hacia,Caminamos hacia el centro de la ciudad.,We walked toward downtown.,,
+24,débil,El paciente todavía se siente muy débil.,The patient still feels very weak.,,
+25,la bandera,Izaron la bandera durante la ceremonia.,They raised the flag during the ceremony.,,
+26,la respuesta,No sé la respuesta correcta a esa pregunta.,I don't know the correct answer to that question.,,
+27,el ciudadano,Todo ciudadano tiene derecho a votar.,Every citizen has the right to vote.,,
+28,favorito,El azul es mi color favorito.,Blue is my favorite color.,,
+29,hacer cola,La gente hacía cola desde temprano para el estreno.,People used to line up early for the premiere.,Indicativo,Imperfecto
+30,el suceso,El periódico informó sobre el extraño suceso.,The newspaper reported on the strange event.,,
+31,la calidad,Esta tienda vende ropa de muy buena calidad.,This store sells very good quality clothing.,,
+32,aconsejar,Mi abuela siempre me aconsejaba ser paciente.,My grandmother always used to advise me to be patient.,Indicativo,Imperfecto
+33,votar,Mis abuelos votaban siempre por la mañana.,My grandparents always used to vote in the morning.,Indicativo,Imperfecto
+34,extranjero,Trabaja para una empresa extranjera.,She works for a foreign company.,,
+35,ambicioso,Es un político muy ambicioso que quiere más poder.,He is a very ambitious/greedy politician who wants more power.,,
+36,enorme,Compraron una casa enorme en las afueras.,They bought an enormous house in the suburbs.,,
+37,sudar,Sudaba tanto en verano que cambiaba de camisa dos veces al día.,He used to sweat so much in summer that he changed shirts twice a day.,Indicativo,Imperfecto
+38,perjudicar,Esa costumbre perjudicaba su rendimiento en el trabajo.,That habit used to harm his performance at work.,Indicativo,Imperfecto
+39,aguantar,Aguantábamos el frío esperando el autobús.,We used to endure the cold while waiting for the bus.,Indicativo,Imperfecto
+40,culpable,El jurado lo declaró culpable del crimen.,The jury found him guilty of the crime.,,
+41,próximo,Nos vemos la próxima semana.,See you next week.,,
+42,agotar,El viaje largo nos agotaba cada verano.,The long trip used to exhaust us every summer.,Indicativo,Imperfecto
+43,útil,Este diccionario es muy útil para mis estudios.,This dictionary is very useful for my studies.,,
+44,la risa,Se escuchaba la risa de los niños en el patio.,The children's laughter could be heard in the yard.,,
+45,anciano,Ayudé a un señor anciano a cruzar la calle.,I helped an elderly man cross the street.,,
+46,proponer,Ella siempre proponía ideas creativas en las reuniones.,She always used to propose creative ideas in meetings.,Indicativo,Imperfecto
+47,la grasa,Esta comida tiene demasiada grasa.,This food has too much fat.,,
+48,valorar,Mi padre valoraba mucho la puntualidad.,My father used to value punctuality a lot.,Indicativo,Imperfecto
+49,el hogar,"Después de tantos viajes, extraño mi hogar.","After so much travel, I miss my home.",,
+50,el empresario,El empresario abrió tres tiendas nuevas este año.,The businessman opened three new stores this year.,,
+51,la carrera,Ella ganó la carrera de cien metros.,She won the hundred-meter race.,,
+52,la huésped,La huésped llegó al hotel muy tarde por la noche.,The guest arrived at the hotel very late at night.,,
+53,reconocer,Ella no reconocía a nadie después del accidente.,She didn't recognize anyone after the accident.,Indicativo,Imperfecto
+54,el diccionario,Busqué la palabra en el diccionario.,I looked up the word in the dictionary.,,
+55,acordarse,Nos acordábamos de esas vacaciones con mucho cariño.,We used to remember that vacation fondly.,Indicativo,Imperfecto
+56,el nacimiento,Celebramos el nacimiento de su primer hijo.,We celebrated the birth of their first child.,,
+57,rápido,Ese coche es muy rápido.,That car is very fast.,,
+58,respirar,Respira profundamente antes de hablar en público.,Breathe deeply before speaking in public.,,
+59,el servicio,El servicio en ese restaurante fue excelente.,The service at that restaurant was excellent.,,
+60,descargar,Descargábamos películas antes de tener streaming.,We used to download movies before having streaming.,Indicativo,Imperfecto
+61,el calor,No soporto el calor en agosto.,I can't stand the heat in August.,,
+62,el patrimonio,Este castillo es parte del patrimonio cultural del país.,This castle is part of the country's cultural heritage.,,
+63,levantar,Él levantaba a su hijo en brazos cada noche.,He used to lift his son in his arms every night.,Indicativo,Imperfecto
+64,pelearse,"De niños, nos peleábamos por cualquier cosa.","As kids, we used to fight over anything.",Indicativo,Imperfecto
+65,el género,El formulario pregunta por el género del solicitante.,The form asks for the applicant's gender.,,
+66,soleado,Hoy es un día soleado y perfecto para la playa.,"Today is a sunny day, perfect for the beach.",,
+67,el robo,Hubo un robo en el banco esta mañana.,There was a robbery at the bank this morning.,,
+68,engordar,Ella engordaba cada invierno por comer más.,She used to gain weight every winter from eating more.,Indicativo,Imperfecto
+69,familia,Mi familia se reúne todos los domingos.,My family gets together every Sunday.,,
+70,pelear,Los vecinos peleaban por el ruido casi todas las semanas.,The neighbors used to fight over the noise almost every week.,Indicativo,Imperfecto
+71,la muerte,La muerte de su abuelo lo afectó mucho.,His grandfather's death affected him deeply.,,
+72,mentir,"De niño, mentía para evitar problemas.","As a kid, I used to lie to avoid trouble.",Indicativo,Imperfecto
+73,salvaje,Vimos animales salvajes durante el safari.,We saw wild animals during the safari.,,
+74,el perfil,Actualicé mi perfil en la red social.,I updated my profile on the social network.,,
+75,la mayoria,La mayoría de los estudiantes aprobó el examen.,The majority of the students passed the exam.,,
+76,el sueño,Su sueño es viajar por todo el mundo.,Her dream is to travel around the whole world.,,
+77,la temporada,La temporada de lluvias empieza en junio.,Rainy season starts in June.,,
+78,la contabilidad,Estudia contabilidad para ser contador.,He studies accounting to become an accountant.,,
+79,el bienestar,Hacer ejercicio mejora tu bienestar general.,Exercising improves your overall well-being.,,
+80,el técnico,El técnico reparó la lavadora en una hora.,The technician fixed the washing machine in an hour.,,
+81,componer,Ella componía canciones desde muy joven.,She used to compose songs from a very young age.,Indicativo,Imperfecto
+82,producir,Esta mina producía mucho más oro antes.,This mine used to produce much more gold before.,Indicativo,Imperfecto
+83,el guion,El actor memorizó todo el guion en dos días.,The actor memorized the whole script in two days.,,
+84,leal,Mi perro es muy leal a mí.,My dog is very loyal to me.,,
+85,levantar pesas,Él levantaba pesas todos los días cuando era joven.,He used to lift weights every day when he was young.,Indicativo,Imperfecto
+86,sugerir,Ella siempre sugería los mismos restaurantes.,She always used to suggest the same restaurants.,Indicativo,Imperfecto
+87,la ruta,Cambiamos la ruta para evitar el tráfico.,We changed the route to avoid traffic.,,
+88,el síntoma,La fiebre es un síntoma común de la gripe.,Fever is a common symptom of the flu.,,
+89,la marca,Esa marca de zapatos es muy popular entre los jóvenes.,That shoe brand is very popular among young people.,,
+90,el relato,El escritor publicó un relato corto sobre su infancia.,The writer published a short story about his childhood.,,
+91,el ensayo,Tengo que entregar un ensayo de cinco páginas.,I have to turn in a five-page essay.,,
+92,invertir,Él invertía en bolsa desde joven.,He used to invest in the stock market from a young age.,Indicativo,Imperfecto
+93,activo,Mi abuela sigue muy activa a los ochenta años.,My grandmother is still very active at eighty.,,
+94,el discurso,El presidente dio un discurso emotivo.,The president gave an emotional speech.,,
+95,la alegría,La noticia le trajo mucha alegría a la familia.,The news brought great joy to the family.,,
+96,el almacén,Guardamos las cajas en el almacén.,We store the boxes in the warehouse.,,
+97,el folleto,Recogí un folleto con información turística.,I picked up a brochure with tourist information.,,
+98,enojarse,Se enojaba fácilmente cuando era joven.,He used to get angry easily when he was young.,Indicativo,Imperfecto
+99,el impuesto,Pagamos impuestos sobre nuestro salario cada mes.,We pay taxes on our salary every month.,,
+100,tener prisa,Siempre teníamos prisa por las mañanas.,We were always in a hurry in the mornings.,Indicativo,Imperfecto
+101,oscuro,La habitación estaba muy oscura sin luz.,The room was very dark without light.,,
+102,el vecino,Mi vecino siempre riega las plantas del jardín.,My neighbor always waters the garden plants.,,
+103,la medida,Tomé la medida de la ventana antes de comprar las cortinas.,I took the window's measurement before buying the curtains.,,
+104,aburrirse,Nos aburríamos los domingos por la tarde.,We used to get bored on Sunday afternoons.,Indicativo,Imperfecto
+105,adónde,¿Adónde vas con tanta prisa?,Where are you going in such a hurry?,,
+106,graduarse,Nos graduábamos cada mayo en esa escuela.,We used to graduate every May at that school.,Indicativo,Imperfecto
+107,sincero,Aprecio que seas tan sincero conmigo.,I appreciate that you're so sincere with me.,,
+108,siguiente,"Por favor, pase al siguiente cliente.","Please, move on to the next customer.",,
+109,la época,Esa canción me recuerda a mi época de estudiante.,That song reminds me of my student days.,,
+110,sensible,Es un tema muy sensible para ella.,It's a very sensitive topic for her.,,
+111,el origen,El origen de esta tradición es muy antiguo.,The origin of this tradition is very old.,,
+112,el compromiso,Anunciaron su compromiso en la fiesta.,They announced their engagement at the party.,,
+113,entrevistar,Entrevistaba a los candidatos personalmente.,She used to interview the candidates personally.,Indicativo,Imperfecto
+114,apretado,Estos zapatos me quedan muy apretados.,These shoes are too tight on me.,,
+115,disminuir,El dolor disminuía con cada pastilla.,The pain used to decrease with each pill.,Indicativo,Imperfecto
+116,la pesadilla,Me desperté asustado después de una pesadilla.,I woke up scared after a nightmare.,,
+117,normalmente,Normalmente ceno a las ocho de la noche.,I normally have dinner at eight at night.,,
+118,la serie,Estamos viendo una nueva serie en la televisión.,We are watching a new series on television.,,
+119,el cuento,Mi abuela me leía un cuento cada noche.,My grandmother read me a story every night.,,
+120,cariñoso,Mi abuelo siempre fue muy cariñoso con nosotros.,My grandfather was always very affectionate with us.,,
+121,esconder,Él escondía dulces debajo de la cama.,He used to hide candy under the bed.,Indicativo,Imperfecto
+122,frecuentemente,Viajamos a Madrid frecuentemente por trabajo.,We travel to Madrid frequently for work.,,
+123,sabio,Mi abuela siempre da consejos sabios.,My grandmother always gives wise advice.,,
+124,el consejero,El consejero escolar me ayudó a elegir mis clases.,The school counselor helped me choose my classes.,,
+125,la competencia,Hay mucha competencia entre estas dos empresas.,There is a lot of competition between these two companies.,,
+126,el aire,Abramos la ventana para que entre aire fresco.,Let's open the window so fresh air comes in.,,
+127,atraer,Esa tienda atraía a mucha gente los fines de semana.,That store used to attract a lot of people on weekends.,Indicativo,Imperfecto
+128,el descuento,Compré la chaqueta con un descuento del veinte por ciento.,I bought the jacket with a twenty percent discount.,,
+129,apreciar,Ella apreciaba mucho el arte moderno.,She used to appreciate modern art a lot.,Indicativo,Imperfecto
+130,comprensivo,Mi jefe fue muy comprensivo cuando falté al trabajo.,My boss was very understanding when I missed work.,,
+131,el pariente,Tengo parientes en Argentina que nunca he conocido.,I have relatives in Argentina I've never met.,,
+132,alegrarse,Nos alegrábamos cada vez que él visitaba.,We used to be happy every time he visited.,Indicativo,Imperfecto
+133,el informe,Tengo que terminar el informe antes del viernes.,I have to finish the report before Friday.,,
+134,la administración de empresas,Ella estudia administración de empresas en la universidad.,She studies business administration at the university.,,
+135,obedecer,"De niño, obedecía a mis padres sin quejarme.","As a kid, I used to obey my parents without complaining.",Indicativo,Imperfecto
+136,la soledad,"Después de la mudanza, sintió mucha soledad.","After the move, he felt a lot of loneliness.",,
+137,agradable,Pasamos una tarde muy agradable en el parque.,We had a very nice afternoon at the park.,,
+138,el movimiento,Detecté un movimiento extraño detrás de la puerta.,I detected a strange movement behind the door.,,
+139,sembrar,Mi abuelo sembraba flores todos los años.,My grandfather used to plant flowers every year.,Indicativo,Imperfecto
+140,derramar,Él derramaba la leche cada vez que desayunaba.,He used to spill the milk every time he had breakfast.,Indicativo,Imperfecto
+141,el argumento,No entendí el argumento principal de la película.,I didn't understand the movie's main plot/argument.,,
+142,el comercio,El comercio entre los dos países creció mucho.,Trade between the two countries grew a lot.,,
+143,tener hambre,Siempre teníamos hambre después de nadar.,We were always hungry after swimming.,Indicativo,Imperfecto
+144,la química,La química es mi materia más difícil.,Chemistry is my hardest subject.,,
+145,la ventanilla,Compré el boleto en la ventanilla de la estación.,I bought the ticket at the station window.,,
+146,interpretar,Ella interpretaba canciones clásicas en el piano.,She used to play classical songs on the piano.,Indicativo,Imperfecto
+147,la Tierra,La Tierra gira alrededor del sol.,The Earth revolves around the sun.,,
+148,el alquiler,El alquiler del apartamento subió este mes.,The apartment's rent went up this month.,,
+149,prevenir,Ese hábito prevenía muchos problemas de salud.,That habit used to prevent many health problems.,Indicativo,Imperfecto
+150,duro,Fue un año muy duro para toda la familia.,It was a very hard year for the whole family.,,
+151,el compañero de clase,Mi compañero de clase me prestó sus apuntes.,My classmate lent me his notes.,,
+152,el racismo,La escuela organizó una charla sobre el racismo.,The school organized a talk about racism.,,
+153,la razón,No entiendo la razón de su enojo.,I don't understand the reason for his anger.,,
+154,el accidente,Hubo un accidente de tráfico en la autopista.,There was a traffic accident on the highway.,,
+155,el aniversario,Celebramos nuestro décimo aniversario de bodas.,We celebrated our tenth wedding anniversary.,,
+156,doblar,El camino doblaba justo antes del puente.,The road used to bend just before the bridge.,Indicativo,Imperfecto
+157,permitir,La vieja regla no permitía celulares en clase.,The old rule didn't allow cell phones in class.,Indicativo,Imperfecto
+158,ancho,El río es muy ancho en esta parte.,The river is very wide in this part.,,
+159,profesional,Ella siempre se comporta de manera muy profesional.,She always behaves in a very professional manner.,,
+160,aburrir,Esa serie me aburría después del primer capítulo.,That show used to bore me after the first episode.,Indicativo,Imperfecto
+161,mantener,Él mantenía la casa muy limpia.,He used to keep the house very clean.,Indicativo,Imperfecto
+162,el peso,Perdió mucho peso después de la dieta.,He lost a lot of weight after the diet.,,
+163,la edad,No sé la edad exacta de mi abuelo.,I don't know my grandfather's exact age.,,
+164,revisar,Ella revisaba las tareas cada noche.,She used to check the homework every night.,Indicativo,Imperfecto
+165,pronto,Espero verte pronto.,I hope to see you soon.,,
+166,el tema,El tema de la reunión era el presupuesto anual.,The topic of the meeting was the annual budget.,,
+167,preocupado,Estoy preocupado por el examen de mañana.,I'm worried about tomorrow's exam.,,
+168,la ley,Esta ley protege a los trabajadores.,This law protects workers.,,
+169,popular,Ese cantante es muy popular entre los jóvenes.,That singer is very popular among young people.,,
+170,por fin,Por fin terminamos el proyecto.,We finally finished the project.,,
+171,la talla,¿Qué talla de camisa usas?,What shirt size do you wear?,,
+172,tener miedo,"De pequeña, tenía miedo a los perros.","As a little girl, she used to be afraid of dogs.",Indicativo,Imperfecto
+173,capaz,Ella es capaz de resolver cualquier problema.,She is capable of solving any problem.,,
+174,temer,"De niño, temía a las tormentas.","As a kid, I used to fear storms.",Indicativo,Imperfecto
+175,maravilloso,Tuvimos un fin de semana maravilloso en la playa.,We had a wonderful weekend at the beach.,,
+176,promover,La escuela promovía el deporte entre los alumnos.,The school used to promote sports among students.,Indicativo,Imperfecto
+177,abrazar,Él abrazaba a todos sin importar quiénes fueran.,He used to hug everyone no matter who they were.,Indicativo,Imperfecto
+178,bello,El atardecer sobre el mar es bello.,The sunset over the sea is beautiful.,,
+179,contratar,Mi jefe contrataba solo a gente con experiencia.,My boss used to hire only people with experience.,Indicativo,Imperfecto
+180,enamorado,Está enamorado de su mejor amiga.,He is in love with his best friend.,,
+181,el presupuesto,Tenemos que reducir el presupuesto este trimestre.,We have to cut the budget this quarter.,,
+182,conservar,Mi abuela conservaba las cartas de mi abuelo.,My grandmother used to keep my grandfather's letters.,Indicativo,Imperfecto
+183,la esperanza,Nunca perdió la esperanza de encontrar trabajo.,She never lost hope of finding a job.,,
+184,coger,Él cogía el tren todos los días para ir al trabajo.,He used to take the train every day to go to work.,Indicativo,Imperfecto
+185,jamás,Jamás había visto algo tan hermoso.,I had never seen something so beautiful.,,
+186,suponer,Ella suponía que el vuelo llegaría a tiempo.,She used to assume the flight would arrive on time.,Indicativo,Imperfecto
+187,el apoyo,Agradezco mucho tu apoyo durante estos meses difíciles.,I really appreciate your support during these difficult months.,,
+188,desaparecer,El sol desapareció detrás de las montañas.,The sun disappeared behind the mountains.,,
+189,a tiempo,Llegamos a tiempo para el comienzo del concierto.,We arrived on time for the start of the concert.,,
+190,la confianza,Necesitamos reconstruir la confianza entre nosotros.,We need to rebuild trust between us.,,
+191,el conocimiento,Tiene un gran conocimiento de historia antigua.,He has great knowledge of ancient history.,,
+192,el espacio,No hay suficiente espacio para todos los muebles.,There isn't enough space for all the furniture.,,
+193,apoyar,Ella apoyaba a su hermano en cada partido.,She used to support her brother at every game.,Indicativo,Imperfecto
+194,pescar,Mi abuelo pescaba cada fin de semana.,My grandfather used to fish every weekend.,Indicativo,Imperfecto
+195,jurar,Ella siempre juraba que volvería.,She always used to swear she would come back.,Indicativo,Imperfecto
+196,la obra,Visitamos una obra de teatro anoche.,We saw a play last night.,,
+197,el edificio,Ese edificio tiene treinta pisos.,That building has thirty floors.,,
+198,la huelga,Los trabajadores organizaron una huelga por mejores salarios.,The workers organized a strike for better wages.,,
+199,el cielo,El cielo estaba lleno de estrellas anoche.,The sky was full of stars last night.,,
+200,convertirse en,Ese lugar se convertía en un mercado los domingos.,That place used to turn into a market on Sundays.,Indicativo,Imperfecto
+201,de acuerdo,Estoy de acuerdo contigo en ese punto.,I agree with you on that point.,,
+202,negar,Ella negaba todo cuando la acusaban.,She used to deny everything when accused.,Indicativo,Imperfecto
+203,fresco,Compramos pescado fresco en el mercado.,We bought fresh fish at the market.,,
+204,la lucha,Su lucha contra la enfermedad inspiró a muchos.,Her fight against the illness inspired many.,,
+205,precioso,Ese anillo es un recuerdo precioso de mi abuela.,That ring is a precious keepsake from my grandmother.,,
+206,entrenarse,Nos entrenábamos juntos cada mañana.,We used to train together every morning.,Indicativo,Imperfecto
+207,normal,Es normal sentir nervios antes de un examen.,It's normal to feel nervous before an exam.,,
+208,el proyecto,Presentamos el proyecto final la próxima semana.,We present the final project next week.,,
+209,la costa,Pasamos las vacaciones en la costa mediterránea.,We spent our vacation on the Mediterranean coast.,,
+210,la capital,Madrid es la capital de España.,Madrid is the capital of Spain.,,
+211,quizá,Quizá llueva esta tarde.,It might rain this afternoon.,,
+212,estudioso,Mi hermana siempre fue muy estudiosa en el colegio.,My sister was always very studious in school.,,
+213,el respeto,Los estudiantes deben mostrar respeto por sus profesores.,Students should show respect for their teachers.,,
+214,formal,La boda fue un evento muy formal.,The wedding was a very formal event.,,
+215,confiar,Confiaba en él ciegamente.,I used to trust him blindly.,Indicativo,Imperfecto
+216,contrario,Hicimos todo lo contrario de lo que nos dijeron.,We did the complete opposite of what we were told.,,
+217,dentro de,El vuelo sale dentro de dos horas.,The flight leaves within two hours.,,
+218,el hambre,El programa lucha contra el hambre en el mundo.,The program fights hunger around the world.,,
+219,el negocio,Abrieron un negocio de comida rápida.,They opened a fast food business.,,
+220,enfermo,Mi hijo está enfermo y no fue a la escuela.,My son is sick and didn't go to school.,,
+221,el material,Esta mesa está hecha de un material muy resistente.,This table is made of a very sturdy material.,,
+222,muy bien,El proyecto salió muy bien al final.,The project turned out very well in the end.,,
+223,el curso,Me inscribí en un curso de fotografía.,I enrolled in a photography course.,,
+224,el error,Cometí un error grave en el informe.,I made a serious mistake in the report.,,
+225,anunciar,El profesor anunciaba los exámenes con una semana de anticipación.,The teacher used to announce exams a week in advance.,Indicativo,Imperfecto
+226,reservar,Yo siempre reservaba la misma habitación en ese hotel.,I always used to reserve the same room at that hotel.,Indicativo,Imperfecto
+227,aparecer,"Ese fantasma aparecía solo de noche, según la leyenda.","That ghost used to appear only at night, according to the legend.",Indicativo,Imperfecto
+228,charlar,Charlaban en el balcón todas las tardes.,They used to chat on the balcony every afternoon.,Indicativo,Imperfecto
+229,el asiento,Reservé un asiento cerca de la ventana.,I reserved a seat near the window.,,
+230,vivo,"Por suerte, el gato todavía está vivo.","Luckily, the cat is still alive.",,
+231,el pago,El pago se debe hacer antes de fin de mes.,The payment must be made before the end of the month.,,
+232,menor,Mi hermano menor tiene quince años.,My younger brother is fifteen years old.,,
+233,el periodismo,Estudió periodismo porque le encanta escribir.,She studied journalism because she loves to write.,,
+234,la actitud,Me gusta su actitud positiva ante los problemas.,I like her positive attitude toward problems.,,
+235,batir,Él batía la mezcla durante diez minutos.,He used to beat the mixture for ten minutes.,Indicativo,Imperfecto
+236,emocionado,Estoy muy emocionado por el viaje del próximo mes.,I'm very excited about next month's trip.,,
+237,la regla,Hay una regla que prohíbe usar el celular en clase.,There's a rule that prohibits using the phone in class.,,
+238,la herramienta,Necesito una herramienta para arreglar la bicicleta.,I need a tool to fix the bicycle.,,
+239,lejos de,Vivimos lejos de la playa.,We live far from the beach.,,
+240,las redes sociales,Pasa demasiado tiempo en las redes sociales.,He spends too much time on social media.,,
+241,eficaz,Este medicamento es muy eficaz contra el dolor de cabeza.,This medicine is very effective against headaches.,,
+242,suficiente,No tenemos suficiente dinero para el viaje.,We don't have enough money for the trip.,,
+243,el acontecimiento,La boda fue el acontecimiento del año.,The wedding was the event of the year.,,
+244,asegurar,Ella siempre aseguraba que todo estaba bajo control.,She always used to assure everyone that everything was under control.,Indicativo,Imperfecto
+245,el éxito,El éxito de la empresa se debe a su equipo.,The company's success is due to its team.,,
+246,responder,Ella siempre respondía con mucha calma.,She always used to answer very calmly.,Indicativo,Imperfecto
+247,el taller,Llevé el coche al taller para repararlo.,I took the car to the workshop to have it repaired.,,
+248,la factura,Recibí la factura del gas por correo.,I received the gas invoice by mail.,,
+249,mezclar,Él mezclaba la pintura antes de cada cuadro.,He used to mix the paint before every painting.,Indicativo,Imperfecto
+250,atrevido,Fue muy atrevido al hablar así con su jefe.,It was very daring of him to speak to his boss that way.,,
+251,desafortunadamente,"Desafortunadamente, perdimos el vuelo.","Unfortunately, we missed the flight.",,
+252,enfermarse,Se enfermaba cada vez que viajaba.,He used to get sick every time he traveled.,Indicativo,Imperfecto
+253,fiel,Es un amigo muy fiel desde la infancia.,He's a very faithful friend since childhood.,,
+254,diario,Hago ejercicio diario por las mañanas.,I exercise daily in the mornings.,,
+255,celoso,Se pone celoso cuando hablo con otros chicos.,He gets jealous when I talk to other guys.,,
+256,la amenaza,El huracán representa una amenaza para la costa.,The hurricane represents a threat to the coast.,,
+257,igualmente,—Que tengas buen día. —Igualmente.,'Have a good day.' 'Likewise.',,
+258,el ambiente,Debemos cuidar el ambiente para las futuras generaciones.,We must take care of the environment for future generations.,,
+259,ausente,Estuvo ausente toda la semana por enfermedad.,He was absent all week due to illness.,,
+260,el juguete,Le regalé un juguete nuevo a mi sobrino.,I gave my nephew a new toy.,,
+261,ligero,Prefiero comer algo ligero antes de dormir.,I prefer to eat something light before sleeping.,,
+262,la leyenda,Esa leyenda se cuenta desde hace siglos.,That legend has been told for centuries.,,
+263,dudar,Ella dudaba de todo lo que le decían.,She used to doubt everything they told her.,Indicativo,Imperfecto
+264,la señorita,La señorita García será nuestra nueva profesora.,Miss García will be our new teacher.,,
+265,el recuerdo,Guardo un buen recuerdo de ese verano.,I keep a good memory of that summer.,,
+266,conversar,Conversábamos por horas cuando éramos jóvenes.,We used to talk for hours when we were young.,Indicativo,Imperfecto
+267,el comportamiento,Su comportamiento en clase mejoró mucho.,His behavior in class improved a lot.,,
+268,reemplazar,Él reemplazaba las piezas rotas él mismo.,He used to replace the broken parts himself.,Indicativo,Imperfecto
+269,rápidamente,Terminó la tarea rápidamente.,He finished the homework quickly.,,
+270,el fuego,Encendieron una fogata con fuego de leña.,They lit a bonfire with wood fire.,,
+271,el pasado,Prefiere no hablar de su pasado.,She prefers not to talk about her past.,,
+272,el juez,El juez dictó sentencia esta mañana.,The judge issued a ruling this morning.,,
+273,generoso,Fue muy generoso al donar tanto dinero.,He was very generous in donating so much money.,,
+274,cómico,Ese programa de televisión es muy cómico.,That TV show is very funny.,,
+275,el despertador,El despertador sonó a las seis de la mañana.,The alarm clock rang at six in the morning.,,
+276,el castigo,Le dieron un castigo por llegar tarde.,They gave him a punishment for arriving late.,,
+277,la receta,El médico me dio una receta para el dolor.,The doctor gave me a prescription for the pain.,,
+278,exigir,Mi jefe siempre exigía puntualidad.,My boss always used to demand punctuality.,Indicativo,Imperfecto
+279,disponible,¿Hay habitaciones disponibles para esta noche?,Are there rooms available for tonight?,,
+280,el significado,No conozco el significado de esa palabra.,I don't know the meaning of that word.,,
+281,tratar de,Ella trataba de terminar el proyecto sola.,She used to try to finish the project alone.,Indicativo,Imperfecto
+282,la nacionalidad,¿Cuál es tu nacionalidad?,What is your nationality?,,
+283,mudarse,Nos mudábamos de casa cada dos años cuando era niño.,We used to move house every two years when I was a kid.,Indicativo,Imperfecto
+284,enfrentar,Él enfrentaba cada obstáculo con calma.,He used to face every obstacle calmly.,Indicativo,Imperfecto
+285,robar,Ese ladrón robaba solo de noche.,That thief used to steal only at night.,Indicativo,Imperfecto
+286,el compañero,Mi compañero de trabajo me ayudó con el proyecto.,My work companion helped me with the project.,,
+287,soltero,Todavía está soltero a los treinta años.,He's still single at thirty.,,
+288,apenas,Apenas dormí anoche.,I barely slept last night.,,
+289,la pena,Es una pena que no puedas venir a la fiesta.,It's a shame you can't come to the party.,,
+290,estupendo,Hiciste un trabajo estupendo en el proyecto.,You did a great job on the project.,,
+291,claro,Sus instrucciones fueron muy claras.,His instructions were very clear.,,
+292,despedir,Mi jefe anterior despedía a la gente sin previo aviso.,My previous boss used to fire people without warning.,Indicativo,Imperfecto
+293,el camino,Tomamos el camino más corto a casa.,We took the shortest road home.,,
+294,el grado,La temperatura bajó diez grados esta noche.,The temperature dropped ten degrees tonight.,,
+295,genial,Fue una fiesta genial.,It was a great party.,,
+296,ir a,Ella iba a la escuela caminando todos los días.,She used to walk to school every day.,Indicativo,Imperfecto
+297,muchas gracias,Muchas gracias por tu ayuda con la mudanza.,Thank you very much for your help with the move.,,
+298,fascinar,Esa serie me fascinaba cuando era joven.,That show used to fascinate me when I was young.,Indicativo,Imperfecto
+299,respetar,Él respetaba mucho a sus maestros.,He used to respect his teachers a lot.,Indicativo,Imperfecto
+300,quitarse,Se quitaba el abrigo apenas llegaba a la oficina.,She used to take off her coat as soon as she arrived at the office.,Indicativo,Imperfecto
+301,la paz,Solo queremos vivir en paz.,We just want to live in peace.,,
+302,el hecho,El hecho es que nadie llamó a tiempo.,The fact is that no one called on time.,,
+303,interesar,Esa clase le interesaba mucho a mi hermano.,That class used to interest my brother a lot.,Indicativo,Imperfecto
+304,cobrar,Ella cobraba menos por sus servicios antes.,She used to charge less for her services before.,Indicativo,Imperfecto
+305,igual,Todos los empleados reciben un trato igual.,All employees receive equal treatment.,,
+306,buenas tardes,"Buenas tardes, ¿en qué puedo ayudarle?","Good afternoon, how can I help you?",,
+307,vago,Es demasiado vago para lavar los platos.,He's too lazy to wash the dishes.,,
+308,la clave,La paciencia es la clave del éxito.,Patience is the key to success.,,
+309,hermoso,El jardín se ve hermoso en primavera.,The garden looks beautiful in spring.,,
+310,probarse,Me probaba la ropa de mi hermana mayor.,I used to try on my older sister's clothes.,Indicativo,Imperfecto
+311,por supuesto,—¿Puedes ayudarme? —Por supuesto.,'Can you help me?' 'Of course.',,
+312,el oso,Vimos un oso desde lejos en el bosque.,We saw a bear from a distance in the forest.,,
+313,la sangre,El médico le sacó sangre para los análisis.,The doctor drew his blood for the tests.,,
+314,utilizar,Él utilizaba una máquina de escribir antigua.,He used to use an old typewriter.,Indicativo,Imperfecto
+315,flexible,Mi horario de trabajo es bastante flexible.,My work schedule is quite flexible.,,
+316,el enlace,Haz clic en el enlace para más información.,Click the link for more information.,,
+317,medir,El sastre medía la tela con mucho cuidado.,The tailor used to measure the fabric very carefully.,Indicativo,Imperfecto
+318,elegir,Elegíamos el menú juntos cada semana.,We used to choose the menu together every week.,Indicativo,Imperfecto
+319,relajarse,Nos relajábamos en la playa cada verano.,We used to relax at the beach every summer.,Indicativo,Imperfecto
+320,recorrer,Los turistas recorrían el museo con una guía.,The tourists used to go around the museum with a guide.,Indicativo,Imperfecto
+321,crecer,Él crecía muy rápido en esa época.,He was growing very fast at that time.,Indicativo,Imperfecto
+322,alquilar,Alquilaban una cabaña en las montañas todos los inviernos.,They used to rent a cabin in the mountains every winter.,Indicativo,Imperfecto
+323,aprovechar,Ella aprovechaba cada minuto libre para leer.,She used to take advantage of every free minute to read.,Indicativo,Imperfecto
+324,transmitir,Ese canal transmitía dibujos animados por la mañana.,That channel used to broadcast cartoons in the morning.,Indicativo,Imperfecto
+325,aumentar,Su sueldo aumentaba cada enero.,His salary used to increase every January.,Indicativo,Imperfecto
+326,cazar,Su abuelo cazaba en las montañas.,His grandfather used to hunt in the mountains.,Indicativo,Imperfecto
+327,colocar,Colocaba las herramientas en su lugar siempre.,He always used to put the tools back in place.,Indicativo,Imperfecto
+328,importar,Su opinión me importaba mucho antes.,His opinion used to matter a lot to me before.,Indicativo,Imperfecto
+329,presentar,Ella presentaba el programa de noticias cada noche.,She used to present the news program every night.,Indicativo,Imperfecto
+330,saltar,Ella saltaba la cuerda todos los recreos.,She used to jump rope every recess.,Indicativo,Imperfecto
+331,soler,Él solía cazar en las montañas.,He used to hunt in the mountains.,Indicativo,Imperfecto
+332,jubilarse,"Antes, la gente se jubilaba mucho más joven.","In the past, people used to retire much younger.",Indicativo,Imperfecto
+333,amenazar,Ese hombre amenazaba a sus vecinos constantemente.,That man used to threaten his neighbors constantly.,Indicativo,Imperfecto
+334,matar,Esa enfermedad mataba a miles de personas antes de la vacuna.,That disease used to kill thousands of people before the vaccine.,Indicativo,Imperfecto
+335,la vez,Esta es la primera vez que viajo solo.,This is the first time I've traveled alone.,,
+336,el puente,Cruzamos el puente para llegar al otro lado del río.,We crossed the bridge to get to the other side of the river.,,
+337,regalar,Mis abuelos nos regalaban dulces cada domingo.,My grandparents used to give us candy every Sunday.,Indicativo,Imperfecto
+338,el mensaje,Te dejé un mensaje en el buzón de voz.,I left you a message on voicemail.,,
+339,terrible,Tuvimos un día terrible en el trabajo.,We had a terrible day at work.,,
+340,el mundo,Quiere viajar por todo el mundo.,She wants to travel around the whole world.,,
+341,el sol,El sol sale muy temprano en verano.,The sun rises very early in summer.,,
+342,saludar,Ella saludaba a todos por su nombre.,She used to greet everyone by name.,Indicativo,Imperfecto
+343,soñar,"De niña, soñaba con ser astronauta.","As a girl, she used to dream of being an astronaut.",Indicativo,Imperfecto
+344,ocupado,Estoy muy ocupado esta semana con exámenes.,I'm very busy this week with exams.,,
+345,despedirse,Se despedían con un abrazo largo siempre.,They always used to say goodbye with a long hug.,Indicativo,Imperfecto
+346,tener que,Antes tenía que caminar una hora para llegar al trabajo.,"Before, I used to have to walk an hour to get to work.",Indicativo,Imperfecto
+347,romperse,Esa taza se rompía con facilidad.,That cup used to break easily.,Indicativo,Imperfecto
+348,destruir,Esa plaga destruía las cosechas cada año.,That plague used to destroy the crops every year.,Indicativo,Imperfecto
+349,lleno,El estadio estaba lleno de aficionados.,The stadium was full of fans.,,
+350,preocuparse,Mis padres se preocupaban si llegaba tarde.,My parents used to worry if I arrived late.,Indicativo,Imperfecto
+351,buenas noches,"Buenas noches, que descanses.","Good night, sleep well.",,
+352,volar,Él volaba en globo cada fin de semana.,He used to fly in a hot air balloon every weekend.,Indicativo,Imperfecto
+353,horrible,Tuvo una experiencia horrible en el hospital.,He had a horrible experience at the hospital.,,
+354,último,Este es el último tren de la noche.,This is the last train of the night.,,
+355,construir,Mi abuelo construía sus propios muebles.,My grandfather used to build his own furniture.,Indicativo,Imperfecto
+356,encender,Encendía una vela cada noche antes de dormir.,She used to light a candle every night before sleeping.,Indicativo,Imperfecto
+357,crear,Creaba historias fantásticas para sus hijos.,He used to create fantastic stories for his kids.,Indicativo,Imperfecto
+358,gritar,Mi vecino gritaba cada vez que discutía por teléfono.,My neighbor used to shout every time he argued on the phone.,Indicativo,Imperfecto
+359,describir,Ella describía sus viajes con mucha pasión.,She used to describe her trips with a lot of passion.,Indicativo,Imperfecto
+360,llorar,Ella lloraba cada vez que veía esa película.,She used to cry every time she watched that movie.,Indicativo,Imperfecto
+361,amar,Se amaban desde que eran niños.,They had loved each other since they were children.,Indicativo,Imperfecto
+362,decidir,Él decidía todo sin consultar a nadie.,He used to decide everything without consulting anyone.,Indicativo,Imperfecto
+363,la solución,Encontramos una solución rápida al problema.,We found a quick solution to the problem.,,
+364,el autor,El autor firmó ejemplares de su nuevo libro.,The author signed copies of his new book.,,
+365,famoso,Se hizo famoso después de su primera película.,He became famous after his first movie.,,
+366,la actividad,El campamento ofrece muchas actividades al aire libre.,The camp offers many outdoor activities.,,
+367,más o menos,Llegaremos en más o menos una hora.,We'll arrive in more or less an hour.,,
+368,internacional,Trabaja para una organización internacional.,She works for an international organization.,,
+369,original,Su idea era muy original.,His idea was very original.,,
+370,la letra,No recuerdo la letra de esa canción.,I don't remember the lyrics of that song.,,
+371,personal,Eso es un asunto muy personal.,That's a very personal matter.,,
+372,la recepción,Deja la llave en la recepción del hotel.,Leave the key at the hotel reception.,,
+373,el tráfico,El tráfico estaba terrible esta mañana.,Traffic was terrible this morning.,,
+374,la sociedad,La educación es clave para el progreso de la sociedad.,Education is key to the progress of society.,,
+375,organizado,Mi escritorio siempre está muy organizado.,My desk is always very organized.,,
+376,comunicarse,Nos comunicábamos por carta antes de tener internet.,We used to communicate by letter before having internet.,Indicativo,Imperfecto
+377,puro,Este aceite de oliva es puro.,This olive oil is pure.,,
+378,comunicación,La buena comunicación evita muchos malentendidos.,Good communication prevents many misunderstandings.,,
+379,la comunidad,Toda la comunidad ayudó a limpiar el parque.,The whole community helped clean the park.,,
+380,la ecología,Estudia ecología para proteger los océanos.,She studies ecology to protect the oceans.,,
+381,curioso,El niño es muy curioso y hace muchas preguntas.,The boy is very curious and asks a lot of questions.,,
+382,informar,Ella informaba a los clientes cada semana.,She used to inform the clients every week.,Indicativo,Imperfecto
+383,la violencia,La película muestra demasiada violencia.,The movie shows too much violence.,,
+384,fantástico,Tuvimos un viaje fantástico por Italia.,We had a fantastic trip through Italy.,,
+385,modesto,"A pesar de su éxito, sigue siendo muy modesto.","Despite his success, he remains very modest.",,
+386,el crítico,El crítico de cine elogió la actuación principal.,The film critic praised the lead performance.,,
+387,la vacación,Necesito una vacación después de tanto trabajo.,I need a vacation after so much work.,,
+388,la memoria,Tiene muy buena memoria para los nombres.,He has a very good memory for names.,,
+389,la conservación,El parque nacional se dedica a la conservación de especies.,The national park is dedicated to species conservation.,,
+390,la graduación,Mis padres vinieron a mi graduación.,My parents came to my graduation.,,
+391,la biología,La biología marina me parece fascinante.,Marine biology seems fascinating to me.,,
+392,la invitación,Recibimos la invitación para la boda ayer.,We received the wedding invitation yesterday.,,
+393,la acción,La película es de acción y aventura.,The movie is action and adventure.,,
+394,la inseguridad,Su inseguridad le impide hablar en público.,His insecurity keeps him from speaking in public.,,
+395,tradicional,Prepararon una comida tradicional para la fiesta.,They prepared a traditional meal for the party.,,
+396,la región,Esta región es famosa por sus vinos.,This region is famous for its wines.,,
+397,la internet,No funciona la internet en mi casa.,The internet isn't working at my house.,,
+398,manipular,Ella manipulaba la situación a su favor siempre.,She always used to manipulate the situation to her advantage.,Indicativo,Imperfecto
+399,el editor,El editor revisó todo el manuscrito antes de publicarlo.,The editor reviewed the whole manuscript before publishing it.,,
+400,la protección,Los guantes ofrecen protección contra el frío.,The gloves offer protection against the cold.,,
+401,la industria,La industria textil emplea a miles de personas.,The textile industry employs thousands of people.,,
+402,la electricidad,Se fue la electricidad durante la tormenta.,The electricity went out during the storm.,,
+403,la modelo,La modelo desfiló con un vestido rojo.,The model walked the runway in a red dress.,,
+404,la operación,La operación duró casi cuatro horas.,The operation lasted almost four hours.,,
+405,creativo,Necesitamos una solución creativa para este problema.,We need a creative solution for this problem.,,
+406,la economía,La economía del país creció el año pasado.,The country's economy grew last year.,,
+407,la geografía,Estudiamos la geografía de América del Sur.,We studied the geography of South America.,,
+408,la gasolina,El precio de la gasolina subió otra vez.,The price of gasoline went up again.,,
+409,especialmente,"Me gusta la fruta, especialmente las fresas.","I like fruit, especially strawberries.",,
+410,la víctima,La víctima del accidente ya está fuera de peligro.,The accident victim is already out of danger.,,
+411,controlar,Controlaba cada gasto de la empresa.,He used to control every company expense.,Indicativo,Imperfecto
+412,increíble,Vimos un espectáculo increíble anoche.,We saw an incredible show last night.,,
+413,la destrucción,El terremoto causó una destrucción enorme.,The earthquake caused enormous destruction.,,
+414,consumir,Consumía mucha cafeína antes de dejar el café.,He used to consume a lot of caffeine before quitting coffee.,Indicativo,Imperfecto
+415,la oportunidad,Le dieron la oportunidad de trabajar en el extranjero.,They gave him the opportunity to work abroad.,,
+416,regular,Vamos al gimnasio de manera regular.,We go to the gym on a regular basis.,,
+417,la dieta,Sigue una dieta baja en grasas.,He follows a low-fat diet.,,
+418,el defecto,El producto tenía un pequeño defecto de fábrica.,The product had a small factory defect.,,
+419,publicar,Publicaba fotos todos los días en su blog.,She used to publish photos every day on her blog.,Indicativo,Imperfecto
+420,la agricultura,La agricultura es la principal actividad de esta región.,Agriculture is the main activity of this region.,,
+421,atractivo,Encuentro muy atractivo su sentido del humor.,I find his sense of humor very attractive.,,
+422,separado,Mis padres están separados desde hace dos años.,My parents have been separated for two years.,,
+423,la cualidad,La honestidad es su mejor cualidad.,Honesty is his best quality.,,
+424,el planeta,Marte es el cuarto planeta desde el sol.,Mars is the fourth planet from the sun.,,
+425,informal,Fue una reunión bastante informal.,It was a fairly informal meeting.,,
+426,ecónomico,El país atraviesa una crisis económica.,The country is going through an economic crisis.,,
+427,la droga,La campaña advierte sobre los peligros de la droga.,The campaign warns about the dangers of drugs.,,
+428,el video,Subí un video nuevo a mi canal.,I uploaded a new video to my channel.,,
+429,contaminado,El agua del río está contaminada.,The river water is contaminated.,,
+430,violento,Esa escena de la película es muy violenta.,That scene in the movie is very violent.,,
+431,la discriminación,La ley protege a las personas contra la discriminación.,The law protects people against discrimination.,,
+432,independiente,Se mudó sola para ser más independiente.,She moved out on her own to be more independent.,,
+433,el objeto,Encontraron un objeto extraño en la playa.,They found a strange object on the beach.,,
+434,la obra de arte,Ese cuadro es una obra de arte increíble.,That painting is an incredible work of art.,,
+435,el salario,Recibió un aumento de salario este año.,He got a salary raise this year.,,
+436,la generosidad,Agradecemos su generosidad con los más necesitados.,We appreciate his generosity toward those in need.,,
+437,tener una cita,Tenía una cita cada mes con mi terapeuta.,I used to have an appointment every month with my therapist.,Indicativo,Imperfecto
+438,llamarse,Este lugar se llamaba de otra forma antes.,This place used to be called something else before.,Indicativo,Imperfecto
+439,la experiencia,Tiene mucha experiencia en atención al cliente.,She has a lot of experience in customer service.,,
+440,la especialidad,La paella es la especialidad de este restaurante.,Paella is this restaurant's specialty.,,
+441,la pensión,Recibe una pensión desde que se jubiló.,He receives a pension since he retired.,,
+442,desorganizado,Su escritorio siempre está desorganizado.,His desk is always disorganized.,,
+443,salir con,Salían juntos los fines de semana.,They used to go out together on weekends.,Indicativo,Imperfecto
+444,el estrés,El estrés del trabajo le afecta el sueño.,Work stress is affecting his sleep.,,
+445,el interés,El banco cobra un interés muy alto.,The bank charges very high interest.,,
+446,la relación,Llevan una relación muy sana.,They have a very healthy relationship.,,
+447,depositar,Depositaba una parte de su sueldo cada semana.,He used to deposit part of his salary every week.,Indicativo,Imperfecto
+448,el crimen,La policía investiga el crimen desde ayer.,The police have been investigating the crime since yesterday.,,
+449,la fecha de nacimiento,Escriba su fecha de nacimiento en el formulario.,Write your date of birth on the form.,,
+450,tener cuidado,Teníamos mucho cuidado con las herramientas.,We used to be very careful with the tools.,Indicativo,Imperfecto
+451,la información,Necesito más información antes de decidir.,I need more information before deciding.,,
+452,tener sueño,Siempre tenía sueño después de comer.,I always used to get sleepy after eating.,Indicativo,Imperfecto
+453,el correo electrónico,Te envié los documentos por correo electrónico.,I sent you the documents by email.,,
+454,complicado,El examen fue más complicado de lo esperado.,The exam was more complicated than expected.,,
+455,el músculo,Se lastimó un músculo de la pierna corriendo.,He hurt a leg muscle while running.,,
+456,la página web,Diseñó la página web de su nuevo negocio.,He designed the web page for his new business.,,
+457,inseguro,Se siente inseguro de hablar frente a mucha gente.,He feels insecure about speaking in front of a lot of people.,,
+458,ecológico,Compramos productos de limpieza ecológicos.,We buy ecological cleaning products.,,
+459,el candidato,El candidato ganó las elecciones por poco margen.,The candidate won the election by a small margin.,,
+460,lavarse la cara,Se lavaba la cara con agua fría cada mañana.,She used to wash her face with cold water every morning.,Indicativo,Imperfecto
+461,la campaña,Lanzaron una campaña publicitaria muy exitosa.,They launched a very successful advertising campaign.,,
+462,tener celos,"De niño, tenía celos de mi hermano mayor.","As a kid, I used to be jealous of my older brother.",Indicativo,Imperfecto
+463,talentoso,Es un músico muy talentoso.,He's a very talented musician.,,
+464,el contrato,Firmamos el contrato de alquiler ayer.,We signed the rental contract yesterday.,,
+465,tener razón,Mi madre siempre tenía razón en esas cosas.,My mother was always right about those things.,Indicativo,Imperfecto
+466,la demanda,Hay una gran demanda de productos orgánicos.,There's a great demand for organic products.,,
+467,insistir en,Insistía en hacer todo sola.,She used to insist on doing everything alone.,Indicativo,Imperfecto
+468,la justicia,Buscan justicia para las víctimas del accidente.,They seek justice for the accident victims.,,
+469,práctico,Es más práctico tomar el metro que el coche.,It's more practical to take the subway than the car.,,
+470,vuestro,¿Es este vuestro coche?,Is this your car?,,
+471,estresado,Está muy estresado por los exámenes finales.,He's very stressed about the final exams.,,
+472,la estatua,Tomamos fotos junto a la estatua del parque.,We took photos next to the park statue.,,
+473,el desastre,La fiesta terminó siendo un desastre.,The party ended up being a disaster.,,
+474,el divorcio,Sus padres pasaron por un divorcio difícil.,His parents went through a difficult divorce.,,
+475,el aumento,Pidió un aumento de sueldo a su jefe.,He asked his boss for a raise.,,
+476,el laboratorio,Los científicos trabajan en el laboratorio toda la noche.,The scientists work in the laboratory all night.,,
+477,quitar la mesa,Mi hermano quitaba la mesa todas las noches.,My brother used to clear the table every night.,Indicativo,Imperfecto
+478,el campeón,Fue campeón del torneo dos años seguidos.,He was the tournament champion two years in a row.,,
+479,tener éxito,Tenían éxito gracias a su buen equipo.,They were successful thanks to their good team.,Indicativo,Imperfecto
+480,llevarse bien,Nos llevábamos bien a pesar de las diferencias.,We used to get along despite our differences.,Indicativo,Imperfecto
+481,el sitio web,Compré las entradas en el sitio web oficial.,I bought the tickets on the official website.,,
+482,la responsabilidad,Cuidar del perro es tu responsabilidad.,Taking care of the dog is your responsibility.,,
+484,hablador,Mi tío es muy hablador en las reuniones familiares.,My uncle is very talkative at family gatherings.,,
+485,el punto de vista,"Respeto tu punto de vista, aunque no esté de acuerdo.","I respect your point of view, even though I don't agree.",,
+486,el archivo,Adjunté el archivo en el correo.,I attached the file to the email.,,
+487,llegar tarde,Llegaba tarde todos los lunes.,She used to arrive late every Monday.,Indicativo,Imperfecto
+488,el reportaje,Vimos un reportaje sobre el cambio climático.,We watched a report about climate change.,,
+489,el juego de mesa,Jugamos un juego de mesa después de cenar.,We played a board game after dinner.,,
+490,el entrevistador,El entrevistador hizo preguntas muy difíciles.,The interviewer asked very difficult questions.,,
+491,la estrategia,El equipo cambió su estrategia en el segundo tiempo.,The team changed its strategy in the second half.,,
+492,la deforestación,La deforestación amenaza a muchas especies animales.,Deforestation threatens many animal species.,,
+493,lujoso,Se hospedaron en un hotel lujoso durante la luna de miel.,They stayed at a luxurious hotel during their honeymoon.,,
+494,la infancia,Pasó su infancia en un pequeño pueblo.,He spent his childhood in a small town.,,
+495,la crítica,El libro recibió muy buena crítica.,The book received very good reviews.,,
+496,el invitado,El invitado de honor llegó tarde a la cena.,The guest of honor arrived late to the dinner.,,
+497,disfrutar de,Disfrutaban de largas caminatas los domingos.,They used to enjoy long walks on Sundays.,Indicativo,Imperfecto
+498,el consumo,El consumo de energía aumenta en verano.,Energy consumption increases in summer.,,
+499,escalar montañas,Escalaba montañas todos los veranos de joven.,She used to climb mountains every summer when she was young.,Indicativo,Imperfecto
+500,el recurso natural,El agua es un recurso natural muy valioso.,Water is a very valuable natural resource.,,
+501,realista,Tenemos que ser realistas sobre el plazo del proyecto.,We have to be realistic about the project deadline.,,
+502,estar a dieta,Siempre estaba a dieta antes del verano.,He was always on a diet before summer.,Indicativo,Imperfecto
+503,ir de vacaciones,Iban de vacaciones a la montaña todos los inviernos.,They used to go on vacation to the mountains every winter.,Indicativo,Imperfecto
+504,hacer un viaje,Mi familia hacía un viaje largo cada verano.,My family used to take a long trip every summer.,Indicativo,Imperfecto
+505,pasarlo mal,Lo pasaba mal cada vez que viajaba en avión.,She used to have a bad time every time she traveled by plane.,Indicativo,Imperfecto
+506,sostenible,Buscan un modelo de desarrollo más sostenible.,They are looking for a more sustainable development model.,,
+507,el reportero,El reportero cubrió la noticia en vivo.,The reporter covered the news live.,,
+508,ganarse la vida,Mis abuelos se ganaban la vida en el campo.,My grandparents used to earn a living in the fields.,Indicativo,Imperfecto
+509,la manifestación,Miles de personas participaron en la manifestación.,Thousands of people took part in the demonstration.,,
+510,el usuario,La aplicación tiene más de un millón de usuarios.,The app has more than a million users.,,
+511,la sanidad,El gobierno invirtió más dinero en la sanidad pública.,The government invested more money in public healthcare.,,
+512,el desempleo,El desempleo bajó durante el último trimestre.,Unemployment dropped during the last quarter.,,
+513,el equilibrio,Es importante mantener el equilibrio entre trabajo y vida personal.,It's important to maintain a balance between work and personal life.,,
+514,el edificio de apartamentos,Viven en un edificio de apartamentos cerca del centro.,They live in an apartment building near downtown.,,
+515,llevarse mal,Mis padres se llevaban mal antes de divorciarse.,My parents used to get along badly before they got divorced.,Indicativo,Imperfecto
+516,el beneficio,La empresa tuvo grandes beneficios este trimestre.,The company had large profits this quarter.,,
+517,la ecologista,La ecologista organizó una protesta contra la tala de árboles.,The environmentalist organized a protest against tree cutting.,,
+518,la autoestima,Hacer deporte mejoró mucho su autoestima.,Playing sports greatly improved her self-esteem.,,
+519,nutritivo,Intentamos preparar comidas nutritivas para los niños.,We try to prepare nutritious meals for the kids.,,
+520,la diversión,El parque de diversiones es pura diversión para los niños.,The amusement park is pure fun for the kids.,,
+521,apasionado,Es un apasionado de la música clásica.,He's passionate about classical music.,,
+522,comentar,Comentábamos las películas después de verlas.,We used to discuss the movies after watching them.,Indicativo,Imperfecto
+523,el medicamento,Tienes que tomar este medicamento tres veces al día.,You have to take this medicine three times a day.,,
+524,el cambio climático,El cambio climático afecta a todo el planeta.,Climate change affects the whole planet.,,
+525,el agricultor,El agricultor cosecha maíz cada otoño.,The farmer harvests corn every fall.,,
+526,el funcionario,Trabaja como funcionario en el ayuntamiento.,He works as a civil servant at the city council.,,
+527,equilibrado,Es importante llevar una dieta equilibrada.,It's important to have a balanced diet.,,
+528,el enfado,Se le pasó el enfado después de hablar con ella.,His anger went away after talking with her.,,
+529,el petróleo,El precio del petróleo subió esta semana.,The price of oil went up this week.,,
+530,la publicidad,Trabaja en publicidad para una marca de ropa.,She works in advertising for a clothing brand.,,
+531,la entrega,La entrega del paquete tardó una semana.,The package delivery took a week.,,
+532,la ciencia ficción,Le encantan las películas de ciencia ficción.,He loves science fiction movies.,,
+533,la computación,Estudia computación en la universidad.,She studies computer science at university.,,
+534,el rescate,El equipo de rescate llegó rápidamente al lugar del accidente.,The rescue team arrived quickly at the accident site.,,
+535,el envase,Reciclamos el envase de plástico después de usarlo.,We recycle the plastic container after using it.,,
+536,la informática,Trabaja en el departamento de informática de la empresa.,He works in the company's computing department.,,
+537,el requisito,Cumplir con este requisito es obligatorio para el puesto.,Meeting this requirement is mandatory for the position.,,
+538,el campamento,Los niños fueron a un campamento de verano.,The kids went to a summer camp.,,
+539,el consumidor,La empresa escucha las quejas del consumidor.,The company listens to consumer complaints.,,
+540,elaborar,Elaboraba su propio pan cada semana.,She used to make her own bread every week.,Indicativo,Imperfecto
+541,la aspirante,La aspirante tuvo una entrevista excelente.,The applicant had an excellent interview.,,
+542,el ascenso,Recibió un ascenso después de cinco años en la empresa.,He received a promotion after five years at the company.,,
+543,el descubrimiento,El descubrimiento del nuevo fósil sorprendió a los científicos.,The discovery of the new fossil surprised scientists.,,
+544,el retraso,Hubo un retraso de dos horas en el vuelo.,There was a two-hour delay on the flight.,,
+545,la indígena,La comunidad indígena conserva sus tradiciones antiguas.,The indigenous community preserves its ancient traditions.,,
+546,el árbitro,El árbitro sacó tarjeta roja al jugador.,The referee showed the player a red card.,,
+547,el diseñador,El diseñador presentó su nueva colección de ropa.,The designer presented his new clothing collection.,,
+548,el préstamo,Pidieron un préstamo al banco para comprar la casa.,They took out a loan from the bank to buy the house.,,
+549,desigualdad,La desigualdad económica sigue siendo un gran problema.,Economic inequality remains a big problem.,,
+550,el ayuntamiento,El ayuntamiento aprobó el nuevo parque.,The city council approved the new park.,,
+551,pedir prestado,Pedía prestado libros de la biblioteca cada semana.,He used to borrow books from the library every week.,Indicativo,Imperfecto
+552,el malentendido,Todo fue un malentendido entre nosotros.,It was all a misunderstanding between us.,,
+553,empatar,Los equipos empataban con frecuencia esa temporada.,The teams used to tie frequently that season.,Indicativo,Imperfecto
+554,presumido,Es demasiado presumido con su nuevo coche.,He's too conceited about his new car.,,
+555,la inundación,La inundación destruyó varias casas del pueblo.,The flood destroyed several houses in the town.,,
+556,la sabiduría,Sus palabras reflejan mucha sabiduría.,His words reflect great wisdom.,,
+557,el calentamiento global,El calentamiento global está derritiendo los glaciares.,Global warming is melting the glaciers.,,
+558,adelgazar,Adelgazaba cada verano por el calor.,He used to lose weight every summer because of the heat.,Indicativo,Imperfecto
+559,aplaudir,Aplaudíamos cada vez que anotaba un gol.,We used to applaud every time he scored a goal.,Indicativo,Imperfecto
+560,el aficionado,Es un gran aficionado del fútbol.,He's a huge soccer fan.,,
+561,la sequía,La sequía afectó las cosechas de este año.,The drought affected this year's harvests.,,
+562,el título,Todavía no decidí el título de mi tesis.,I still haven't decided on the title of my thesis.,,
+563,el océano,El océano Pacífico es el más grande del mundo.,The Pacific Ocean is the largest in the world.,,
+564,adolescencia,"Durante la adolescencia, los cambios físicos son constantes.","During adolescence, physical changes are constant.",,
+565,grave,El paciente sufrió una lesión grave en el accidente.,The patient suffered a serious injury in the accident.,,
